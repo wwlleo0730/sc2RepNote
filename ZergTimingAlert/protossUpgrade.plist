@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Protoss Air Armor 1</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Armor 1.gif</string>
+		<key>name</key>
+		<string>Protoss Air Armor 1</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Protoss Air Armor 2</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Armor 2.gif</string>
+		<key>name</key>
+		<string>Protoss Air Armor 2</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Protoss Air Armor 3</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Armor 3.gif</string>
+		<key>name</key>
+		<string>Protoss Air Armor 3</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Protoss Air Weapons 1</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Weapons 1.gif</string>
+		<key>name</key>
+		<string>Protoss Air Weapons 1</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Protoss Air Weapons 2</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Weapons 2.gif</string>
+		<key>name</key>
+		<string>Protoss Air Weapons 2</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Protoss Air Weapons 3</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Air Weapons 3.gif</string>
+		<key>name</key>
+		<string>Protoss Air Weapons 3</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Protoss Ground Armor 1</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Armor 1.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Armor 1</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Protoss Ground Armor 2</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Armor 2.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Armor 2</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Protoss Ground Armor 3</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Armor 3.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Armor 3</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Protoss Ground Weapons 1</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Weapons 1.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Weapons 1</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Protoss Ground Weapons 2</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Weapons 2.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Weapons 2</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Protoss Ground Weapons 3</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Ground Weapons 3.gif</string>
+		<key>name</key>
+		<string>Protoss Ground Weapons 3</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Protoss Shields 1</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Shields 1.gif</string>
+		<key>name</key>
+		<string>Protoss Shields 1</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Protoss Shields 2</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Shields 2.gif</string>
+		<key>name</key>
+		<string>Protoss Shields 2</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Protoss Shields 3</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Shields 3.gif</string>
+		<key>name</key>
+		<string>Protoss Shields 3</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+</dict>
+</plist>

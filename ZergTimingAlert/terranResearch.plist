@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terran 250mm Strike Cannons</key>
+	<dict>
+		<key>img</key>
+		<string>Terran 250mm Strike Cannons.png</string>
+		<key>name</key>
+		<string>Terran 250mm Strike Cannons</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Behemoth Reactor</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Behemoth Reactor.gif</string>
+		<key>name</key>
+		<string>Terran Behemoth Reactor</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Terran Caduceus Reactor</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Caduceus Reactor.gif</string>
+		<key>name</key>
+		<string>Terran Caduceus Reactor</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Terran Cloaking Field</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Cloaking Field.png</string>
+		<key>name</key>
+		<string>Terran Cloaking Field</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Combat Shield</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Combat Shield.png</string>
+		<key>name</key>
+		<string>Terran Combat Shield</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Concussive Shells</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Concussive Shells.png</string>
+		<key>name</key>
+		<string>Terran Concussive Shells</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Terran Corvid Reactor</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Corvid Reactor.gif</string>
+		<key>name</key>
+		<string>Terran Corvid Reactor</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Durable Materials</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Durable Materials.gif</string>
+		<key>name</key>
+		<string>Terran Durable Materials</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Infernal Pre-Igniter</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infernal Pre-Igniter.png</string>
+		<key>name</key>
+		<string>Terran Infernal Pre-Igniter</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Moebius Reactor</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Moebius Reactor.gif</string>
+		<key>name</key>
+		<string>Terran Moebius Reactor</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Terran Nitro Packs</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Nitro Packs.png</string>
+		<key>name</key>
+		<string>Terran Nitro Packs</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Terran Personal Cloaking</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Cloaking Field.png</string>
+		<key>name</key>
+		<string>Terran Personal Cloaking</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>120</string>
+	</dict>
+	<key>Terran Seeker Missile</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Seeker Missile.png</string>
+		<key>name</key>
+		<string>Terran Seeker Missile</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Terran Siege Tech</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Siege Tech.gif</string>
+		<key>name</key>
+		<string>Terran Siege Tech</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Terran Stimpack</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Stimpack.png</string>
+		<key>name</key>
+		<string>Terran Stimpack</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>170</string>
+	</dict>
+	<key>Terran Weapon Refit</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Weapon Refit.png</string>
+		<key>name</key>
+		<string>Terran Weapon Refit</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+</dict>
+</plist>

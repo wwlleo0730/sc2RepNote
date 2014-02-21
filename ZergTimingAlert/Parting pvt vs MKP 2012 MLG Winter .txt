@@ -1,0 +1,731 @@
+0|Train Probe
+17|Train Probe
+28|Train Probe
+48|Build Pylon; target: x=41.0,y=162.0
+56|Train Probe
+68|Train Probe
+75|Train Probe
+75|Chrono Boost (Nexus); target: Nexus (102f4)
+94|Build Gateway; target: x=40.5,y=159.5
+100|Train Probe
+101|Chrono Boost (Nexus); target: Nexus (102f4)
+106|Train Probe
+116|Build Assimilator; target: Vespene Geyser (1024c)
+122|Train Probe
+134|Build Pylon; target: x=35.0,y=172.0
+139|Train Probe
+140|Chrono Boost (Nexus); target: Nexus (102f4)
+146|Train Probe
+162|Build Cybernetics Core; target: x=33.5,y=169.5
+170|Train Probe
+181|Train Probe
+195|Train Probe
+213|Research Protoss Warp Gate
+214|Train Stalker
+215|Chrono Boost (Nexus); target: Gateway (10340)
+218|Build Pylon; target: x=46.0,y=167.0
+220|Train Probe
+225|Chrono Boost (Nexus); target: Cybernetics Core (10378)
+234|Train Probe
+241|Set rally point; target: x=48.8,y=135.1
+258|Build Nexus; target: x=63.5,y=141.5
+268|Train Probe
+273|Train Probe
+273|Chrono Boost (Nexus); target: Nexus (102f4)
+274|Train Sentry
+279|Build Assimilator; target: Vespene Geyser (1028c)
+290|Train Probe
+298|Train Probe
+310|Build Gateway; target: x=46.5,y=164.5
+314|Build Gateway; target: x=46.5,y=161.5
+318|Train Sentry
+320|Train Probe
+322|Chrono Boost (Nexus); target: Nexus (102f4)
+325|Train Probe
+333|Build Pylon; target: x=60.0,y=143.0
+348|Build Forge; target: x=34.5,y=177.5
+353|Train Probe
+361|Train Probe
+363|Chrono Boost (Nexus); target: Nexus (103b8)
+364|Train Probe
+364|Train Probe
+369|Train Probe
+382|Build Robotics Facility; target: x=37.5,y=177.5
+390|Train Sentry (Warp gate); target: x=57.5,y=139.2
+391|Build Assimilator; target: Vespene Geyser (10288)
+397|Upgrade Protoss Ground Armor 1
+399|Train Probe
+402|Train Probe
+404|Chrono Boost (Nexus); target: Forge (10430)
+408|Train Probe
+409|Chrono Boost (Nexus); target: Nexus (103b8)
+414|Train Zealot (Warp gate); target: x=58.5,y=139.9
+420|Build Pylon; target: x=65.0,y=138.0
+424|Train Probe
+429|Train Zealot (Warp gate); target: x=57.5,y=139.3
+437|Build Twilight Council; target: x=37.5,y=177.5
+443|Build Assimilator; target: Vespene Geyser (10224)
+445|Train Probe
+448|Train Probe
+452|Chrono Boost (Nexus); target: Forge (10430)
+453|Train Observer
+454|Chrono Boost (Nexus); target: Robotics Facility (10464)
+459|Build Gateway; target: x=49.5,y=164.5
+460|Build Gateway; target: x=48.5,y=167.5
+468|Train Probe
+471|Train Probe
+477|Train Stalker (Warp gate); target: x=55.4,y=143.0
+482|Train Observer
+487|Train Stalker (Warp gate); target: x=55.6,y=140.6
+491|Train Probe
+491|Train Probe
+493|Chrono Boost (Nexus); target: Forge (10430)
+503|Build Pylon; target: x=60.0,y=145.0
+504|Build Pylon; target: x=60.0,y=147.0
+513|Build Templar Archives; target: x=38.5,y=174.5
+516|Upgrade Protoss Ground Weapons 1
+517|Chrono Boost (Nexus); target: Forge (10430)
+526|Train Observer
+532|Build Gateway; target: x=43.5,y=161.5
+533|Build Gateway; target: x=43.5,y=158.5
+538|Train Probe
+538|Train Probe
+540|Chrono Boost (Nexus); target: Forge (10430)
+544|Train Stalker (Warp gate); target: x=56.8,y=143.3
+552|Train Stalker (Warp gate); target: x=55.7,y=141.2
+560|Train Stalker (Warp gate); target: x=56.7,y=149.1
+563|Chrono Boost (Nexus); target: Forge (10430)
+566|Train Zealot (Warp gate); target: x=56.7,y=143.4
+566|Train Zealot (Warp gate); target: x=57.7,y=141.9
+572|Build Pylon; target: x=74.0,y=146.0
+582|Train High Templar (Warp gate); target: x=56.8,y=143.0
+588|Train Probe
+589|Feedback (High Templar); target: Medivac (10588)
+599|Train High Templar (Warp gate); target: x=56.3,y=141.8
+601|Train Zealot (Warp gate); target: x=59.8,y=143.3
+602|Train Zealot (Warp gate); target: x=59.3,y=139.7
+609|Archon Warp (High Templar or Dark Templar)
+614|Train Probe
+615|Chrono Boost (Nexus); target: Forge (10430)
+617|Build Pylon; target: x=44.0,y=176.0
+617|Build Pylon; target: x=42.0,y=176.0
+620|Build Assimilator; target: Vespene Geyser (10224)
+632|Build Nexus; target: x=23.5,y=135.5
+632|Build Pylon; target: x=28.0,y=135.0
+650|Train High Templar (Warp gate); target: x=57.7,y=151.9
+650|Train High Templar (Warp gate); target: x=57.1,y=146.0
+651|Train Zealot (Warp gate); target: x=57.0,y=142.5
+651|Train Zealot (Warp gate); target: x=57.8,y=141.9
+651|Train Zealot (Warp gate); target: x=57.8,y=143.4
+656|Archon Warp (High Templar or Dark Templar)
+657|Train Zealot (Warp gate); target: x=58.6,y=142.5
+658|Train Zealot (Warp gate); target: x=59.2,y=139.9
+666|Train Probe
+666|Train Probe
+668|Build Pylon; target: x=72.0,y=147.0
+673|Build Pylon; target: x=70.0,y=147.0
+682|Train Observer
+685|Build Pylon; target: x=13.0,y=134.0
+687|Chrono Boost (Nexus); target: Forge (10430)
+687|Upgrade Protoss Ground Armor 2
+690|Build Forge; target: x=35.5,y=174.5
+693|Build Gateway; target: x=51.5,y=167.5
+695|Build Pylon; target: x=58.0,y=165.0
+698|Train Probe
+698|Train Probe
+706|Train Observer
+712|Build Pylon; target: x=67.0,y=166.0
+717|Build Gateway; target: x=40.5,y=156.5
+718|Build Gateway; target: x=37.5,y=157.5
+728|Research Protoss Psionic Storm
+729|Chrono Boost (Nexus); target: Templar Archives (10554)
+729|Chrono Boost (Nexus); target: Forge (10430)
+730|Train Probe
+731|Train Probe
+735|Chrono Boost (Nexus); target: Robotics Facility (10464)
+740|Train High Templar (Warp gate); target: x=29.6,y=143.7
+741|Train Zealot (Warp gate); target: x=23.5,y=135.6
+741|Train Zealot (Warp gate); target: x=25.8,y=135.9
+755|Train Zealot (Warp gate); target: x=57.3,y=144.8
+755|Train Zealot (Warp gate); target: x=57.2,y=149.6
+755|Train Zealot (Warp gate); target: x=57.6,y=143.9
+760|Train High Templar (Warp gate); target: x=67.9,y=168.9
+761|Train Probe
+761|Train Probe
+762|Chrono Boost (Nexus); target: Forge (10430)
+763|Chrono Boost (Nexus); target: Templar Archives (10554)
+766|Build Gateway; target: x=55.5,y=164.5
+773|Build Assimilator; target: Vespene Geyser (10218)
+773|Build Assimilator; target: Vespene Geyser (10244)
+777|Train Probe
+777|Train Probe
+777|Chrono Boost (Nexus); target: Nexus (30580)
+780|Train Probe
+783|Train Probe
+788|Chrono Boost (Nexus); target: Forge (10430)
+788|Chrono Boost (Nexus); target: Templar Archives (10554)
+795|Train High Templar (Warp gate); target: x=29.5,y=137.8
+796|Build Pylon; target: x=22.0,y=132.0
+799|Train High Templar (Warp gate); target: x=33.5,y=143.5
+801|Train Probe
+801|Train Probe
+813|Train Zealot (Warp gate); target: x=55.8,y=143.4
+813|Train Zealot (Warp gate); target: x=55.5,y=143.9
+814|Train Zealot (Warp gate); target: x=55.7,y=141.0
+818|Train Probe
+819|Train Probe
+820|Chrono Boost (Nexus); target: Nexus (30580)
+822|Upgrade Protoss Ground Weapons 2
+823|Chrono Boost (Nexus); target: Forge (10430)
+827|Build Forge; target: x=35.5,y=174.5
+832|Build Gateway; target: x=55.5,y=161.5
+838|Train Probe
+838|Train Probe
+838|Train Probe
+848|Build Gateway; target: x=58.5,y=162.5
+851|Build Pylon; target: x=60.0,y=165.0
+851|Build Pylon; target: x=61.0,y=162.0
+854|Train Observer
+855|Train Observer
+855|Chrono Boost (Nexus); target: Robotics Facility (10464)
+863|Build Photon Cannon; target: x=30.0,y=168.0
+863|Build Pylon; target: x=31.0,y=161.0
+867|Train High Templar (Warp gate); target: x=55.0,y=143.1
+867|Train High Templar (Warp gate); target: x=54.8,y=142.9
+867|Train High Templar (Warp gate); target: x=55.5,y=143.6
+867|Train High Templar (Warp gate); target: x=55.5,y=141.2
+869|Train Zealot (Warp gate); target: x=57.9,y=141.1
+869|Train Zealot (Warp gate); target: x=57.1,y=143.2
+869|Train Zealot (Warp gate); target: x=57.1,y=143.5
+869|Train Zealot (Warp gate); target: x=57.2,y=139.1
+898|Psionic Storm (High Templar); target: x=31.5,y=111.4
+899|Psionic Storm (High Templar); target: x=29.6,y=111.3
+901|Psionic Storm (High Templar); target: x=31.7,y=107.4
+904|Feedback (High Templar); target: Medivac (10588)
+905|Archon Warp (High Templar or Dark Templar)
+905|Psionic Storm (High Templar); target: x=37.4,y=109.0
+907|Psionic Storm (High Templar); target: x=37.9,y=111.7
+908|Archon Warp (High Templar or Dark Templar)
+908|Archon Warp (High Templar or Dark Templar)
+917|Research Protoss Charge
+918|Research Protoss Charge
+918|Chrono Boost (Nexus); target: Twilight Council (104b8)
+918|Chrono Boost (Nexus); target: Forge (10794)
+919|Chrono Boost (Nexus); target: Forge (10430)
+919|Upgrade Protoss Ground Armor 3
+925|Train Zealot (Warp gate); target: x=56.8,y=142.3
+925|Train Zealot (Warp gate); target: x=55.6,y=143.2
+925|Train Zealot (Warp gate); target: x=59.2,y=143.8
+925|Train Zealot (Warp gate); target: x=57.0,y=143.6
+925|Train Zealot (Warp gate); target: x=59.5,y=139.6
+925|Train Zealot (Warp gate); target: x=56.0,y=139.6
+926|Train Zealot (Warp gate); target: x=57.8,y=139.4
+926|Train Zealot (Warp gate); target: x=59.6,y=142.3
+926|Train Zealot (Warp gate); target: x=57.5,y=139.7
+926|Train Zealot (Warp gate); target: x=59.8,y=141.6
+926|Train Zealot (Warp gate); target: x=61.6,y=140.9
+926|Train Zealot (Warp gate); target: x=61.1,y=135.6
+927|Train Zealot (Warp gate); target: x=62.7,y=135.2
+938|Chrono Boost (Nexus); target: Twilight Council (104b8)
+938|Chrono Boost (Nexus); target: Forge (10430)
+939|Chrono Boost (Nexus); target: Forge (10794)
+939|Train Probe
+940|Train Probe
+948|Build Nexus; target: x=83.5,y=164.5
+948|Build Pylon; target: x=89.0,y=163.0
+949|Build Pylon; target: x=78.0,y=163.0
+951|Chrono Boost (Nexus); target: Twilight Council (104b8)
+951|Chrono Boost (Nexus); target: Forge (10430)
+951|Chrono Boost (Nexus); target: Forge (10794)
+957|Train High Templar (Warp gate); target: x=55.0,y=151.2
+957|Train High Templar (Warp gate); target: x=56.2,y=143.0
+957|Train High Templar (Warp gate); target: x=57.8,y=143.4
+957|Train High Templar (Warp gate); target: x=57.5,y=139.9
+958|Train Zealot (Warp gate); target: x=54.7,y=142.4
+958|Train Zealot (Warp gate); target: x=55.9,y=140.1
+959|Train Zealot (Warp gate); target: x=55.8,y=139.1
+959|Train Zealot (Warp gate); target: x=57.5,y=139.0
+959|Train Zealot (Warp gate); target: x=57.9,y=137.7
+959|Train Zealot (Warp gate); target: x=58.6,y=139.4
+962|Chrono Boost (Nexus); target: Twilight Council (104b8)
+964|Train Observer
+969|Train High Templar (Warp gate); target: x=28.8,y=138.2
+969|Train Zealot (Warp gate); target: x=27.6,y=131.1
+969|Train Zealot (Warp gate); target: x=28.5,y=131.2
+970|Train Zealot (Warp gate); target: x=29.7,y=135.1
+970|Train Zealot (Warp gate); target: x=31.7,y=131.1
+970|Train Zealot (Warp gate); target: x=33.0,y=131.2
+975|Chrono Boost (Nexus); target: Forge (10430)
+981|Build Photon Cannon; target: x=89.0,y=161.0
+981|Build Photon Cannon; target: x=84.0,y=159.0
+986|Build Photon Cannon; target: x=74.0,y=140.0
+990|Train High Templar (Warp gate); target: x=19.9,y=135.0
+990|Train Zealot (Warp gate); target: x=23.3,y=130.6
+990|Train Zealot (Warp gate); target: x=23.8,y=129.0
+990|Train Zealot (Warp gate); target: x=25.5,y=129.2
+991|Train Zealot (Warp gate); target: x=26.3,y=131.3
+998|Train Zealot (Warp gate); target: x=90.6,y=162.1
+999|Train Zealot (Warp gate); target: x=87.7,y=167.0
+999|Train Zealot (Warp gate); target: x=85.6,y=158.7
+999|Train Zealot (Warp gate); target: x=86.6,y=159.0
+1010|Build Robotics Bay; target: x=47.5,y=175.5
+1018|Chrono Boost (Nexus); target: Twilight Council (104b8)
+1020|Upgrade Protoss Ground Weapons 3
+1021|Chrono Boost (Nexus); target: Forge (10430)
+1021|Chrono Boost (Nexus); target: Forge (10794)
+1022|Chrono Boost (Nexus); target: Forge (10794)
+1025|Train Zealot (Warp gate); target: x=86.6,y=164.6
+1025|Train Zealot (Warp gate); target: x=85.8,y=164.8
+1025|Train Zealot (Warp gate); target: x=86.8,y=159.2
+1025|Train Zealot (Warp gate); target: x=87.9,y=159.5
+1026|Train Zealot (Warp gate); target: x=87.5,y=159.1
+1028|Build Pylon; target: x=114.0,y=131.0
+1040|Train Observer
+1043|Psionic Storm (High Templar); target: x=123.1,y=104.0
+1044|Psionic Storm (High Templar); target: x=121.5,y=111.8
+1047|Psionic Storm (High Templar); target: x=115.5,y=105.2
+1048|Psionic Storm (High Templar); target: x=112.6,y=105.8
+1051|Build Pylon; target: x=123.0,y=115.0
+1056|Train Zealot (Warp gate); target: x=86.6,y=165.7
+1056|Train Zealot (Warp gate); target: x=86.8,y=163.8
+1056|Train Zealot (Warp gate); target: x=85.8,y=164.2
+1056|Train Zealot (Warp gate); target: x=88.4,y=159.7
+1056|Train Zealot (Warp gate); target: x=87.1,y=158.9
+1057|Train Zealot (Warp gate); target: x=88.1,y=158.1
+1057|Train Zealot (Warp gate); target: x=88.8,y=159.4
+1065|Train High Templar (Warp gate); target: x=54.8,y=143.3
+1065|Train High Templar (Warp gate); target: x=54.5,y=142.0
+1065|Train High Templar (Warp gate); target: x=55.4,y=143.7
+1065|Train High Templar (Warp gate); target: x=55.9,y=139.5
+1077|Train Observer
+1082|Build Assimilator; target: Vespene Geyser (1027c)
+1082|Build Assimilator; target: Vespene Geyser (1022c)
+1084|Build Robotics Facility; target: x=58.5,y=139.5
+1114|Train Zealot (Warp gate); target: x=59.6,y=143.8
+1114|Train Zealot (Warp gate); target: x=59.0,y=143.4
+1115|Train Zealot (Warp gate); target: x=60.6,y=142.5
+1115|Train Zealot (Warp gate); target: x=61.5,y=139.2
+1115|Train Zealot (Warp gate); target: x=61.3,y=137.0
+1115|Train Zealot (Warp gate); target: x=62.6,y=136.7
+1115|Train Zealot (Warp gate); target: x=61.6,y=135.9
+1115|Train Zealot (Warp gate); target: x=63.5,y=135.9
+1116|Train Zealot (Warp gate); target: x=63.8,y=135.1
+1116|Train Zealot (Warp gate); target: x=63.9,y=133.2
+1116|Train Zealot (Warp gate); target: x=65.2,y=133.0
+1117|Train Zealot (Warp gate); target: x=67.5,y=135.1
+1117|Train Zealot (Warp gate); target: x=66.5,y=135.3
+1124|Archon Warp (High Templar or Dark Templar)
+1125|Archon Warp (High Templar or Dark Templar)
+1145|Train Zealot (Warp gate); target: x=111.5,y=135.5
+1145|Train Zealot (Warp gate); target: x=110.3,y=131.3
+1145|Train Zealot (Warp gate); target: x=110.1,y=130.2
+1145|Train Zealot (Warp gate); target: x=111.7,y=135.7
+1146|Train Zealot (Warp gate); target: x=111.7,y=127.8
+1146|Train Zealot (Warp gate); target: x=110.3,y=127.3
+1146|Train Zealot (Warp gate); target: x=110.8,y=127.7
+1146|Train Zealot (Warp gate); target: x=111.7,y=127.0
+1146|Train Zealot (Warp gate); target: x=113.8,y=126.3
+1146|Train Zealot (Warp gate); target: x=113.7,y=127.6
+1146|Train Zealot (Warp gate); target: x=115.6,y=127.9
+1147|Train Zealot (Warp gate); target: x=115.6,y=127.1
+1147|Train Zealot (Warp gate); target: x=115.4,y=125.5
+1147|Train Zealot (Warp gate); target: x=117.7,y=127.6
+1148|Train Zealot (Warp gate); target: x=119.6,y=135.
+1155|Train Zealot (Warp gate); target: x=89.0,y=157.6
+1155|Train Zealot (Warp gate); target: x=89.8,y=158.5
+1156|Train Zealot (Warp gate); target: x=91.5,y=159.8
+1156|Train Zealot (Warp gate); target: x=91.6,y=162.8
+1156|Train Zealot (Warp gate); target: x=91.8,y=159.6
+1156|Train Zealot (Warp gate); target: x=92.8,y=159.6
+1170|Train Colossus
+1171|Psionic Storm (High Templar); target: x=83.8,y=119.7
+1172|Psionic Storm (High Templar); target: x=79.7,y=117.7
+1172|Archon Warp (High Templar or Dark Templar)
+1174|Psionic Storm (High Templar); target: x=80.8,y=119.7
+1180|Train Colossus
+1180|Chrono Boost (Nexus); target: Robotics Facility (108a4)
+1182|Chrono Boost (Nexus); target: Robotics Facility (10464)
+1182|Research Protoss Extended Thermal Lance
+1183|Chrono Boost (Nexus); target: Robotics Bay (200d0)
+1184|Chrono Boost (Nexus); target: Forge (10430)
+1192|Train High Templar (Warp gate); target: x=57.8,y=143.4
+1192|Train High Templar (Warp gate); target: x=57.7,y=143.7
+1192|Train High Templar (Warp gate); target: x=56.2,y=142.4
+1192|Train High Templar (Warp gate); target: x=56.8,y=142.9
+1192|Train High Templar (Warp gate); target: x=57.4,y=139.5
+1193|Train Zealot (Warp gate); target: x=61.8,y=135.6
+1193|Train Zealot (Warp gate); target: x=61.8,y=135.0
+1194|Train Zealot (Warp gate); target: x=63.6,y=134.3
+1194|Train Zealot (Warp gate); target: x=63.5,y=135.0
+1200|Train Zealot (Warp gate); target: x=119.5,y=112.3
+1200|Train Zealot (Warp gate); target: x=121.7,y=110.7
+1200|Train Zealot (Warp gate); target: x=121.6,y=111.2
+1201|Train Zealot (Warp gate); target: x=122.5,y=111.0
+1205|Train High Templar (Warp gate); target: x=31.6,y=143.1
+1206|Train High Templar (Warp gate); target: x=31.1,y=135.9
+1206|Train Zealot (Warp gate); target: x=25.0,y=135.5
+1206|Train Zealot (Warp gate); target: x=27.4,y=135.4
+1219|Train Zealot (Warp gate); target: x=21.5,y=131.6
+1219|Train Zealot (Warp gate); target: x=21.9,y=135.4
+1220|Train Zealot (Warp gate); target: x=23.6,y=131.1
+1220|Train Zealot (Warp gate); target: x=24.8,y=129.9
+1225|Train Zealot (Warp gate); target: x=29.0,y=137.9
+1225|Train Zealot (Warp gate); target: x=30.5,y=141.6
+1225|Train Zealot (Warp gate); target: x=31.1,y=138.0
+1225|Train Zealot (Warp gate); target: x=32.9,y=135.1
+1248|Archon Warp (High Templar or Dark Templar)
+1248|Archon Warp (High Templar or Dark Templar)
+1248|Archon Warp (High Templar or Dark Templar)
+1250|Train Zealot (Warp gate); target: x=23.6,y=132.5
+1250|Train Zealot (Warp gate); target: x=23.6,y=135.2
+1251|Train Zealot (Warp gate); target: x=25.6,y=134.2
+1251|Train Zealot (Warp gate); target: x=24.8,y=131.5
+1251|Train Zealot (Warp gate); target: x=26.5,y=131.8
+1251|Train Zealot (Warp gate); target: x=27.8,y=134.5
+1251|Train Zealot (Warp gate); target: x=27.8,y=135.7
+1251|Train Zealot (Warp gate); target: x=27.5,y=135.3
+1252|Train Zealot (Warp gate); target: x=28.9,y=133.2
+1253|Train Zealot (Warp gate); target: x=29.8,y=131.6
+1259|Build Assimilator; target: Vespene Geyser (10218)
+1266|Upgrade Protoss Shield 1
+1267|Chrono Boost (Nexus); target: Forge (10794)
+1267|Chrono Boost (Nexus); target: Robotics Bay (200d0)
+1271|Train High Templar (Warp gate); target: x=55.8,y=143.6
+1271|Train High Templar (Warp gate); target: x=55.9,y=141.4
+1271|Train High Templar (Warp gate); target: x=55.9,y=139.3
+1288|Train Zealot (Warp gate); target: x=27.7,y=135.6
+1288|Train Zealot (Warp gate); target: x=26.1,y=134.5
+1289|Train Zealot (Warp gate); target: x=28.1,y=135.0
+1289|Train Zealot (Warp gate); target: x=25.0,y=131.3
+1289|Train Zealot (Warp gate); target: x=27.9,y=135.0
+1289|Train Zealot (Warp gate); target: x=29.6,y=135.9
+1290|Psionic Storm (High Templar); target: x=49.5,y=103.7
+1291|Psionic Storm (High Templar); target: x=43.3,y=103.1
+1292|Psionic Storm (High Templar); target: x=45.5,y=111.0
+1293|Psionic Storm (High Templar); target: x=43.3,y=111.6
+1294|Archon Warp (High Templar or Dark Templar)
+1295|Archon Warp (High Templar or Dark Templar)
+1295|Archon Warp (High Templar or Dark Templar)
+1296|Train Zealot (Warp gate); target: x=31.9,y=139.0
+1296|Train Zealot (Warp gate); target: x=31.2,y=135.1
+1296|Train Zealot (Warp gate); target: x=31.6,y=135.4
+1296|Train Zealot (Warp gate); target: x=31.6,y=131.6
+1297|Train Zealot (Warp gate); target: x=29.5,y=134.9
+1297|Train Zealot (Warp gate); target: x=28.6,y=131.8
+1297|Train Zealot (Warp gate); target: x=27.8,y=132.9
+1310|Train Probe
+1310|Train Probe
+1310|Chrono Boost (Nexus); target: Nexus (60434)
+1319|Train Stalker (Warp gate); target: x=55.8,y=151.4
+1320|Train Stalker (Warp gate); target: x=55.3,y=145.1
+1320|Train Stalker (Warp gate); target: x=55.5,y=143.4
+1320|Train Stalker (Warp gate); target: x=55.0,y=141.8
+1320|Train Stalker (Warp gate); target: x=55.8,y=140.6
+1320|Train Stalker (Warp gate); target: x=55.9,y=139.5
+1324|Train Probe
+1324|Train Probe
+1324|Chrono Boost (Nexus); target: Nexus (30580)
+1332|Train High Templar (Warp gate); target: x=56.6,y=151.3
+1332|Train High Templar (Warp gate); target: x=57.0,y=149.4
+1332|Train High Templar (Warp gate); target: x=56.3,y=146.6
+1333|Train High Templar (Warp gate); target: x=56.8,y=151.2
+1333|Train High Templar (Warp gate); target: x=55.9,y=143.5
+1333|Train High Templar (Warp gate); target: x=55.8,y=142.2
+1339|Train High Templar (Warp gate); target: x=59.1,y=143.6
+1339|Archon Warp (High Templar or Dark Templar)
+1339|Archon Warp (High Templar or Dark Templar)
+1340|Archon Warp (High Templar or Dark Templar)
+1340|Archon Warp (High Templar or Dark Templar)
+1340|Archon Warp (High Templar or Dark Templar)
+1340|Train Zealot (Warp gate); target: x=55.6,y=143.6
+1340|Train Zealot (Warp gate); target: x=55.6,y=143.6
+1341|Train Zealot (Warp gate); target: x=55.2,y=141.6
+1341|Train Zealot (Warp gate); target: x=55.8,y=143.7
+1352|Train Zealot (Warp gate); target: x=121.8,y=122.5
+1357|Train Zealot (Warp gate); target: x=121.5,y=110.5
+1358|Train Zealot (Warp gate); target: x=123.8,y=111.0
+1365|Build Nexus; target: x=140.5,y=126.5
+1368|Train High Templar (Warp gate); target: x=27.6,y=142.9
+1369|Train High Templar (Warp gate); target: x=29.9,y=143.9
+1369|Train High Templar (Warp gate); target: x=29.7,y=138.5
+1369|Train High Templar (Warp gate); target: x=31.5,y=137.7
+1375|Chrono Boost (Nexus); target: Forge (10794)
+1376|Research Protoss Blink
+1376|Research Protoss Blink
+1376|Research Protoss Blink
+1377|Chrono Boost (Nexus); target: Twilight Council (104b8)
+1379|Train Probe
+1379|Train Probe
+1379|Chrono Boost (Nexus); target: Nexus (102f4)
+1382|Train Probe
+1382|Train Probe
+1382|Chrono Boost (Nexus); target: Nexus (30580)
+1399|Train Zealot (Warp gate); target: x=55.2,y=143.7
+1399|Train Zealot (Warp gate); target: x=55.6,y=142.3
+1399|Train Zealot (Warp gate); target: x=55.9,y=141.1
+1399|Train Zealot (Warp gate); target: x=55.6,y=143.7
+1399|Train Zealot (Warp gate); target: x=55.8,y=139.2
+1399|Train Zealot (Warp gate); target: x=55.6,y=138.1
+1399|Train Zealot (Warp gate); target: x=56.9,y=139.8
+1409|Train High Templar (Warp gate); target: x=55.5,y=146.1
+1409|Train High Templar (Warp gate); target: x=55.6,y=142.7
+1409|Train High Templar (Warp gate); target: x=55.8,y=141.0
+1410|Train High Templar (Warp gate); target: x=56.8,y=143.8
+1411|Train Zealot (Warp gate); target: x=56.9,y=143.4
+1411|Train Zealot (Warp gate); target: x=56.5,y=142.6
+1411|Train Zealot (Warp gate); target: x=56.5,y=139.9
+1411|Train Zealot (Warp gate); target: x=56.5,y=139.4
+1415|Train Probe
+1415|Train Probe
+1415|Chrono Boost (Nexus); target: Nexus (60434)
+1417|Train Probe
+1417|Train Probe
+1417|Chrono Boost (Nexus); target: Nexus (103b8)
+1418|Chrono Boost (Nexus); target: Nexus (103b8)
+1419|Train Probe
+1420|Train Probe
+1420|Train Probe
+1420|Train Probe
+1420|Chrono Boost (Nexus); target: Nexus (30580)
+1421|Train Probe
+1421|Train Probe
+1427|Train High Templar (Warp gate); target: x=128.9,y=116.5
+1427|Train High Templar (Warp gate); target: x=128.5,y=118.2
+1432|Build Pylon; target: x=138.0,y=130.0
+1433|Build Pylon; target: x=164.0,y=126.0
+1440|Psionic Storm (High Templar); target: x=66.4,y=84.0
+1440|Psionic Storm (High Templar); target: x=69.5,y=86.5
+1441|Psionic Storm (High Templar); target: x=67.8,y=93.4
+1441|Psionic Storm (High Templar); target: x=65.5,y=87.7
+1444|Psionic Storm (High Templar); target: x=69.8,y=89.5
+1448|Feedback (High Templar); target: Medivac (308c8)
+1449|Archon Warp (High Templar or Dark Templar)
+1452|Psionic Storm (High Templar); target: x=61.6,y=95.4
+1459|Train Zealot (Warp gate); target: x=54.5,y=140.8
+1459|Train Zealot (Warp gate); target: x=54.7,y=141.8
+1459|Train Zealot (Warp gate); target: x=55.8,y=140.3
+1459|Train Zealot (Warp gate); target: x=55.1,y=141.2
+1460|Train Zealot (Warp gate); target: x=54.9,y=143.6
+1460|Train Zealot (Warp gate); target: x=55.7,y=139.3
+1460|Train Zealot (Warp gate); target: x=55.9,y=143.6
+1460|Train Zealot (Warp gate); target: x=57.0,y=139.9
+1460|Train Zealot (Warp gate); target: x=57.7,y=137.4
+1460|Train Zealot (Warp gate); target: x=59.8,y=139.1
+1461|Train Zealot (Warp gate); target: x=61.1,y=141.1
+1467|Train High Templar (Warp gate); target: x=56.7,y=147.2
+1467|Train High Templar (Warp gate); target: x=55.8,y=143.8
+1467|Train High Templar (Warp gate); target: x=55.8,y=141.9
+1467|Train High Templar (Warp gate); target: x=56.0,y=142.6
+1489|Psionic Storm (High Templar); target: x=55.6,y=127.9
+1489|Psionic Storm (High Templar); target: x=59.6,y=125.8
+1492|Psionic Storm (High Templar); target: x=55.6,y=125.8
+1492|Archon Warp (High Templar or Dark Templar)
+1493|Archon Warp (High Templar or Dark Templar)
+1494|Train Zealot (Warp gate); target: x=55.4,y=151.7
+1494|Train Zealot (Warp gate); target: x=55.4,y=144.3
+1494|Train Zealot (Warp gate); target: x=55.9,y=142.7
+1494|Train Zealot (Warp gate); target: x=55.7,y=141.9
+1494|Train Zealot (Warp gate); target: x=55.7,y=143.1
+1494|Train Zealot (Warp gate); target: x=55.5,y=143.6
+1494|Train Zealot (Warp gate); target: x=55.9,y=142.6
+1495|Train Zealot (Warp gate); target: x=56.4,y=138.2
+1495|Train Zealot (Warp gate); target: x=56.7,y=141.6
+1495|Train Zealot (Warp gate); target: x=57.9,y=139.2
+1495|Train Zealot (Warp gate); target: x=58.9,y=143.0
+1495|Train Zealot (Warp gate); target: x=58.8,y=143.1
+1500|Train High Templar (Warp gate); target: x=81.6,y=159.6
+1501|Train High Templar (Warp gate); target: x=85.6,y=164.1
+1504|Build Dark Shrine; target: x=41.0,y=170.0
+1515|Blink (Stalker); target: x=65.7,y=109.5
+1524|Train Stalker (Warp gate); target: x=54.0,y=143.9
+1525|Train Stalker (Warp gate); target: x=55.7,y=142.1
+1525|Train Stalker (Warp gate); target: x=55.9,y=140.8
+1525|Train Zealot (Warp gate); target: x=57.4,y=139.1
+1526|Train Zealot (Warp gate); target: x=58.6,y=136.6
+1526|Train Zealot (Warp gate); target: x=61.9,y=137.5
+1526|Train Zealot (Warp gate); target: x=61.8,y=140.7
+1526|Train Zealot (Warp gate); target: x=62.8,y=139.6
+1527|Train Zealot (Warp gate); target: x=62.6,y=135.9
+1531|Psionic Storm (High Templar); target: x=59.7,y=115.4
+1531|Psionic Storm (High Templar); target: x=57.7,y=119.9
+1534|Psionic Storm (High Templar); target: x=61.8,y=118.1
+1535|Psionic Storm (High Templar); target: x=61.8,y=117.1
+1537|Archon Warp (High Templar or Dark Templar)
+1544|Train Zealot (Warp gate); target: x=55.9,y=139.9
+1545|Train Zealot (Warp gate); target: x=55.3,y=143.3
+1545|Train Zealot (Warp gate); target: x=56.9,y=143.9
+1545|Train Zealot (Warp gate); target: x=57.8,y=143.9
+1545|Train Zealot (Warp gate); target: x=59.2,y=140.7
+1545|Train Zealot (Warp gate); target: x=60.9,y=135.9
+1551|Blink (Stalker); target: x=54.5,y=99.1
+1556|Train High Templar (Warp gate); target: x=56.5,y=142.5
+1556|Train High Templar (Warp gate); target: x=56.2,y=142.3
+1557|Train High Templar (Warp gate); target: x=55.8,y=141.3
+1557|Train High Templar (Warp gate); target: x=55.9,y=143.1
+1557|Train High Templar (Warp gate); target: x=55.6,y=143.2
+1557|Train High Templar (Warp gate); target: x=55.6,y=143.2
+1566|Train Zealot (Warp gate); target: x=57.9,y=145.6
+1566|Train Zealot (Warp gate); target: x=55.5,y=149.8
+1566|Train Zealot (Warp gate); target: x=57.8,y=149.2
+1566|Train Zealot (Warp gate); target: x=57.6,y=143.0
+1575|Psionic Storm (High Templar); target: x=111.8,y=23.1
+1582|Psionic Storm (High Templar); target: x=111.0,y=23.7
+1587|Blink (Stalker); target: x=51.3,y=125.7
+1590|Train Stalker (Warp gate); target: x=60.5,y=138.7
+1590|Train Colossus
+1590|Train Colossus
+1591|Chrono Boost (Nexus); target: Robotics Facility (108a4)
+1592|Chrono Boost (Nexus); target: Robotics Facility (10464)
+1594|Build Assimilator; target: Vespene Geyser (10250)
+1598|Build Assimilator; target: Vespene Geyser (10254)
+1599|Build Photon Cannon; target: x=138.0,y=135.0
+1599|Build Photon Cannon; target: x=141.0,y=135.0
+1599|Build Photon Cannon; target: x=143.0,y=134.0
+1609|Train Stalker (Warp gate); target: x=93.1,y=164.2
+1609|Train Stalker (Warp gate); target: x=93.8,y=163.1
+1609|Train Stalker (Warp gate); target: x=93.3,y=163.9
+1609|Train Stalker (Warp gate); target: x=92.2,y=166.9
+1618|Train High Templar (Warp gate); target: x=31.0,y=143.6
+1618|Train High Templar (Warp gate); target: x=31.5,y=139.3
+1619|Train Zealot (Warp gate); target: x=25.3,y=135.9
+1619|Train Zealot (Warp gate); target: x=25.6,y=135.0
+1619|Train Zealot (Warp gate); target: x=25.7,y=134.3
+1619|Train Zealot (Warp gate); target: x=27.3,y=134.0
+1619|Train Zealot (Warp gate); target: x=27.5,y=134.3
+1623|Train Dark Templar (Warp gate); target: x=136.9,y=135.7
+1623|Train Dark Templar (Warp gate); target: x=135.7,y=130.5
+1625|Train Zealot (Warp gate); target: x=135.8,y=127.6
+1626|Train Zealot (Warp gate); target: x=134.9,y=127.8
+1630|Train Probe
+1630|Train Probe
+1631|Chrono Boost (Nexus); target: Nexus (1106c4)
+1637|Build Pylon; target: x=31.0,y=88.0
+1638|Train Zealot (Warp gate); target: x=33.0,y=137.3
+1644|Train Dark Templar (Warp gate); target: x=123.3,y=111.5
+1644|Train Dark Templar (Warp gate); target: x=123.5,y=109.1
+1644|Train Dark Templar (Warp gate); target: x=124.7,y=111.5
+1652|Chrono Boost (Nexus); target: Robotics Facility (108a4)
+1653|Chrono Boost (Nexus); target: Robotics Facility (10464)
+1654|Upgrade Protoss Shield 2
+1654|Upgrade Protoss Shield 2
+1655|Chrono Boost (Nexus); target: Forge (10794)
+1657|Train Zealot (Warp gate); target: x=62.0,y=135.3
+1657|Train Zealot (Warp gate); target: x=62.3,y=135.8
+1657|Train Zealot (Warp gate); target: x=62.5,y=135.1
+1657|Train Zealot (Warp gate); target: x=63.8,y=135.2
+1670|Build Nexus; target: x=27.5,y=83.5
+1673|Train High Templar (Warp gate); target: x=29.9,y=91.4
+1673|Train High Templar (Warp gate); target: x=31.0,y=83.0
+1673|Train High Templar (Warp gate); target: x=33.3,y=83.3
+1673|Train High Templar (Warp gate); target: x=32.7,y=83.6
+1686|Train Observer
+1689|Psionic Storm (High Templar); target: x=73.4,y=78.1
+1689|Psionic Storm (High Templar); target: x=75.5,y=78.7
+1691|Psionic Storm (High Templar); target: x=80.4,y=78.8
+1692|Psionic Storm (High Templar); target: x=81.5,y=83.9
+1692|Psionic Storm (High Templar); target: x=83.6,y=85.3
+1692|Psionic Storm (High Templar); target: x=83.5,y=83.5
+1692|Psionic Storm (High Templar); target: x=84.0,y=86.0
+1695|Blink (Stalker); target: x=64.8,y=95.8
+1701|Train Zealot (Warp gate); target: x=57.2,y=150.0
+1702|Train Zealot (Warp gate); target: x=55.5,y=144.7
+1702|Train Zealot (Warp gate); target: x=55.4,y=143.2
+1702|Train Zealot (Warp gate); target: x=55.5,y=142.3
+1702|Train Zealot (Warp gate); target: x=55.0,y=143.6
+1702|Train Zealot (Warp gate); target: x=54.6,y=143.0
+1706|Blink (Stalker); target: x=65.6,y=93.9
+1712|Build Nexus; target: x=165.5,y=149.5
+1712|Build Pylon; target: x=160.0,y=151.0
+1713|Build Pylon; target: x=167.0,y=143.0
+1730|Train Dark Templar (Warp gate); target: x=123.6,y=111.0
+1730|Train Dark Templar (Warp gate); target: x=123.7,y=111.5
+1736|Train Dark Templar (Warp gate); target: x=56.1,y=139.6
+1740|Build Gateway; target: x=57.5,y=169.5
+1740|Build Gateway; target: x=61.5,y=169.5
+1740|Build Gateway; target: x=65.5,y=169.5
+1741|Build Gateway; target: x=68.5,y=169.5
+1753|Build Photon Cannon; target: x=28.0,y=92.0
+1754|Build Photon Cannon; target: x=31.0,y=90.0
+1755|Build Photon Cannon; target: x=35.0,y=87.0
+1790|Psionic Storm (High Templar); target: x=95.0,y=31.6
+1791|Feedback (High Templar); target: Ghost (10086c)
+1792|Feedback (High Templar); target: Ghost (0)
+1793|Feedback (High Templar); target: Ghost (a04b0)
+1793|Feedback (High Templar); target: Ghost (a04b0)
+1793|Feedback (High Templar); target: Ghost (a04b0)
+1793|Feedback (High Templar); target: Ghost (d0490)
+1793|Feedback (High Templar); target: Ghost (1405a0)
+1795|Feedback (High Templar); target: Ghost (1608d0)
+1796|Psionic Storm (High Templar); target: x=99.6,y=39.6
+1796|Psionic Storm (High Templar); target: x=99.9,y=37.9
+1796|Psionic Storm (High Templar); target: x=101.2,y=37.2
+1800|Psionic Storm (High Templar); target: x=103.9,y=39.7
+1804|Psionic Storm (High Templar); target: x=97.6,y=39.7
+1806|Archon Warp (High Templar or Dark Templar)
+1809|Train High Templar (Warp gate); target: x=61.5,y=141.1
+1809|Train High Templar (Warp gate); target: x=63.3,y=135.6
+1809|Train High Templar (Warp gate); target: x=65.7,y=134.7
+1810|Train High Templar (Warp gate); target: x=67.4,y=135.3
+1810|Train High Templar (Warp gate); target: x=67.7,y=133.7
+1810|Train High Templar (Warp gate); target: x=67.9,y=135.7
+1833|Train Zealot (Warp gate); target: x=31.1,y=95.4
+1834|Train Zealot (Warp gate); target: x=33.0,y=93.5
+1834|Train Zealot (Warp gate); target: x=33.6,y=92.8
+1834|Train Zealot (Warp gate); target: x=33.4,y=95.5
+1839|Psionic Storm (High Templar); target: x=60.0,y=108.6
+1839|Psionic Storm (High Templar); target: x=61.9,y=113.1
+1842|Psionic Storm (High Templar); target: x=58.7,y=111.6
+1842|Psionic Storm (High Templar); target: x=57.2,y=112.4
+1843|Psionic Storm (High Templar); target: x=57.5,y=111.2
+1848|Train Zealot (Warp gate); target: x=57.8,y=151.3
+1848|Train Zealot (Warp gate); target: x=56.7,y=143.3
+1848|Train Zealot (Warp gate); target: x=56.1,y=143.8
+1848|Train Zealot (Warp gate); target: x=55.9,y=142.1
+1851|Archon Warp (High Templar or Dark Templar)
+1852|Archon Warp (High Templar or Dark Templar)
+1853|Train Zealot (Warp gate); target: x=63.7,y=135.2
+1854|Train Zealot (Warp gate); target: x=63.0,y=134.6
+1857|Train Zealot (Warp gate); target: x=55.8,y=142.8
+1857|Train Zealot (Warp gate); target: x=55.8,y=141.7
+1857|Train Zealot (Warp gate); target: x=55.7,y=142.3
+1861|Psionic Storm (High Templar); target: x=55.3,y=139.1
+1862|Psionic Storm (High Templar); target: x=55.7,y=143.3
+1862|Psionic Storm (High Templar); target: x=55.8,y=143.6
+1867|Psionic Storm (High Templar); target: x=50.6,y=133.4
+1868|Psionic Storm (High Templar); target: x=47.8,y=135.4
+1870|Blink (Stalker); target: x=57.9,y=146.6
+1871|Psionic Storm (High Templar); target: x=51.9,y=141.3
+1872|Train Zealot (Warp gate); target: x=56.1,y=151.5
+1872|Train Zealot (Warp gate); target: x=57.4,y=151.6
+1872|Train Zealot (Warp gate); target: x=57.5,y=148.2
+1872|Train Zealot (Warp gate); target: x=57.7,y=151.4
+1872|Train Zealot (Warp gate); target: x=57.7,y=151.1
+1872|Train Zealot (Warp gate); target: x=58.2,y=144.9
+1873|Train Zealot (Warp gate); target: x=57.5,y=143.6
+1873|Train Zealot (Warp gate); target: x=57.6,y=143.8
+1873|Train Zealot (Warp gate); target: x=56.3,y=143.2
+1879|Build Nexus; target: x=56.5,y=157.5
+1880|Build Nexus; target: x=50.5,y=157.5
+1881|Build Nexus; target: x=64.5,y=161.5
+1884|Build Nexus; target: x=69.5,y=162.5
+1884|Build Nexus; target: x=69.5,y=162.5
+1884|Build Nexus; target: x=69.5,y=162.5
+1890|Psionic Storm (High Templar); target: x=75.4,y=167.0
+1894|Psionic Storm (High Templar); target: x=75.7,y=168.4
+1932|Build Gateway; target: x=165.5,y=137.5
+1932|Build Gateway; target: x=169.5,y=138.5
+1933|Build Gateway; target: x=170.5,y=140.5
+1933|Build Gateway; target: x=163.5,y=140.5
+1933|Build Gateway; target: x=161.5,y=143.5
+1934|Build Gateway; target: x=157.5,y=156.5
+1934|Build Gateway; target: x=156.5,y=150.5
+1935|Build Gateway; target: x=156.5,y=147.5
+1935|Build Assimilator; target: Vespene Geyser (10270)
+1936|Build Assimilator; target: Vespene Geyser (10234)
+1942|Blink (Stalker); target: x=95.9,y=61.9
+1950|Train Colossus
+1950|Train Colossus
+1953|Psionic Storm (High Templar); target: x=75.0,y=55.4
+1955|Feedback (High Templar); target: Medivac (1f05e0)
+1955|Feedback (High Templar); target: Medivac (140468)
+1956|Archon Warp (High Templar or Dark Templar)

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Assimilator</key>
+	<dict>
+		<key>img</key>
+		<string>assimilator.png</string>
+		<key>name</key>
+		<string>Assimilator</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>30</string>
+	</dict>
+	<key>Cybernetics Core</key>
+	<dict>
+		<key>img</key>
+		<string>cyberneticscore.png</string>
+		<key>name</key>
+		<string>Cybernetics Core</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Dark Shrine</key>
+	<dict>
+		<key>img</key>
+		<string>darkshrine.png</string>
+		<key>name</key>
+		<string>Dark Shrine</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Fleet Beacon</key>
+	<dict>
+		<key>img</key>
+		<string>fleetbeacon.png</string>
+		<key>name</key>
+		<string>Fleet Beacon</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Forge</key>
+	<dict>
+		<key>img</key>
+		<string>forge.png</string>
+		<key>name</key>
+		<string>Forge</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>45</string>
+	</dict>
+	<key>Gateway</key>
+	<dict>
+		<key>img</key>
+		<string>gateway.png</string>
+		<key>name</key>
+		<string>Gateway</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Nexus</key>
+	<dict>
+		<key>img</key>
+		<string>nexus.png</string>
+		<key>name</key>
+		<string>Nexus</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Photon Cannon</key>
+	<dict>
+		<key>img</key>
+		<string>photoncannon.png</string>
+		<key>name</key>
+		<string>Photon Cannon</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>40</string>
+	</dict>
+	<key>Pylon</key>
+	<dict>
+		<key>img</key>
+		<string>pylon.png</string>
+		<key>name</key>
+		<string>Pylon</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>25</string>
+	</dict>
+	<key>Robotics Bay</key>
+	<dict>
+		<key>img</key>
+		<string>roboticsbay.png</string>
+		<key>name</key>
+		<string>Robotics Bay</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Robotics Facility</key>
+	<dict>
+		<key>img</key>
+		<string>roboticsfacility.png</string>
+		<key>name</key>
+		<string>Robotics Facility</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Stargate</key>
+	<dict>
+		<key>img</key>
+		<string>stargate.png</string>
+		<key>name</key>
+		<string>Stargate</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Templar Archives</key>
+	<dict>
+		<key>img</key>
+		<string>templararchives.png</string>
+		<key>name</key>
+		<string>Templar Archives</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Twilight Council</key>
+	<dict>
+		<key>img</key>
+		<string>twilightcouncil.png</string>
+		<key>name</key>
+		<string>Twilight Council</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Warp Gate</key>
+	<dict>
+		<key>name</key>
+		<string>Warp Gate</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>15</string>
+	</dict>
+</dict>
+</plist>

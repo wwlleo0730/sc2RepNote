@@ -1,0 +1,57 @@
+1|Train Probe
+17|Train Probe
+28|Train Probe
+50|Build Pylon; target: x=129.0,y=113.0
+58|Train Probe
+67|Train Probe
+77|Chrono Boost (Nexus); target: Nexus (102a8)
+78|Train Probe
+97|Build Gateway; target: x=128.5,y=118.5
+103|Train Probe
+104|Chrono Boost (Nexus); target: Nexus (102a8)
+111|Train Probe
+120|Build Assimilator; target: Space Platform Geyser (101e0)
+127|Train Probe
+133|Train Probe
+144|Build Pylon; target: x=146.0,y=105.0
+164|Build Cybernetics Core; target: x=131.5,y=116.5
+167|Train Probe
+180|Train Zealot
+186|Train Probe
+200|Train Probe
+215|Research Protoss Warp Gate
+215|Train Stalker
+216|Chrono Boost (Nexus); target: Cybernetics Core (2031c)
+220|Train Probe
+230|Build Pylon; target: x=132.0,y=98.0
+232|Train Probe
+238|Chrono Boost (Nexus); target: Cybernetics Core (2031c)
+255|Build Gateway; target: x=145.5,y=102.5
+262|Chrono Boost (Nexus); target: Cybernetics Core (2031c)
+264|Build Gateway; target: x=145.5,y=99.5
+270|Train Stalker
+277|Train Probe
+285|Chrono Boost (Nexus); target: Cybernetics Core (2031c)
+286|Build Assimilator; target: Space Platform Geyser (101ec)
+287|Train Probe
+298|Build Pylon; target: x=92.0,y=41.0
+306|Train Probe
+313|Chrono Boost (Nexus); target: Cybernetics Core (2031c)
+337|Train Probe
+341|Train Stalker (Warp gate); target: x=89.0,y=47.0
+341|Train Stalker (Warp gate); target: x=88.8,y=45.1
+341|Train Stalker (Warp gate); target: x=88.6,y=47.7
+349|Build Pylon; target: x=55.0,y=33.0
+395|Train Stalker (Warp gate); target: x=51.8,y=39.5
+395|Train Stalker (Warp gate); target: x=50.5,y=35.7
+395|Train Stalker (Warp gate); target: x=50.7,y=34.0
+397|Train Probe
+427|Train Zealot (Warp gate); target: x=50.7,y=37.1
+427|Train Zealot (Warp gate); target: x=51.7,y=31.5
+427|Train Zealot (Warp gate); target: x=50.6,y=31.0
+436|Train Probe
+438|Chrono Boost (Nexus); target: Warp Gate (20388)
+439|Chrono Boost (Nexus); target: Warp Gate (30350)
+451|Train Zealot (Warp gate); target: x=49.7,y=35.7
+451|Train Zealot (Warp gate); target: x=50.5,y=34.1
+451|Train Zealot (Warp gate); target: x=50.6,y=31.5

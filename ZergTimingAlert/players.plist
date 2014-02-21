@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>zerg</key>
+	<array>
+		<string>Stephano</string>
+		<string>Nestea</string>
+		<string>DRG</string>
+		<string>Symbol</string>
+	</array>
+	<key>protoss</key>
+	<array>
+		<string>MC</string>
+		<string>Parting</string>
+		<string>Squirtle</string>
+	</array>
+	<key>terran</key>
+	<array>
+		<string>MKP</string>
+		<string>Polt</string>
+		<string>aLive</string>
+	</array>
+</dict>
+</plist>

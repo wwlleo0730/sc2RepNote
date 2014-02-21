@@ -1,0 +1,1814 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7E054A6115A18CD7002B3FB2 /* speedup.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A5F15A18CD7002B3FB2 /* speedup.png */; };
+		7E054A6415A18CFC002B3FB2 /* speeddown.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A6315A18CFC002B3FB2 /* speeddown.png */; };
+		7E054A6615A1918A002B3FB2 /* speedstop.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A6515A1918A002B3FB2 /* speedstop.png */; };
+		7E054A6D15A27E02002B3FB2 /* ReplaysRunTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E054A6C15A27E01002B3FB2 /* ReplaysRunTime.m */; };
+		7E054A7615A42ED5002B3FB2 /* MKP_tvz_ipl5_vs_TSLHyun_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A7515A42ED4002B3FB2 /* MKP_tvz_ipl5_vs_TSLHyun_2.txt */; };
+		7E054A8815A543E9002B3FB2 /* MKP_tvz_Symbol_IPL5_5bb_Ohana.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A8715A543E9002B3FB2 /* MKP_tvz_Symbol_IPL5_5bb_Ohana.txt */; };
+		7E054A8E15A543F8002B3FB2 /* aLive_tvp_Squirtle_IPL4_1base.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A8A15A543F8002B3FB2 /* aLive_tvp_Squirtle_IPL4_1base.txt */; };
+		7E054A8F15A543F8002B3FB2 /* aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A8B15A543F8002B3FB2 /* aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt */; };
+		7E054A9015A543F8002B3FB2 /* mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A8C15A543F8002B3FB2 /* mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt */; };
+		7E054A9115A543F8002B3FB2 /* Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E054A8D15A543F8002B3FB2 /* Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt */; };
+		7E0AE14D157DB7880060DDEB /* players.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E0AE14C157DB7880060DDEB /* players.plist */; };
+		7E0ED95A15045775009EF568 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E0ED95915045775009EF568 /* UIKit.framework */; };
+		7E0ED95C15045775009EF568 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E0ED95B15045775009EF568 /* Foundation.framework */; };
+		7E0ED95E15045775009EF568 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E0ED95D15045775009EF568 /* CoreGraphics.framework */; };
+		7E0ED96415045775009EF568 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7E0ED96215045775009EF568 /* InfoPlist.strings */; };
+		7E0ED96615045775009EF568 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E0ED96515045775009EF568 /* main.m */; };
+		7E0ED96A15045775009EF568 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E0ED96915045775009EF568 /* AppDelegate.m */; };
+		7E235D9815AE8FFA00CC4F1B /* DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E235D9715AE8FFA00CC4F1B /* DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt */; };
+		7E235D9B15AE9A5700CC4F1B /* Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E235D9A15AE9A5700CC4F1B /* Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt */; };
+		7E236B6915EC94D1006955DA /* SC2Unit.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E236B6815EC94D1006955DA /* SC2Unit.m */; };
+		7E236B6C15EC94E5006955DA /* SC2Building.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E236B6B15EC94E5006955DA /* SC2Building.m */; };
+		7E236B7015EC950B006955DA /* SC2Upgrade.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E236B6F15EC950B006955DA /* SC2Upgrade.m */; };
+		7E236B7315EC951A006955DA /* SC2Research.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E236B7215EC951A006955DA /* SC2Research.m */; };
+		7E2C0E5C1585E22800EF1C6D /* spire.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E5B1585E22700EF1C6D /* spire.png */; };
+		7E2C0E5E1585E48F00EF1C6D /* overseer.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E5D1585E48E00EF1C6D /* overseer.png */; };
+		7E2C0E601585E4A000EF1C6D /* creeptumor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E5F1585E49F00EF1C6D /* creeptumor.png */; };
+		7E2C0E621585E4B900EF1C6D /* hive.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E611585E4B800EF1C6D /* hive.png */; };
+		7E2C0E641585E85200EF1C6D /* planetaryfortress.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E631585E85200EF1C6D /* planetaryfortress.png */; };
+		7E2C0E671585E8F500EF1C6D /* orbitalcommand.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E651585E8F500EF1C6D /* orbitalcommand.png */; };
+		7E2C0E681585E8F500EF1C6D /* mule.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E661585E8F500EF1C6D /* mule.png */; };
+		7E2C0E6A1585E90400EF1C6D /* lair.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E691585E90100EF1C6D /* lair.png */; };
+		7E2C0E6D1585EB2F00EF1C6D /* techlab.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E6B1585EB2D00EF1C6D /* techlab.png */; };
+		7E2C0E6E1585EB2F00EF1C6D /* reactor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E6C1585EB2E00EF1C6D /* reactor.png */; };
+		7E2C0E761586179100EF1C6D /* stephano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E2C0E751586179100EF1C6D /* stephano.jpg */; };
+		7E2C0E8A1586E66A00EF1C6D /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E2C0E891586E66A00EF1C6D /* iAd.framework */; };
+		7E2DCEA915996135007667B8 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E2DCEA815996135007667B8 /* MBProgressHUD.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7E2DCEAF15998242007667B8 /* roach1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2DCEAE1599823C007667B8 /* roach1.png */; };
+		7E2DCEB71599B003007667B8 /* Zerg Adrenal Glands.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E2DCEB61599B003007667B8 /* Zerg Adrenal Glands.gif */; };
+		7E30AED315ECB82D0014F83F /* protossUnit.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AED015ECB82D0014F83F /* protossUnit.plist */; };
+		7E30AED415ECB82D0014F83F /* zergUnit.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AED115ECB82D0014F83F /* zergUnit.plist */; };
+		7E30AED515ECB82D0014F83F /* terranUnit.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AED215ECB82D0014F83F /* terranUnit.plist */; };
+		7E30AED815ECB9D80014F83F /* zergBuilding.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AED715ECB9D80014F83F /* zergBuilding.plist */; };
+		7E30AEDB15ECBB050014F83F /* protossBuilding.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AED915ECBB050014F83F /* protossBuilding.plist */; };
+		7E30AEDC15ECBB050014F83F /* terranBuilding.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEDA15ECBB050014F83F /* terranBuilding.plist */; };
+		7E30AEE415ECC14C0014F83F /* protossUpgrade.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEE115ECC14C0014F83F /* protossUpgrade.plist */; };
+		7E30AEE515ECC14C0014F83F /* terranUpgrade.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEE215ECC14C0014F83F /* terranUpgrade.plist */; };
+		7E30AEE615ECC14C0014F83F /* zergUpgrade.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEE315ECC14C0014F83F /* zergUpgrade.plist */; };
+		7E30AEEB15ECC3CD0014F83F /* protossResearch.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEE815ECC3CD0014F83F /* protossResearch.plist */; };
+		7E30AEEC15ECC3CD0014F83F /* terranResearch.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEE915ECC3CD0014F83F /* terranResearch.plist */; };
+		7E30AEED15ECC3CD0014F83F /* zergResearch.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E30AEEA15ECC3CD0014F83F /* zergResearch.plist */; };
+		7E323717159A9FEC008AFB82 /* Zerg Melee Attacks 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323714159A9FEC008AFB82 /* Zerg Melee Attacks 3.gif */; };
+		7E323718159A9FEC008AFB82 /* Zerg Melee Attacks 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323715159A9FEC008AFB82 /* Zerg Melee Attacks 2.gif */; };
+		7E323719159A9FEC008AFB82 /* Zerg Melee Attacks 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323716159A9FEC008AFB82 /* Zerg Melee Attacks 1.gif */; };
+		7E32371D159AA01B008AFB82 /* Zerg Missile Attacks 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32371A159AA01B008AFB82 /* Zerg Missile Attacks 3.gif */; };
+		7E32371E159AA01B008AFB82 /* Zerg Missile Attacks 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32371B159AA01B008AFB82 /* Zerg Missile Attacks 2.gif */; };
+		7E32371F159AA01B008AFB82 /* Zerg Missile Attacks 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32371C159AA01B008AFB82 /* Zerg Missile Attacks 1.gif */; };
+		7E323723159AA04E008AFB82 /* Zerg Ground Carapace 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323720159AA04D008AFB82 /* Zerg Ground Carapace 3.gif */; };
+		7E323724159AA04E008AFB82 /* Zerg Ground Carapace 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323721159AA04D008AFB82 /* Zerg Ground Carapace 2.gif */; };
+		7E323725159AA04E008AFB82 /* Zerg Ground Carapace 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323722159AA04E008AFB82 /* Zerg Ground Carapace 1.gif */; };
+		7E323729159AA13B008AFB82 /* Zerg Flyer Attacks 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323726159AA139008AFB82 /* Zerg Flyer Attacks 3.gif */; };
+		7E32372A159AA13B008AFB82 /* Zerg Flyer Attacks 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323727159AA13A008AFB82 /* Zerg Flyer Attacks 2.gif */; };
+		7E32372B159AA13B008AFB82 /* Zerg Flyer Attacks 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323728159AA13A008AFB82 /* Zerg Flyer Attacks 1.gif */; };
+		7E32372F159AA18E008AFB82 /* Zerg Flyer Carapace 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32372C159AA18C008AFB82 /* Zerg Flyer Carapace 3.gif */; };
+		7E323730159AA18E008AFB82 /* Zerg Flyer Carapace 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32372D159AA18D008AFB82 /* Zerg Flyer Carapace 2.gif */; };
+		7E323731159AA18E008AFB82 /* Zerg Flyer Carapace 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32372E159AA18D008AFB82 /* Zerg Flyer Carapace 1.gif */; };
+		7E323735159AA75D008AFB82 /* Terran Vehicle Weapons 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323732159AA75B008AFB82 /* Terran Vehicle Weapons 3.gif */; };
+		7E323736159AA75D008AFB82 /* Terran Vehicle Weapons 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323733159AA75B008AFB82 /* Terran Vehicle Weapons 2.gif */; };
+		7E323737159AA75D008AFB82 /* Terran Vehicle Weapons 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323734159AA75C008AFB82 /* Terran Vehicle Weapons 1.gif */; };
+		7E32373B159AA788008AFB82 /* Terran Vehicle Plating 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323738159AA786008AFB82 /* Terran Vehicle Plating 3.gif */; };
+		7E32373C159AA788008AFB82 /* Terran Vehicle Plating 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323739159AA787008AFB82 /* Terran Vehicle Plating 2.gif */; };
+		7E32373D159AA788008AFB82 /* Terran Vehicle Plating 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32373A159AA787008AFB82 /* Terran Vehicle Plating 1.gif */; };
+		7E323744159AA840008AFB82 /* Terran Ship Plating 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32373E159AA839008AFB82 /* Terran Ship Plating 3.gif */; };
+		7E323745159AA840008AFB82 /* Terran Ship Plating 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32373F159AA83A008AFB82 /* Terran Ship Plating 2.gif */; };
+		7E323746159AA840008AFB82 /* Terran Ship Plating 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323740159AA83B008AFB82 /* Terran Ship Plating 1.gif */; };
+		7E323747159AA840008AFB82 /* Terran Ship Weapons 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323741159AA83D008AFB82 /* Terran Ship Weapons 3.gif */; };
+		7E323748159AA840008AFB82 /* Terran Ship Weapons 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323742159AA83E008AFB82 /* Terran Ship Weapons 2.gif */; };
+		7E323749159AA840008AFB82 /* Terran Ship Weapons 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323743159AA83F008AFB82 /* Terran Ship Weapons 1.gif */; };
+		7E323753159AABE3008AFB82 /* Protoss Shields 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374A159AABD1008AFB82 /* Protoss Shields 3.gif */; };
+		7E323754159AABE3008AFB82 /* Protoss Shields 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374B159AABD3008AFB82 /* Protoss Shields 2.gif */; };
+		7E323755159AABE3008AFB82 /* Protoss Shields 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374C159AABD5008AFB82 /* Protoss Shields 1.gif */; };
+		7E323756159AABE3008AFB82 /* Protoss Ground Armor 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374D159AABD6008AFB82 /* Protoss Ground Armor 3.gif */; };
+		7E323757159AABE3008AFB82 /* Protoss Ground Armor 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374E159AABD8008AFB82 /* Protoss Ground Armor 2.gif */; };
+		7E323758159AABE3008AFB82 /* Protoss Ground Armor 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32374F159AABDA008AFB82 /* Protoss Ground Armor 1.gif */; };
+		7E323759159AABE3008AFB82 /* Protoss Ground Weapons 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323750159AABDC008AFB82 /* Protoss Ground Weapons 3.gif */; };
+		7E32375A159AABE3008AFB82 /* Protoss Ground Weapons 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323751159AABDF008AFB82 /* Protoss Ground Weapons 2.gif */; };
+		7E32375B159AABE3008AFB82 /* Protoss Ground Weapons 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323752159AABE1008AFB82 /* Protoss Ground Weapons 1.gif */; };
+		7E323762159AADBE008AFB82 /* Protoss Air Armor 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32375C159AADAC008AFB82 /* Protoss Air Armor 3.gif */; };
+		7E323763159AADBE008AFB82 /* Protoss Air Armor 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32375D159AADAF008AFB82 /* Protoss Air Armor 2.gif */; };
+		7E323764159AADBE008AFB82 /* Protoss Air Armor 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32375E159AADB2008AFB82 /* Protoss Air Armor 1.gif */; };
+		7E323765159AADBE008AFB82 /* Protoss Air Weapons 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E32375F159AADB5008AFB82 /* Protoss Air Weapons 3.gif */; };
+		7E323766159AADBE008AFB82 /* Protoss Air Weapons 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323760159AADB8008AFB82 /* Protoss Air Weapons 2.gif */; };
+		7E323769159AAE27008AFB82 /* Protoss Air Weapons 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E323768159AAE16008AFB82 /* Protoss Air Weapons 1.gif */; };
+		7E352352150847190016049A /* RepShowPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E352351150847190016049A /* RepShowPage.m */; };
+		7E3E45BC15AC26F30098858C /* MKP_tvp_vs_EGJYP_IPL4_2base.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E45BB15AC26F30098858C /* MKP_tvp_vs_EGJYP_IPL4_2base.txt */; };
+		7E3E45F415AD7EE30098858C /* Squirtle vs Nestea pvz 3bg attack IPL4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E45F315AD7EE30098858C /* Squirtle vs Nestea pvz 3bg attack IPL4.txt */; };
+		7E3E45FB15ADC2BF0098858C /* Squirtle vs MKP 2 base Colossus IPL4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E45FA15ADC2BF0098858C /* Squirtle vs MKP 2 base Colossus IPL4.txt */; };
+		7E3E45FD15ADC4620098858C /* Squirtle vs MMA 2 base Colossus IPL4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E3E45FC15ADC4620098858C /* Squirtle vs MMA 2 base Colossus IPL4.txt */; };
+		7E3EDDC61521AA3000A20252 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E3EDDC51521AA2F00A20252 /* AVFoundation.framework */; };
+		7E3EDDD31522D74800A20252 /* FileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3EDDD21522D74800A20252 /* FileUtils.m */; };
+		7E3EDDDA15230AC900A20252 /* UnitShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3EDDD915230AC800A20252 /* UnitShow.m */; };
+		7E3EDDE11523E94F00A20252 /* BuildingUnitView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3EDDE01523E94F00A20252 /* BuildingUnitView.m */; };
+		7E3EDDF11523FCE300A20252 /* StarcraftBaseUnit.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3EDDF01523FCE300A20252 /* StarcraftBaseUnit.m */; };
+		7E3EDDF415241D5300A20252 /* GroupProgressShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3EDDF315241D5300A20252 /* GroupProgressShow.m */; };
+		7E49CCD115AB1B690090375F /* protoss.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E49CCD015AB1B690090375F /* protoss.gif */; };
+		7E49CCD515AB1BF10090375F /* zerg.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E49CCD315AB1BF10090375F /* zerg.gif */; };
+		7E49CCD615AB1BF10090375F /* terran.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E49CCD415AB1BF10090375F /* terran.gif */; };
+		7E49CCD815AB1FF50090375F /* sc2repImg.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E49CCD715AB1FF50090375F /* sc2repImg.png */; };
+		7E4D1642158F0FBE00648300 /* MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E4D1640158F0FBE00648300 /* MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt */; };
+		7E4D164A158F21B600648300 /* chronoboost.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E4D1649158F21B600648300 /* chronoboost.png */; };
+		7E4D164C158F21F500648300 /* spawnlarva.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E4D164B158F21F400648300 /* spawnlarva.png */; };
+		7E5DC9EB15881A63000FD4F7 /* AdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E5DC9EA15881A63000FD4F7 /* AdViewController.m */; };
+		7E61CB4415F43968005C84E2 /* navibar_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E61CB4315F43968005C84E2 /* navibar_1.png */; };
+		7E61CB4815F4397B005C84E2 /* UINavigationBar+Customized.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E61CB4715F4397B005C84E2 /* UINavigationBar+Customized.m */; };
+		7E65073315A5806200AF77FE /* play_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E65073215A5806100AF77FE /* play_icon.png */; };
+		7E672FD015AEB127001785A4 /* WarpGateProgressShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E672FCF15AEB127001785A4 /* WarpGateProgressShow.m */; };
+		7E672FDA15AEFF9E001785A4 /* Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E672FD915AEFF9E001785A4 /* Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt */; };
+		7E68D6FF159D399C00852057 /* Spawn Creep Tumor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E68D6FE159D399C00852057 /* Spawn Creep Tumor.gif */; };
+		7E68D701159D3F2A00852057 /* STPartinG_pvz_redbull_vs_LiquidRet.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E68D700159D3F2A00852057 /* STPartinG_pvz_redbull_vs_LiquidRet.txt */; };
+		7E68D705159D977900852057 /* MC_pvz_redbull_vs_stephano_OhanaLE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E68D704159D977900852057 /* MC_pvz_redbull_vs_stephano_OhanaLE.txt */; };
+		7E74FEE115CB818D009F6950 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E74FEE015CB818D009F6950 /* Default.png */; };
+		7E74FEE515CB8949009F6950 /* 57_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E74FEE315CB8949009F6950 /* 57_new.png */; };
+		7E74FEE615CB8949009F6950 /* 114_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E74FEE415CB8949009F6950 /* 114_new.png */; };
+		7E7A6F4D153550F900F72733 /* SC2Timing.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E7A6F4C153550F900F72733 /* SC2Timing.m */; };
+		7E7A6F501535756300F72733 /* OppSingleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E7A6F4F1535756300F72733 /* OppSingleView.m */; };
+		7E7A6F521535758500F72733 /* OppSingleView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E7A6F511535758500F72733 /* OppSingleView.xib */; };
+		7E8A4FF615AA809000D4156B /* Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E8A4FF415AA809000D4156B /* Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt */; };
+		7E8A4FF715AA809000D4156B /* Symbol_zvt_Polt_on_daybreak_4queen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E8A4FF515AA809000D4156B /* Symbol_zvt_Polt_on_daybreak_4queen.txt */; };
+		7E8A500215AAAC3F00D4156B /* DRG_zvp_vs_EGJYP_2012 MLG Winter.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E8A500115AAAC3F00D4156B /* DRG_zvp_vs_EGJYP_2012 MLG Winter.txt */; };
+		7E8A500415AAB6A000D4156B /* Parting pvt vs MKP 2012 MLG Winter .txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E8A500315AAB6A000D4156B /* Parting pvt vs MKP 2012 MLG Winter .txt */; };
+		7E8A500615AAB6BC00D4156B /* MKP tvp vs PartinG 2012 MLG Winter .txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E8A500515AAB6BC00D4156B /* MKP tvp vs PartinG 2012 MLG Winter .txt */; };
+		7E948B4D158723FA00F80B36 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B44158723FA00F80B36 /* libGoogleAdMobAds.a */; };
+		7E948B4E158723FA00F80B36 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7E948B4C158723FA00F80B36 /* README.txt */; };
+		7E948B501587243900F80B36 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B4F1587243900F80B36 /* AudioToolbox.framework */; };
+		7E948B521587245700F80B36 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B511587245700F80B36 /* MediaPlayer.framework */; };
+		7E948B541587246100F80B36 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B531587246100F80B36 /* MessageUI.framework */; };
+		7E948B561587248400F80B36 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B551587248400F80B36 /* SystemConfiguration.framework */; };
+		7E948B6B1587386700F80B36 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B6A1587386700F80B36 /* MapKit.framework */; };
+		7E948B6D1587387D00F80B36 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B6C1587387D00F80B36 /* CoreTelephony.framework */; };
+		7E948B6F1587389000F80B36 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B6E1587389000F80B36 /* CoreLocation.framework */; };
+		7E948B71158738C400F80B36 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E948B70158738C400F80B36 /* CoreMotion.framework */; };
+		7E94D4AD151C4A42002C2E12 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E94D4AC151C4A42002C2E12 /* QuartzCore.framework */; };
+		7E996934159AE18300BB5A02 /* Terran Concussive Shells.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996933159AE18300BB5A02 /* Terran Concussive Shells.png */; };
+		7E996937159AE1D800BB5A02 /* Terran Nitro Packs.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996936159AE1D800BB5A02 /* Terran Nitro Packs.png */; };
+		7E996939159AE22A00BB5A02 /* Terran Infernal Pre-Igniter.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996938159AE22A00BB5A02 /* Terran Infernal Pre-Igniter.png */; };
+		7E99693B159AE27200BB5A02 /* Terran Combat Shield.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E99693A159AE27200BB5A02 /* Terran Combat Shield.png */; };
+		7E99693D159AE2C100BB5A02 /* Terran 250mm Strike Cannons.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E99693C159AE2C000BB5A02 /* Terran 250mm Strike Cannons.png */; };
+		7E99693F159AE30C00BB5A02 /* Terran Caduceus Reactor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99693E159AE30C00BB5A02 /* Terran Caduceus Reactor.gif */; };
+		7E996944159AE35B00BB5A02 /* Terran Cloaking Field.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996940159AE35B00BB5A02 /* Terran Cloaking Field.png */; };
+		7E996945159AE35B00BB5A02 /* Terran Seeker Missile.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996941159AE35B00BB5A02 /* Terran Seeker Missile.png */; };
+		7E996946159AE35B00BB5A02 /* Terran Durable Materials.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996942159AE35B00BB5A02 /* Terran Durable Materials.gif */; };
+		7E996947159AE35B00BB5A02 /* Terran Corvid Reactor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996943159AE35B00BB5A02 /* Terran Corvid Reactor.gif */; };
+		7E99694A159AE3D100BB5A02 /* Terran Weapon Refit.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996948159AE3D100BB5A02 /* Terran Weapon Refit.png */; };
+		7E99694B159AE3D100BB5A02 /* Terran Behemoth Reactor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996949159AE3D100BB5A02 /* Terran Behemoth Reactor.gif */; };
+		7E99694D159AE45A00BB5A02 /* Terran Moebius Reactor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99694C159AE45900BB5A02 /* Terran Moebius Reactor.gif */; };
+		7E996950159AE4C300BB5A02 /* Protoss Charge.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E99694E159AE4C300BB5A02 /* Protoss Charge.png */; };
+		7E996951159AE4C300BB5A02 /* Protoss Blink.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E99694F159AE4C300BB5A02 /* Protoss Blink.png */; };
+		7E996953159AE4F500BB5A02 /* Protoss Psionic Storm.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E996952159AE4F400BB5A02 /* Protoss Psionic Storm.png */; };
+		7E996957159AE50C00BB5A02 /* Protoss Extended Thermal Lance.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996954159AE50A00BB5A02 /* Protoss Extended Thermal Lance.gif */; };
+		7E996958159AE50C00BB5A02 /* Protoss Gravitic Boosters.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996955159AE50A00BB5A02 /* Protoss Gravitic Boosters.gif */; };
+		7E996959159AE50C00BB5A02 /* Protoss Gravitic Drive.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996956159AE50B00BB5A02 /* Protoss Gravitic Drive.gif */; };
+		7E99695D159AE5A600BB5A02 /* Zerg Tunneling Claws.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99695B159AE5A500BB5A02 /* Zerg Tunneling Claws.gif */; };
+		7E996961159AE5BD00BB5A02 /* Zerg Ventral Sacs.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99695E159AE5BB00BB5A02 /* Zerg Ventral Sacs.gif */; };
+		7E996962159AE5BD00BB5A02 /* Zerg Pneumatized Carapace.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99695F159AE5BC00BB5A02 /* Zerg Pneumatized Carapace.gif */; };
+		7E996963159AE5BD00BB5A02 /* Zerg Burrow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996960159AE5BC00BB5A02 /* Zerg Burrow.gif */; };
+		7E996965159AE71100BB5A02 /* Zerg Glial Reconstitution.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996964159AE71000BB5A02 /* Zerg Glial Reconstitution.gif */; };
+		7E996967159AE74C00BB5A02 /* Zerg Centrifugal Hooks.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996966159AE74A00BB5A02 /* Zerg Centrifugal Hooks.gif */; };
+		7E99696C159AE78E00BB5A02 /* Zerg Grooved Spines.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996968159AE78900BB5A02 /* Zerg Grooved Spines.gif */; };
+		7E99696D159AE78E00BB5A02 /* Zerg Chitinous Plating.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E996969159AE78A00BB5A02 /* Zerg Chitinous Plating.gif */; };
+		7E99696E159AE78E00BB5A02 /* Zerg Pathogen Glands.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E99696A159AE78B00BB5A02 /* Zerg Pathogen Glands.gif */; };
+		7E99696F159AE78E00BB5A02 /* Zerg Neural Parasite.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E99696B159AE78D00BB5A02 /* Zerg Neural Parasite.png */; };
+		7E9E95A91584BCCA000FEE50 /* archon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E954B1584BCCA000FEE50 /* archon.png */; };
+		7E9E95AA1584BCCA000FEE50 /* assimilator.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E954C1584BCCA000FEE50 /* assimilator.png */; };
+		7E9E95AB1584BCCA000FEE50 /* carrier.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E954D1584BCCA000FEE50 /* carrier.png */; };
+		7E9E95AC1584BCCA000FEE50 /* colossus.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E954E1584BCCA000FEE50 /* colossus.png */; };
+		7E9E95AD1584BCCA000FEE50 /* cyberneticscore.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E954F1584BCCA000FEE50 /* cyberneticscore.png */; };
+		7E9E95AE1584BCCA000FEE50 /* darkshrine.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95501584BCCA000FEE50 /* darkshrine.png */; };
+		7E9E95AF1584BCCA000FEE50 /* darktemplar.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95511584BCCA000FEE50 /* darktemplar.png */; };
+		7E9E95B01584BCCA000FEE50 /* fleetbeacon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95521584BCCA000FEE50 /* fleetbeacon.png */; };
+		7E9E95B11584BCCA000FEE50 /* forge.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95531584BCCA000FEE50 /* forge.png */; };
+		7E9E95B21584BCCA000FEE50 /* gateway.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95541584BCCA000FEE50 /* gateway.png */; };
+		7E9E95B31584BCCA000FEE50 /* hightemplar.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95551584BCCA000FEE50 /* hightemplar.png */; };
+		7E9E95B41584BCCA000FEE50 /* immortal.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95561584BCCA000FEE50 /* immortal.png */; };
+		7E9E95B51584BCCA000FEE50 /* mothership.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95571584BCCA000FEE50 /* mothership.png */; };
+		7E9E95B61584BCCA000FEE50 /* nexus.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95581584BCCA000FEE50 /* nexus.png */; };
+		7E9E95B71584BCCA000FEE50 /* observer.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95591584BCCA000FEE50 /* observer.png */; };
+		7E9E95B81584BCCA000FEE50 /* photoncannon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955A1584BCCA000FEE50 /* photoncannon.png */; };
+		7E9E95B91584BCCA000FEE50 /* phoenix.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955B1584BCCA000FEE50 /* phoenix.png */; };
+		7E9E95BA1584BCCA000FEE50 /* probe.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955C1584BCCA000FEE50 /* probe.png */; };
+		7E9E95BB1584BCCA000FEE50 /* pylon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955D1584BCCA000FEE50 /* pylon.png */; };
+		7E9E95BC1584BCCA000FEE50 /* roboticsfacility.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955E1584BCCA000FEE50 /* roboticsfacility.png */; };
+		7E9E95BD1584BCCA000FEE50 /* roboticsbay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E955F1584BCCA000FEE50 /* roboticsbay.png */; };
+		7E9E95BE1584BCCA000FEE50 /* sentry.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95601584BCCA000FEE50 /* sentry.png */; };
+		7E9E95BF1584BCCA000FEE50 /* stalker.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95611584BCCA000FEE50 /* stalker.png */; };
+		7E9E95C01584BCCA000FEE50 /* stargate.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95621584BCCA000FEE50 /* stargate.png */; };
+		7E9E95C11584BCCA000FEE50 /* templararchives.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95631584BCCA000FEE50 /* templararchives.png */; };
+		7E9E95C21584BCCA000FEE50 /* twilightcouncil.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95641584BCCA000FEE50 /* twilightcouncil.png */; };
+		7E9E95C31584BCCA000FEE50 /* voidray.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95651584BCCA000FEE50 /* voidray.png */; };
+		7E9E95C41584BCCA000FEE50 /* warpprism.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95661584BCCA000FEE50 /* warpprism.png */; };
+		7E9E95C51584BCCA000FEE50 /* zealot.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95671584BCCA000FEE50 /* zealot.png */; };
+		7E9E95C61584BCCA000FEE50 /* armory.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95691584BCCA000FEE50 /* armory.png */; };
+		7E9E95C71584BCCA000FEE50 /* banshee.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956A1584BCCA000FEE50 /* banshee.png */; };
+		7E9E95C81584BCCA000FEE50 /* barracks.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956B1584BCCA000FEE50 /* barracks.png */; };
+		7E9E95C91584BCCA000FEE50 /* battlecruiser.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956C1584BCCA000FEE50 /* battlecruiser.png */; };
+		7E9E95CA1584BCCA000FEE50 /* bunker.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956D1584BCCA000FEE50 /* bunker.png */; };
+		7E9E95CB1584BCCA000FEE50 /* commandcenter.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956E1584BCCA000FEE50 /* commandcenter.png */; };
+		7E9E95CC1584BCCA000FEE50 /* fusioncore.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E956F1584BCCA000FEE50 /* fusioncore.png */; };
+		7E9E95CD1584BCCA000FEE50 /* engineeringbay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95701584BCCA000FEE50 /* engineeringbay.png */; };
+		7E9E95CE1584BCCA000FEE50 /* factory.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95711584BCCA000FEE50 /* factory.png */; };
+		7E9E95CF1584BCCA000FEE50 /* ghost.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95721584BCCA000FEE50 /* ghost.png */; };
+		7E9E95D01584BCCA000FEE50 /* ghostacademy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95731584BCCA000FEE50 /* ghostacademy.png */; };
+		7E9E95D11584BCCA000FEE50 /* hellion.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95741584BCCA000FEE50 /* hellion.png */; };
+		7E9E95D21584BCCA000FEE50 /* marauder.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95751584BCCA000FEE50 /* marauder.png */; };
+		7E9E95D31584BCCA000FEE50 /* marine.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95761584BCCA000FEE50 /* marine.png */; };
+		7E9E95D41584BCCA000FEE50 /* medivac.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95771584BCCA000FEE50 /* medivac.png */; };
+		7E9E95D51584BCCA000FEE50 /* missileturret.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95781584BCCA000FEE50 /* missileturret.png */; };
+		7E9E95D61584BCCA000FEE50 /* raven.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95791584BCCA000FEE50 /* raven.png */; };
+		7E9E95D71584BCCA000FEE50 /* reaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957A1584BCCA000FEE50 /* reaper.png */; };
+		7E9E95D81584BCCA000FEE50 /* refinery.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957B1584BCCA000FEE50 /* refinery.png */; };
+		7E9E95D91584BCCA000FEE50 /* scv.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957C1584BCCA000FEE50 /* scv.png */; };
+		7E9E95DA1584BCCA000FEE50 /* sensortower.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957D1584BCCA000FEE50 /* sensortower.png */; };
+		7E9E95DB1584BCCA000FEE50 /* siegetank.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957E1584BCCA000FEE50 /* siegetank.png */; };
+		7E9E95DC1584BCCA000FEE50 /* starport.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E957F1584BCCA000FEE50 /* starport.png */; };
+		7E9E95DD1584BCCA000FEE50 /* supplydepot.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95801584BCCA000FEE50 /* supplydepot.png */; };
+		7E9E95DE1584BCCA000FEE50 /* thor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95811584BCCA000FEE50 /* thor.png */; };
+		7E9E95DF1584BCCA000FEE50 /* viking.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95821584BCCA000FEE50 /* viking.png */; };
+		7E9E95ED1584BCCA000FEE50 /* baneling.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95911584BCCA000FEE50 /* baneling.png */; };
+		7E9E95EE1584BCCA000FEE50 /* banelingnest.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95921584BCCA000FEE50 /* banelingnest.png */; };
+		7E9E95EF1584BCCA000FEE50 /* broodlord.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95931584BCCA000FEE50 /* broodlord.png */; };
+		7E9E95F01584BCCA000FEE50 /* corruptor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95941584BCCA000FEE50 /* corruptor.png */; };
+		7E9E95F11584BCCA000FEE50 /* drone.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95951584BCCA000FEE50 /* drone.png */; };
+		7E9E95F21584BCCA000FEE50 /* evolutionchamber.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95961584BCCA000FEE50 /* evolutionchamber.png */; };
+		7E9E95F31584BCCA000FEE50 /* extractor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95971584BCCA000FEE50 /* extractor.png */; };
+		7E9E95F41584BCCA000FEE50 /* greaterspire.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95981584BCCA000FEE50 /* greaterspire.png */; };
+		7E9E95F51584BCCA000FEE50 /* hatchery.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95991584BCCA000FEE50 /* hatchery.png */; };
+		7E9E95F61584BCCA000FEE50 /* hydralisk.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959A1584BCCA000FEE50 /* hydralisk.png */; };
+		7E9E95F71584BCCA000FEE50 /* hydraliskden.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959B1584BCCA000FEE50 /* hydraliskden.png */; };
+		7E9E95F81584BCCA000FEE50 /* infestor.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959C1584BCCA000FEE50 /* infestor.png */; };
+		7E9E95F91584BCCA000FEE50 /* infestorpit.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959D1584BCCA000FEE50 /* infestorpit.png */; };
+		7E9E95FA1584BCCA000FEE50 /* mutalisk.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959E1584BCCA000FEE50 /* mutalisk.png */; };
+		7E9E95FB1584BCCA000FEE50 /* nydusnetwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E959F1584BCCA000FEE50 /* nydusnetwork.png */; };
+		7E9E95FC1584BCCA000FEE50 /* overlord.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A01584BCCA000FEE50 /* overlord.png */; };
+		7E9E95FD1584BCCA000FEE50 /* queen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A11584BCCA000FEE50 /* queen.png */; };
+		7E9E95FE1584BCCA000FEE50 /* roachwarren.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A21584BCCA000FEE50 /* roachwarren.png */; };
+		7E9E95FF1584BCCA000FEE50 /* spawningpool.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A31584BCCA000FEE50 /* spawningpool.png */; };
+		7E9E96001584BCCA000FEE50 /* spinecrawler.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A41584BCCA000FEE50 /* spinecrawler.png */; };
+		7E9E96011584BCCA000FEE50 /* sporecrawler.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A51584BCCA000FEE50 /* sporecrawler.png */; };
+		7E9E96021584BCCA000FEE50 /* ultralisk.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A61584BCCA000FEE50 /* ultralisk.png */; };
+		7E9E96031584BCCA000FEE50 /* ultraliskcavern.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A71584BCCA000FEE50 /* ultraliskcavern.png */; };
+		7E9E96041584BCCA000FEE50 /* zergling.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E9E95A81584BCCA000FEE50 /* zergling.png */; };
+		7EA15C421526903B00AFEAF6 /* BuildingUnitView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7EA15C411526903B00AFEAF6 /* BuildingUnitView.xib */; };
+		7EA15C601527E43300AFEAF6 /* IndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EA15C5E1527E43200AFEAF6 /* IndexView.m */; };
+		7EA17AFF15983E9200FA02C4 /* DirectoryWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EA17AFE15983E9200FA02C4 /* DirectoryWatcher.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7EA6C10C150855CC00C72796 /* login_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EA6C10B150855CC00C72796 /* login_btn.png */; };
+		7EAC9A26151C399B005EE834 /* ProgressShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAC9A25151C399B005EE834 /* ProgressShow.m */; };
+		7EAF039C157B53AE00F1DD61 /* SC2ReplayNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAF039B157B53AE00F1DD61 /* SC2ReplayNode.m */; };
+		7EAF03A2157C4D4100F1DD61 /* DDFileReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAF03A1157C4D4100F1DD61 /* DDFileReader.m */; };
+		7EB690C815930F5000D1BA69 /* replaysList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690C715930F5000D1BA69 /* replaysList.plist */; };
+		7EB690CF1596F0C500D1BA69 /* test.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690CE1596F0C500D1BA69 /* test.txt */; };
+		7EB690D11596F18700D1BA69 /* Protoss Warp Gate.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D01596F18700D1BA69 /* Protoss Warp Gate.png */; };
+		7EB690D31596F26D00D1BA69 /* Zerg Metabolic Boost.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D21596F26D00D1BA69 /* Zerg Metabolic Boost.png */; };
+		7EB690D51596F32500D1BA69 /* Protoss Hallucination.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D41596F32400D1BA69 /* Protoss Hallucination.png */; };
+		7EB690D9159700EA00D1BA69 /* Terran Infantry Armor 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D6159700EA00D1BA69 /* Terran Infantry Armor 3.png */; };
+		7EB690DA159700EA00D1BA69 /* Terran Infantry Armor 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D7159700EA00D1BA69 /* Terran Infantry Armor 2.png */; };
+		7EB690DB159700EA00D1BA69 /* Terran Infantry Armor 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690D8159700EA00D1BA69 /* Terran Infantry Armor 1.png */; };
+		7EB690DF1597023B00D1BA69 /* Terran Infantry Weapons 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690DC1597023B00D1BA69 /* Terran Infantry Weapons 3.png */; };
+		7EB690E01597023B00D1BA69 /* Terran Infantry Weapons 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690DD1597023B00D1BA69 /* Terran Infantry Weapons 1.png */; };
+		7EB690E11597023B00D1BA69 /* Terran Infantry Weapons 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690DE1597023B00D1BA69 /* Terran Infantry Weapons 2.png */; };
+		7EB690E31597FD5400D1BA69 /* Terran Stimpack.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690E21597FD5400D1BA69 /* Terran Stimpack.png */; };
+		7EB690E51597FEA700D1BA69 /* Terran Siege Tech.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7EB690E41597FEA700D1BA69 /* Terran Siege Tech.gif */; };
+		7ECBEC6B15A6AB8400FEB963 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC5615A6AB8400FEB963 /* UIColor+Hex.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC6C15A6AB8400FEB963 /* UIView+InnerShadow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC5815A6AB8400FEB963 /* UIView+InnerShadow.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC6D15A6AB8400FEB963 /* UIView+Positioning.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC5A15A6AB8400FEB963 /* UIView+Positioning.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC6E15A6AB8400FEB963 /* UIView+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC5C15A6AB8400FEB963 /* UIView+Size.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC6F15A6AB8400FEB963 /* JMSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC5F15A6AB8400FEB963 /* JMSelectionView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC7015A6AB8400FEB963 /* JMTabContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC6215A6AB8400FEB963 /* JMTabContainer.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC7115A6AB8400FEB963 /* JMTabItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC6415A6AB8400FEB963 /* JMTabItem.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC7215A6AB8400FEB963 /* JMTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC6615A6AB8400FEB963 /* JMTabView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC7315A6AB8400FEB963 /* BarBackgroundLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC6915A6AB8400FEB963 /* BarBackgroundLayer.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7ECBEC7B15A8186B00FEB963 /* ReplaysListPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECBEC7A15A8186A00FEB963 /* ReplaysListPageView.m */; };
+		7ECBEC8E15A96B5B00FEB963 /* Stephano_zvp_parting_daybreak_redbull.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7ECBEC8D15A96B5B00FEB963 /* Stephano_zvp_parting_daybreak_redbull.txt */; };
+		7ECEAB2D15F6F3010091004F /* RepShowToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ECEAB2B15F6F3000091004F /* RepShowToolbar.m */; };
+		7ECEAB2E15F6F3010091004F /* RepShowToolbar.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7ECEAB2C15F6F3000091004F /* RepShowToolbar.xib */; };
+		7ECEAB3315F6F9220091004F /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ECEAB3215F6F9220091004F /* back.png */; };
+		7ED5CCFE153311B700C51616 /* icon_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED5CCFD153311B700C51616 /* icon_bg.png */; };
+		7ED9CD651533FA29003F0F54 /* OpponentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ED9CD631533FA28003F0F54 /* OpponentView.m */; };
+		7ED9CD6D1533FFFA003F0F54 /* HoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ED9CD6C1533FFFA003F0F54 /* HoverView.m */; };
+		7ED9CD6F153400B1003F0F54 /* RepShowPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7ED9CD6E153400B1003F0F54 /* RepShowPage.xib */; };
+		7EEE0F89159B456C002F65CD /* Nestea_zvp_ipl4_vs_MVPTails.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7EEE0F88159B456C002F65CD /* Nestea_zvp_ipl4_vs_MVPTails.txt */; };
+		7EF6550B157DF3FF00420A6C /* NSObject+SBJson.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654F3157DF3FF00420A6C /* NSObject+SBJson.m */; };
+		7EF6550C157DF3FF00420A6C /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654F6157DF3FF00420A6C /* SBJsonParser.m */; };
+		7EF6550D157DF3FF00420A6C /* SBJsonStreamParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654F8157DF3FF00420A6C /* SBJsonStreamParser.m */; };
+		7EF6550E157DF3FF00420A6C /* SBJsonStreamParserAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654FA157DF3FF00420A6C /* SBJsonStreamParserAccumulator.m */; };
+		7EF6550F157DF3FF00420A6C /* SBJsonStreamParserAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654FC157DF3FF00420A6C /* SBJsonStreamParserAdapter.m */; };
+		7EF65510157DF3FF00420A6C /* SBJsonStreamParserState.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF654FE157DF3FF00420A6C /* SBJsonStreamParserState.m */; };
+		7EF65511157DF3FF00420A6C /* SBJsonStreamWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF65500157DF3FF00420A6C /* SBJsonStreamWriter.m */; };
+		7EF65512157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF65502157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.m */; };
+		7EF65513157DF3FF00420A6C /* SBJsonStreamWriterState.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF65504157DF3FF00420A6C /* SBJsonStreamWriterState.m */; };
+		7EF65514157DF3FF00420A6C /* SBJsonTokeniser.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF65506157DF3FF00420A6C /* SBJsonTokeniser.m */; };
+		7EF65515157DF3FF00420A6C /* SBJsonUTF8Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF65508157DF3FF00420A6C /* SBJsonUTF8Stream.m */; };
+		7EF65516157DF3FF00420A6C /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF6550A157DF3FF00420A6C /* SBJsonWriter.m */; };
+		7EFACB5415257732003FDFC2 /* SC2ReplayUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFACB5315257731003FDFC2 /* SC2ReplayUtil.m */; };
+		7EFACB6A15258394003FDFC2 /* SC2Replay.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EFACB6915258394003FDFC2 /* SC2Replay.m */; };
+		7EFACB71152584D6003FDFC2 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7EFACB73152584D6003FDFC2 /* Localizable.strings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7E054A5F15A18CD7002B3FB2 /* speedup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speedup.png; sourceTree = "<group>"; };
+		7E054A6315A18CFC002B3FB2 /* speeddown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speeddown.png; sourceTree = "<group>"; };
+		7E054A6515A1918A002B3FB2 /* speedstop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speedstop.png; sourceTree = "<group>"; };
+		7E054A6B15A27E00002B3FB2 /* ReplaysRunTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReplaysRunTime.h; sourceTree = "<group>"; };
+		7E054A6C15A27E01002B3FB2 /* ReplaysRunTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplaysRunTime.m; sourceTree = "<group>"; };
+		7E054A7515A42ED4002B3FB2 /* MKP_tvz_ipl5_vs_TSLHyun_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MKP_tvz_ipl5_vs_TSLHyun_2.txt; sourceTree = "<group>"; };
+		7E054A8715A543E9002B3FB2 /* MKP_tvz_Symbol_IPL5_5bb_Ohana.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MKP_tvz_Symbol_IPL5_5bb_Ohana.txt; sourceTree = "<group>"; };
+		7E054A8A15A543F8002B3FB2 /* aLive_tvp_Squirtle_IPL4_1base.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = aLive_tvp_Squirtle_IPL4_1base.txt; sourceTree = "<group>"; };
+		7E054A8B15A543F8002B3FB2 /* aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt"; sourceTree = "<group>"; };
+		7E054A8C15A543F8002B3FB2 /* mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt"; sourceTree = "<group>"; };
+		7E054A8D15A543F8002B3FB2 /* Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt"; sourceTree = "<group>"; };
+		7E0AE14C157DB7880060DDEB /* players.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = players.plist; sourceTree = "<group>"; };
+		7E0ED95515045775009EF568 /* sc2RepNote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sc2RepNote.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E0ED95915045775009EF568 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		7E0ED95B15045775009EF568 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		7E0ED95D15045775009EF568 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		7E0ED96115045775009EF568 /* sc2RepNote-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sc2RepNote-Info.plist"; sourceTree = "<group>"; };
+		7E0ED96315045775009EF568 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7E0ED96515045775009EF568 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7E0ED96715045775009EF568 /* sc2RepNote-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sc2RepNote-Prefix.pch"; sourceTree = "<group>"; };
+		7E0ED96815045775009EF568 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7E0ED96915045775009EF568 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7E235D9715AE8FFA00CC4F1B /* DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt"; sourceTree = "<group>"; };
+		7E235D9A15AE9A5700CC4F1B /* Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt"; sourceTree = "<group>"; };
+		7E236B6715EC94D1006955DA /* SC2Unit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Unit.h; sourceTree = "<group>"; };
+		7E236B6815EC94D1006955DA /* SC2Unit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Unit.m; sourceTree = "<group>"; };
+		7E236B6A15EC94E4006955DA /* SC2Building.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Building.h; sourceTree = "<group>"; };
+		7E236B6B15EC94E5006955DA /* SC2Building.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Building.m; sourceTree = "<group>"; };
+		7E236B6E15EC950B006955DA /* SC2Upgrade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Upgrade.h; sourceTree = "<group>"; };
+		7E236B6F15EC950B006955DA /* SC2Upgrade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Upgrade.m; sourceTree = "<group>"; };
+		7E236B7115EC951A006955DA /* SC2Research.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Research.h; sourceTree = "<group>"; };
+		7E236B7215EC951A006955DA /* SC2Research.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Research.m; sourceTree = "<group>"; };
+		7E2C0E5B1585E22700EF1C6D /* spire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spire.png; sourceTree = "<group>"; };
+		7E2C0E5D1585E48E00EF1C6D /* overseer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = overseer.png; sourceTree = "<group>"; };
+		7E2C0E5F1585E49F00EF1C6D /* creeptumor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creeptumor.png; sourceTree = "<group>"; };
+		7E2C0E611585E4B800EF1C6D /* hive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hive.png; sourceTree = "<group>"; };
+		7E2C0E631585E85200EF1C6D /* planetaryfortress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planetaryfortress.png; sourceTree = "<group>"; };
+		7E2C0E651585E8F500EF1C6D /* orbitalcommand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orbitalcommand.png; sourceTree = "<group>"; };
+		7E2C0E661585E8F500EF1C6D /* mule.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mule.png; sourceTree = "<group>"; };
+		7E2C0E691585E90100EF1C6D /* lair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lair.png; sourceTree = "<group>"; };
+		7E2C0E6B1585EB2D00EF1C6D /* techlab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = techlab.png; sourceTree = "<group>"; };
+		7E2C0E6C1585EB2E00EF1C6D /* reactor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reactor.png; sourceTree = "<group>"; };
+		7E2C0E751586179100EF1C6D /* stephano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stephano.jpg; sourceTree = "<group>"; };
+		7E2C0E891586E66A00EF1C6D /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		7E2DCEA715996135007667B8 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		7E2DCEA815996135007667B8 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		7E2DCEAE1599823C007667B8 /* roach1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roach1.png; sourceTree = "<group>"; };
+		7E2DCEB61599B003007667B8 /* Zerg Adrenal Glands.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Adrenal Glands.gif"; sourceTree = "<group>"; };
+		7E30AED015ECB82D0014F83F /* protossUnit.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = protossUnit.plist; sourceTree = "<group>"; };
+		7E30AED115ECB82D0014F83F /* zergUnit.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = zergUnit.plist; sourceTree = "<group>"; };
+		7E30AED215ECB82D0014F83F /* terranUnit.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = terranUnit.plist; sourceTree = "<group>"; };
+		7E30AED715ECB9D80014F83F /* zergBuilding.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = zergBuilding.plist; sourceTree = "<group>"; };
+		7E30AED915ECBB050014F83F /* protossBuilding.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = protossBuilding.plist; sourceTree = "<group>"; };
+		7E30AEDA15ECBB050014F83F /* terranBuilding.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = terranBuilding.plist; sourceTree = "<group>"; };
+		7E30AEE115ECC14C0014F83F /* protossUpgrade.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = protossUpgrade.plist; sourceTree = "<group>"; };
+		7E30AEE215ECC14C0014F83F /* terranUpgrade.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = terranUpgrade.plist; sourceTree = "<group>"; };
+		7E30AEE315ECC14C0014F83F /* zergUpgrade.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = zergUpgrade.plist; sourceTree = "<group>"; };
+		7E30AEE815ECC3CD0014F83F /* protossResearch.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = protossResearch.plist; sourceTree = "<group>"; };
+		7E30AEE915ECC3CD0014F83F /* terranResearch.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = terranResearch.plist; sourceTree = "<group>"; };
+		7E30AEEA15ECC3CD0014F83F /* zergResearch.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = zergResearch.plist; sourceTree = "<group>"; };
+		7E323714159A9FEC008AFB82 /* Zerg Melee Attacks 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Melee Attacks 3.gif"; sourceTree = "<group>"; };
+		7E323715159A9FEC008AFB82 /* Zerg Melee Attacks 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Melee Attacks 2.gif"; sourceTree = "<group>"; };
+		7E323716159A9FEC008AFB82 /* Zerg Melee Attacks 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Melee Attacks 1.gif"; sourceTree = "<group>"; };
+		7E32371A159AA01B008AFB82 /* Zerg Missile Attacks 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Missile Attacks 3.gif"; sourceTree = "<group>"; };
+		7E32371B159AA01B008AFB82 /* Zerg Missile Attacks 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Missile Attacks 2.gif"; sourceTree = "<group>"; };
+		7E32371C159AA01B008AFB82 /* Zerg Missile Attacks 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Missile Attacks 1.gif"; sourceTree = "<group>"; };
+		7E323720159AA04D008AFB82 /* Zerg Ground Carapace 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Ground Carapace 3.gif"; sourceTree = "<group>"; };
+		7E323721159AA04D008AFB82 /* Zerg Ground Carapace 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Ground Carapace 2.gif"; sourceTree = "<group>"; };
+		7E323722159AA04E008AFB82 /* Zerg Ground Carapace 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Ground Carapace 1.gif"; sourceTree = "<group>"; };
+		7E323726159AA139008AFB82 /* Zerg Flyer Attacks 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Attacks 3.gif"; sourceTree = "<group>"; };
+		7E323727159AA13A008AFB82 /* Zerg Flyer Attacks 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Attacks 2.gif"; sourceTree = "<group>"; };
+		7E323728159AA13A008AFB82 /* Zerg Flyer Attacks 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Attacks 1.gif"; sourceTree = "<group>"; };
+		7E32372C159AA18C008AFB82 /* Zerg Flyer Carapace 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Carapace 3.gif"; sourceTree = "<group>"; };
+		7E32372D159AA18D008AFB82 /* Zerg Flyer Carapace 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Carapace 2.gif"; sourceTree = "<group>"; };
+		7E32372E159AA18D008AFB82 /* Zerg Flyer Carapace 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Flyer Carapace 1.gif"; sourceTree = "<group>"; };
+		7E323732159AA75B008AFB82 /* Terran Vehicle Weapons 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Weapons 3.gif"; sourceTree = "<group>"; };
+		7E323733159AA75B008AFB82 /* Terran Vehicle Weapons 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Weapons 2.gif"; sourceTree = "<group>"; };
+		7E323734159AA75C008AFB82 /* Terran Vehicle Weapons 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Weapons 1.gif"; sourceTree = "<group>"; };
+		7E323738159AA786008AFB82 /* Terran Vehicle Plating 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Plating 3.gif"; sourceTree = "<group>"; };
+		7E323739159AA787008AFB82 /* Terran Vehicle Plating 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Plating 2.gif"; sourceTree = "<group>"; };
+		7E32373A159AA787008AFB82 /* Terran Vehicle Plating 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Vehicle Plating 1.gif"; sourceTree = "<group>"; };
+		7E32373E159AA839008AFB82 /* Terran Ship Plating 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Plating 3.gif"; sourceTree = "<group>"; };
+		7E32373F159AA83A008AFB82 /* Terran Ship Plating 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Plating 2.gif"; sourceTree = "<group>"; };
+		7E323740159AA83B008AFB82 /* Terran Ship Plating 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Plating 1.gif"; sourceTree = "<group>"; };
+		7E323741159AA83D008AFB82 /* Terran Ship Weapons 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Weapons 3.gif"; sourceTree = "<group>"; };
+		7E323742159AA83E008AFB82 /* Terran Ship Weapons 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Weapons 2.gif"; sourceTree = "<group>"; };
+		7E323743159AA83F008AFB82 /* Terran Ship Weapons 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Ship Weapons 1.gif"; sourceTree = "<group>"; };
+		7E32374A159AABD1008AFB82 /* Protoss Shields 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Shields 3.gif"; sourceTree = "<group>"; };
+		7E32374B159AABD3008AFB82 /* Protoss Shields 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Shields 2.gif"; sourceTree = "<group>"; };
+		7E32374C159AABD5008AFB82 /* Protoss Shields 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Shields 1.gif"; sourceTree = "<group>"; };
+		7E32374D159AABD6008AFB82 /* Protoss Ground Armor 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Armor 3.gif"; sourceTree = "<group>"; };
+		7E32374E159AABD8008AFB82 /* Protoss Ground Armor 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Armor 2.gif"; sourceTree = "<group>"; };
+		7E32374F159AABDA008AFB82 /* Protoss Ground Armor 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Armor 1.gif"; sourceTree = "<group>"; };
+		7E323750159AABDC008AFB82 /* Protoss Ground Weapons 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Weapons 3.gif"; sourceTree = "<group>"; };
+		7E323751159AABDF008AFB82 /* Protoss Ground Weapons 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Weapons 2.gif"; sourceTree = "<group>"; };
+		7E323752159AABE1008AFB82 /* Protoss Ground Weapons 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Ground Weapons 1.gif"; sourceTree = "<group>"; };
+		7E32375C159AADAC008AFB82 /* Protoss Air Armor 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Armor 3.gif"; sourceTree = "<group>"; };
+		7E32375D159AADAF008AFB82 /* Protoss Air Armor 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Armor 2.gif"; sourceTree = "<group>"; };
+		7E32375E159AADB2008AFB82 /* Protoss Air Armor 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Armor 1.gif"; sourceTree = "<group>"; };
+		7E32375F159AADB5008AFB82 /* Protoss Air Weapons 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Weapons 3.gif"; sourceTree = "<group>"; };
+		7E323760159AADB8008AFB82 /* Protoss Air Weapons 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Weapons 2.gif"; sourceTree = "<group>"; };
+		7E323768159AAE16008AFB82 /* Protoss Air Weapons 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Air Weapons 1.gif"; sourceTree = "<group>"; };
+		7E352350150847190016049A /* RepShowPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RepShowPage.h; sourceTree = "<group>"; };
+		7E352351150847190016049A /* RepShowPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RepShowPage.m; sourceTree = "<group>"; };
+		7E352356150847300016049A /* Globals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Globals.h; sourceTree = "<group>"; };
+		7E3E45BB15AC26F30098858C /* MKP_tvp_vs_EGJYP_IPL4_2base.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MKP_tvp_vs_EGJYP_IPL4_2base.txt; sourceTree = "<group>"; };
+		7E3E45F315AD7EE30098858C /* Squirtle vs Nestea pvz 3bg attack IPL4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Squirtle vs Nestea pvz 3bg attack IPL4.txt"; sourceTree = "<group>"; };
+		7E3E45FA15ADC2BF0098858C /* Squirtle vs MKP 2 base Colossus IPL4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Squirtle vs MKP 2 base Colossus IPL4.txt"; sourceTree = "<group>"; };
+		7E3E45FC15ADC4620098858C /* Squirtle vs MMA 2 base Colossus IPL4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Squirtle vs MMA 2 base Colossus IPL4.txt"; sourceTree = "<group>"; };
+		7E3EDDC51521AA2F00A20252 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		7E3EDDD11522D74800A20252 /* FileUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileUtils.h; sourceTree = "<group>"; };
+		7E3EDDD21522D74800A20252 /* FileUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileUtils.m; sourceTree = "<group>"; };
+		7E3EDDD815230AC800A20252 /* UnitShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitShow.h; sourceTree = "<group>"; };
+		7E3EDDD915230AC800A20252 /* UnitShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UnitShow.m; sourceTree = "<group>"; };
+		7E3EDDDF1523E94F00A20252 /* BuildingUnitView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuildingUnitView.h; sourceTree = "<group>"; };
+		7E3EDDE01523E94F00A20252 /* BuildingUnitView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuildingUnitView.m; sourceTree = "<group>"; };
+		7E3EDDEF1523FCE300A20252 /* StarcraftBaseUnit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StarcraftBaseUnit.h; sourceTree = "<group>"; };
+		7E3EDDF01523FCE300A20252 /* StarcraftBaseUnit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StarcraftBaseUnit.m; sourceTree = "<group>"; };
+		7E3EDDF215241D5200A20252 /* GroupProgressShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupProgressShow.h; sourceTree = "<group>"; };
+		7E3EDDF315241D5300A20252 /* GroupProgressShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupProgressShow.m; sourceTree = "<group>"; };
+		7E49CCD015AB1B690090375F /* protoss.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = protoss.gif; sourceTree = "<group>"; };
+		7E49CCD315AB1BF10090375F /* zerg.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = zerg.gif; sourceTree = "<group>"; };
+		7E49CCD415AB1BF10090375F /* terran.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = terran.gif; sourceTree = "<group>"; };
+		7E49CCD715AB1FF50090375F /* sc2repImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sc2repImg.png; sourceTree = "<group>"; };
+		7E4D1640158F0FBE00648300 /* MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt; sourceTree = "<group>"; };
+		7E4D1649158F21B600648300 /* chronoboost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chronoboost.png; sourceTree = "<group>"; };
+		7E4D164B158F21F400648300 /* spawnlarva.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spawnlarva.png; sourceTree = "<group>"; };
+		7E4E9E5E15ABFF9A006B7909 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		7E4E9E5F15ABFFB8006B7909 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		7E5DC9EA15881A63000FD4F7 /* AdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AdViewController.m; sourceTree = "<group>"; };
+		7E61CB4315F43968005C84E2 /* navibar_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navibar_1.png; sourceTree = "<group>"; };
+		7E61CB4615F4397B005C84E2 /* UINavigationBar+Customized.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+Customized.h"; sourceTree = "<group>"; };
+		7E61CB4715F4397B005C84E2 /* UINavigationBar+Customized.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+Customized.m"; sourceTree = "<group>"; };
+		7E65073215A5806100AF77FE /* play_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_icon.png; sourceTree = "<group>"; };
+		7E672FCE15AEB127001785A4 /* WarpGateProgressShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WarpGateProgressShow.h; sourceTree = "<group>"; };
+		7E672FCF15AEB127001785A4 /* WarpGateProgressShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WarpGateProgressShow.m; sourceTree = "<group>"; };
+		7E672FD915AEFF9E001785A4 /* Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt; sourceTree = "<group>"; };
+		7E68D6FE159D399C00852057 /* Spawn Creep Tumor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Spawn Creep Tumor.gif"; sourceTree = "<group>"; };
+		7E68D700159D3F2A00852057 /* STPartinG_pvz_redbull_vs_LiquidRet.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = STPartinG_pvz_redbull_vs_LiquidRet.txt; sourceTree = "<group>"; };
+		7E68D704159D977900852057 /* MC_pvz_redbull_vs_stephano_OhanaLE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MC_pvz_redbull_vs_stephano_OhanaLE.txt; sourceTree = "<group>"; };
+		7E74FEE015CB818D009F6950 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		7E74FEE315CB8949009F6950 /* 57_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57_new.png; sourceTree = "<group>"; };
+		7E74FEE415CB8949009F6950 /* 114_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114_new.png; sourceTree = "<group>"; };
+		7E7A6F4B153550F800F72733 /* SC2Timing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Timing.h; sourceTree = "<group>"; };
+		7E7A6F4C153550F900F72733 /* SC2Timing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Timing.m; sourceTree = "<group>"; };
+		7E7A6F4E1535756300F72733 /* OppSingleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OppSingleView.h; sourceTree = "<group>"; };
+		7E7A6F4F1535756300F72733 /* OppSingleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OppSingleView.m; sourceTree = "<group>"; };
+		7E7A6F511535758500F72733 /* OppSingleView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OppSingleView.xib; sourceTree = "<group>"; };
+		7E8A4FF415AA809000D4156B /* Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt; sourceTree = "<group>"; };
+		7E8A4FF515AA809000D4156B /* Symbol_zvt_Polt_on_daybreak_4queen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Symbol_zvt_Polt_on_daybreak_4queen.txt; sourceTree = "<group>"; };
+		7E8A500115AAAC3F00D4156B /* DRG_zvp_vs_EGJYP_2012 MLG Winter.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DRG_zvp_vs_EGJYP_2012 MLG Winter.txt"; sourceTree = "<group>"; };
+		7E8A500315AAB6A000D4156B /* Parting pvt vs MKP 2012 MLG Winter .txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Parting pvt vs MKP 2012 MLG Winter .txt"; sourceTree = "<group>"; };
+		7E8A500515AAB6BC00D4156B /* MKP tvp vs PartinG 2012 MLG Winter .txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "MKP tvp vs PartinG 2012 MLG Winter .txt"; sourceTree = "<group>"; };
+		7E948B3B158723FA00F80B36 /* GADAdMobExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdMobExtras.h; sourceTree = "<group>"; };
+		7E948B3C158723FA00F80B36 /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdNetworkExtras.h; sourceTree = "<group>"; };
+		7E948B3D158723FA00F80B36 /* GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdSize.h; sourceTree = "<group>"; };
+		7E948B3E158723FA00F80B36 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
+		7E948B3F158723FA00F80B36 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
+		7E948B40158723FA00F80B36 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
+		7E948B41158723FA00F80B36 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
+		7E948B42158723FA00F80B36 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
+		7E948B43158723FA00F80B36 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
+		7E948B44158723FA00F80B36 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
+		7E948B46158723FA00F80B36 /* GADCustomEventBanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventBanner.h; sourceTree = "<group>"; };
+		7E948B47158723FA00F80B36 /* GADCustomEventBannerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventBannerDelegate.h; sourceTree = "<group>"; };
+		7E948B48158723FA00F80B36 /* GADCustomEventExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventExtras.h; sourceTree = "<group>"; };
+		7E948B49158723FA00F80B36 /* GADCustomEventInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventInterstitial.h; sourceTree = "<group>"; };
+		7E948B4A158723FA00F80B36 /* GADCustomEventInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventInterstitialDelegate.h; sourceTree = "<group>"; };
+		7E948B4B158723FA00F80B36 /* GADCustomEventRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADCustomEventRequest.h; sourceTree = "<group>"; };
+		7E948B4C158723FA00F80B36 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		7E948B4F1587243900F80B36 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		7E948B511587245700F80B36 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		7E948B531587246100F80B36 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		7E948B551587248400F80B36 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		7E948B5B158724F000F80B36 /* AdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdViewController.h; sourceTree = "<group>"; };
+		7E948B6A1587386700F80B36 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		7E948B6C1587387D00F80B36 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		7E948B6E1587389000F80B36 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		7E948B70158738C400F80B36 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		7E94D4AC151C4A42002C2E12 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		7E996933159AE18300BB5A02 /* Terran Concussive Shells.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Concussive Shells.png"; sourceTree = "<group>"; };
+		7E996936159AE1D800BB5A02 /* Terran Nitro Packs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Nitro Packs.png"; sourceTree = "<group>"; };
+		7E996938159AE22A00BB5A02 /* Terran Infernal Pre-Igniter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infernal Pre-Igniter.png"; sourceTree = "<group>"; };
+		7E99693A159AE27200BB5A02 /* Terran Combat Shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Combat Shield.png"; sourceTree = "<group>"; };
+		7E99693C159AE2C000BB5A02 /* Terran 250mm Strike Cannons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran 250mm Strike Cannons.png"; sourceTree = "<group>"; };
+		7E99693E159AE30C00BB5A02 /* Terran Caduceus Reactor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Caduceus Reactor.gif"; sourceTree = "<group>"; };
+		7E996940159AE35B00BB5A02 /* Terran Cloaking Field.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Cloaking Field.png"; sourceTree = "<group>"; };
+		7E996941159AE35B00BB5A02 /* Terran Seeker Missile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Seeker Missile.png"; sourceTree = "<group>"; };
+		7E996942159AE35B00BB5A02 /* Terran Durable Materials.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Durable Materials.gif"; sourceTree = "<group>"; };
+		7E996943159AE35B00BB5A02 /* Terran Corvid Reactor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Corvid Reactor.gif"; sourceTree = "<group>"; };
+		7E996948159AE3D100BB5A02 /* Terran Weapon Refit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Weapon Refit.png"; sourceTree = "<group>"; };
+		7E996949159AE3D100BB5A02 /* Terran Behemoth Reactor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Behemoth Reactor.gif"; sourceTree = "<group>"; };
+		7E99694C159AE45900BB5A02 /* Terran Moebius Reactor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Moebius Reactor.gif"; sourceTree = "<group>"; };
+		7E99694E159AE4C300BB5A02 /* Protoss Charge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Protoss Charge.png"; sourceTree = "<group>"; };
+		7E99694F159AE4C300BB5A02 /* Protoss Blink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Protoss Blink.png"; sourceTree = "<group>"; };
+		7E996952159AE4F400BB5A02 /* Protoss Psionic Storm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Protoss Psionic Storm.png"; sourceTree = "<group>"; };
+		7E996954159AE50A00BB5A02 /* Protoss Extended Thermal Lance.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Extended Thermal Lance.gif"; sourceTree = "<group>"; };
+		7E996955159AE50A00BB5A02 /* Protoss Gravitic Boosters.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Gravitic Boosters.gif"; sourceTree = "<group>"; };
+		7E996956159AE50B00BB5A02 /* Protoss Gravitic Drive.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Protoss Gravitic Drive.gif"; sourceTree = "<group>"; };
+		7E99695B159AE5A500BB5A02 /* Zerg Tunneling Claws.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Tunneling Claws.gif"; sourceTree = "<group>"; };
+		7E99695E159AE5BB00BB5A02 /* Zerg Ventral Sacs.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Ventral Sacs.gif"; sourceTree = "<group>"; };
+		7E99695F159AE5BC00BB5A02 /* Zerg Pneumatized Carapace.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Pneumatized Carapace.gif"; sourceTree = "<group>"; };
+		7E996960159AE5BC00BB5A02 /* Zerg Burrow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Burrow.gif"; sourceTree = "<group>"; };
+		7E996964159AE71000BB5A02 /* Zerg Glial Reconstitution.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Glial Reconstitution.gif"; sourceTree = "<group>"; };
+		7E996966159AE74A00BB5A02 /* Zerg Centrifugal Hooks.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Centrifugal Hooks.gif"; sourceTree = "<group>"; };
+		7E996968159AE78900BB5A02 /* Zerg Grooved Spines.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Grooved Spines.gif"; sourceTree = "<group>"; };
+		7E996969159AE78A00BB5A02 /* Zerg Chitinous Plating.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Chitinous Plating.gif"; sourceTree = "<group>"; };
+		7E99696A159AE78B00BB5A02 /* Zerg Pathogen Glands.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Zerg Pathogen Glands.gif"; sourceTree = "<group>"; };
+		7E99696B159AE78D00BB5A02 /* Zerg Neural Parasite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zerg Neural Parasite.png"; sourceTree = "<group>"; };
+		7E9E954B1584BCCA000FEE50 /* archon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = archon.png; sourceTree = "<group>"; };
+		7E9E954C1584BCCA000FEE50 /* assimilator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = assimilator.png; sourceTree = "<group>"; };
+		7E9E954D1584BCCA000FEE50 /* carrier.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carrier.png; sourceTree = "<group>"; };
+		7E9E954E1584BCCA000FEE50 /* colossus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colossus.png; sourceTree = "<group>"; };
+		7E9E954F1584BCCA000FEE50 /* cyberneticscore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cyberneticscore.png; sourceTree = "<group>"; };
+		7E9E95501584BCCA000FEE50 /* darkshrine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = darkshrine.png; sourceTree = "<group>"; };
+		7E9E95511584BCCA000FEE50 /* darktemplar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = darktemplar.png; sourceTree = "<group>"; };
+		7E9E95521584BCCA000FEE50 /* fleetbeacon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fleetbeacon.png; sourceTree = "<group>"; };
+		7E9E95531584BCCA000FEE50 /* forge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forge.png; sourceTree = "<group>"; };
+		7E9E95541584BCCA000FEE50 /* gateway.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gateway.png; sourceTree = "<group>"; };
+		7E9E95551584BCCA000FEE50 /* hightemplar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hightemplar.png; sourceTree = "<group>"; };
+		7E9E95561584BCCA000FEE50 /* immortal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = immortal.png; sourceTree = "<group>"; };
+		7E9E95571584BCCA000FEE50 /* mothership.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mothership.png; sourceTree = "<group>"; };
+		7E9E95581584BCCA000FEE50 /* nexus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nexus.png; sourceTree = "<group>"; };
+		7E9E95591584BCCA000FEE50 /* observer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = observer.png; sourceTree = "<group>"; };
+		7E9E955A1584BCCA000FEE50 /* photoncannon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photoncannon.png; sourceTree = "<group>"; };
+		7E9E955B1584BCCA000FEE50 /* phoenix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phoenix.png; sourceTree = "<group>"; };
+		7E9E955C1584BCCA000FEE50 /* probe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = probe.png; sourceTree = "<group>"; };
+		7E9E955D1584BCCA000FEE50 /* pylon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pylon.png; sourceTree = "<group>"; };
+		7E9E955E1584BCCA000FEE50 /* roboticsfacility.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roboticsfacility.png; sourceTree = "<group>"; };
+		7E9E955F1584BCCA000FEE50 /* roboticsbay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roboticsbay.png; sourceTree = "<group>"; };
+		7E9E95601584BCCA000FEE50 /* sentry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sentry.png; sourceTree = "<group>"; };
+		7E9E95611584BCCA000FEE50 /* stalker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stalker.png; sourceTree = "<group>"; };
+		7E9E95621584BCCA000FEE50 /* stargate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stargate.png; sourceTree = "<group>"; };
+		7E9E95631584BCCA000FEE50 /* templararchives.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = templararchives.png; sourceTree = "<group>"; };
+		7E9E95641584BCCA000FEE50 /* twilightcouncil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twilightcouncil.png; sourceTree = "<group>"; };
+		7E9E95651584BCCA000FEE50 /* voidray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = voidray.png; sourceTree = "<group>"; };
+		7E9E95661584BCCA000FEE50 /* warpprism.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = warpprism.png; sourceTree = "<group>"; };
+		7E9E95671584BCCA000FEE50 /* zealot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zealot.png; sourceTree = "<group>"; };
+		7E9E95691584BCCA000FEE50 /* armory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = armory.png; sourceTree = "<group>"; };
+		7E9E956A1584BCCA000FEE50 /* banshee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banshee.png; sourceTree = "<group>"; };
+		7E9E956B1584BCCA000FEE50 /* barracks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barracks.png; sourceTree = "<group>"; };
+		7E9E956C1584BCCA000FEE50 /* battlecruiser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battlecruiser.png; sourceTree = "<group>"; };
+		7E9E956D1584BCCA000FEE50 /* bunker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bunker.png; sourceTree = "<group>"; };
+		7E9E956E1584BCCA000FEE50 /* commandcenter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = commandcenter.png; sourceTree = "<group>"; };
+		7E9E956F1584BCCA000FEE50 /* fusioncore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fusioncore.png; sourceTree = "<group>"; };
+		7E9E95701584BCCA000FEE50 /* engineeringbay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = engineeringbay.png; sourceTree = "<group>"; };
+		7E9E95711584BCCA000FEE50 /* factory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = factory.png; sourceTree = "<group>"; };
+		7E9E95721584BCCA000FEE50 /* ghost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ghost.png; sourceTree = "<group>"; };
+		7E9E95731584BCCA000FEE50 /* ghostacademy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ghostacademy.png; sourceTree = "<group>"; };
+		7E9E95741584BCCA000FEE50 /* hellion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hellion.png; sourceTree = "<group>"; };
+		7E9E95751584BCCA000FEE50 /* marauder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marauder.png; sourceTree = "<group>"; };
+		7E9E95761584BCCA000FEE50 /* marine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marine.png; sourceTree = "<group>"; };
+		7E9E95771584BCCA000FEE50 /* medivac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medivac.png; sourceTree = "<group>"; };
+		7E9E95781584BCCA000FEE50 /* missileturret.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = missileturret.png; sourceTree = "<group>"; };
+		7E9E95791584BCCA000FEE50 /* raven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raven.png; sourceTree = "<group>"; };
+		7E9E957A1584BCCA000FEE50 /* reaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reaper.png; sourceTree = "<group>"; };
+		7E9E957B1584BCCA000FEE50 /* refinery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refinery.png; sourceTree = "<group>"; };
+		7E9E957C1584BCCA000FEE50 /* scv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scv.png; sourceTree = "<group>"; };
+		7E9E957D1584BCCA000FEE50 /* sensortower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sensortower.png; sourceTree = "<group>"; };
+		7E9E957E1584BCCA000FEE50 /* siegetank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = siegetank.png; sourceTree = "<group>"; };
+		7E9E957F1584BCCA000FEE50 /* starport.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = starport.png; sourceTree = "<group>"; };
+		7E9E95801584BCCA000FEE50 /* supplydepot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = supplydepot.png; sourceTree = "<group>"; };
+		7E9E95811584BCCA000FEE50 /* thor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thor.png; sourceTree = "<group>"; };
+		7E9E95821584BCCA000FEE50 /* viking.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = viking.png; sourceTree = "<group>"; };
+		7E9E95911584BCCA000FEE50 /* baneling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baneling.png; sourceTree = "<group>"; };
+		7E9E95921584BCCA000FEE50 /* banelingnest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banelingnest.png; sourceTree = "<group>"; };
+		7E9E95931584BCCA000FEE50 /* broodlord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = broodlord.png; sourceTree = "<group>"; };
+		7E9E95941584BCCA000FEE50 /* corruptor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = corruptor.png; sourceTree = "<group>"; };
+		7E9E95951584BCCA000FEE50 /* drone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drone.png; sourceTree = "<group>"; };
+		7E9E95961584BCCA000FEE50 /* evolutionchamber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = evolutionchamber.png; sourceTree = "<group>"; };
+		7E9E95971584BCCA000FEE50 /* extractor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = extractor.png; sourceTree = "<group>"; };
+		7E9E95981584BCCA000FEE50 /* greaterspire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greaterspire.png; sourceTree = "<group>"; };
+		7E9E95991584BCCA000FEE50 /* hatchery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hatchery.png; sourceTree = "<group>"; };
+		7E9E959A1584BCCA000FEE50 /* hydralisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hydralisk.png; sourceTree = "<group>"; };
+		7E9E959B1584BCCA000FEE50 /* hydraliskden.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hydraliskden.png; sourceTree = "<group>"; };
+		7E9E959C1584BCCA000FEE50 /* infestor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = infestor.png; sourceTree = "<group>"; };
+		7E9E959D1584BCCA000FEE50 /* infestorpit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = infestorpit.png; sourceTree = "<group>"; };
+		7E9E959E1584BCCA000FEE50 /* mutalisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mutalisk.png; sourceTree = "<group>"; };
+		7E9E959F1584BCCA000FEE50 /* nydusnetwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nydusnetwork.png; sourceTree = "<group>"; };
+		7E9E95A01584BCCA000FEE50 /* overlord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = overlord.png; sourceTree = "<group>"; };
+		7E9E95A11584BCCA000FEE50 /* queen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = queen.png; sourceTree = "<group>"; };
+		7E9E95A21584BCCA000FEE50 /* roachwarren.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roachwarren.png; sourceTree = "<group>"; };
+		7E9E95A31584BCCA000FEE50 /* spawningpool.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spawningpool.png; sourceTree = "<group>"; };
+		7E9E95A41584BCCA000FEE50 /* spinecrawler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spinecrawler.png; sourceTree = "<group>"; };
+		7E9E95A51584BCCA000FEE50 /* sporecrawler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sporecrawler.png; sourceTree = "<group>"; };
+		7E9E95A61584BCCA000FEE50 /* ultralisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ultralisk.png; sourceTree = "<group>"; };
+		7E9E95A71584BCCA000FEE50 /* ultraliskcavern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ultraliskcavern.png; sourceTree = "<group>"; };
+		7E9E95A81584BCCA000FEE50 /* zergling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zergling.png; sourceTree = "<group>"; };
+		7EA15C411526903B00AFEAF6 /* BuildingUnitView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BuildingUnitView.xib; sourceTree = "<group>"; };
+		7EA15C5D1527E43200AFEAF6 /* IndexView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndexView.h; sourceTree = "<group>"; };
+		7EA15C5E1527E43200AFEAF6 /* IndexView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndexView.m; sourceTree = "<group>"; };
+		7EA17AFD15983E9100FA02C4 /* DirectoryWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DirectoryWatcher.h; sourceTree = "<group>"; };
+		7EA17AFE15983E9200FA02C4 /* DirectoryWatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DirectoryWatcher.m; sourceTree = "<group>"; };
+		7EA6C10B150855CC00C72796 /* login_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login_btn.png; sourceTree = "<group>"; };
+		7EAC9A24151C399B005EE834 /* ProgressShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressShow.h; sourceTree = "<group>"; };
+		7EAC9A25151C399B005EE834 /* ProgressShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressShow.m; sourceTree = "<group>"; };
+		7EAF039A157B53AE00F1DD61 /* SC2ReplayNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2ReplayNode.h; sourceTree = "<group>"; };
+		7EAF039B157B53AE00F1DD61 /* SC2ReplayNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2ReplayNode.m; sourceTree = "<group>"; };
+		7EAF03A0157C4D4100F1DD61 /* DDFileReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDFileReader.h; sourceTree = "<group>"; };
+		7EAF03A1157C4D4100F1DD61 /* DDFileReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDFileReader.m; sourceTree = "<group>"; };
+		7EB690C715930F5000D1BA69 /* replaysList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = replaysList.plist; sourceTree = "<group>"; };
+		7EB690CE1596F0C500D1BA69 /* test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
+		7EB690D01596F18700D1BA69 /* Protoss Warp Gate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Protoss Warp Gate.png"; sourceTree = "<group>"; };
+		7EB690D21596F26D00D1BA69 /* Zerg Metabolic Boost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zerg Metabolic Boost.png"; sourceTree = "<group>"; };
+		7EB690D41596F32400D1BA69 /* Protoss Hallucination.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Protoss Hallucination.png"; sourceTree = "<group>"; };
+		7EB690D6159700EA00D1BA69 /* Terran Infantry Armor 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Armor 3.png"; sourceTree = "<group>"; };
+		7EB690D7159700EA00D1BA69 /* Terran Infantry Armor 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Armor 2.png"; sourceTree = "<group>"; };
+		7EB690D8159700EA00D1BA69 /* Terran Infantry Armor 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Armor 1.png"; sourceTree = "<group>"; };
+		7EB690DC1597023B00D1BA69 /* Terran Infantry Weapons 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Weapons 3.png"; sourceTree = "<group>"; };
+		7EB690DD1597023B00D1BA69 /* Terran Infantry Weapons 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Weapons 1.png"; sourceTree = "<group>"; };
+		7EB690DE1597023B00D1BA69 /* Terran Infantry Weapons 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Infantry Weapons 2.png"; sourceTree = "<group>"; };
+		7EB690E21597FD5400D1BA69 /* Terran Stimpack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Terran Stimpack.png"; sourceTree = "<group>"; };
+		7EB690E41597FEA700D1BA69 /* Terran Siege Tech.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Terran Siege Tech.gif"; sourceTree = "<group>"; };
+		7ECBEC5515A6AB8400FEB963 /* UIColor+Hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
+		7ECBEC5615A6AB8400FEB963 /* UIColor+Hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
+		7ECBEC5715A6AB8400FEB963 /* UIView+InnerShadow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+InnerShadow.h"; sourceTree = "<group>"; };
+		7ECBEC5815A6AB8400FEB963 /* UIView+InnerShadow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+InnerShadow.m"; sourceTree = "<group>"; };
+		7ECBEC5915A6AB8400FEB963 /* UIView+Positioning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Positioning.h"; sourceTree = "<group>"; };
+		7ECBEC5A15A6AB8400FEB963 /* UIView+Positioning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Positioning.m"; sourceTree = "<group>"; };
+		7ECBEC5B15A6AB8400FEB963 /* UIView+Size.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Size.h"; sourceTree = "<group>"; };
+		7ECBEC5C15A6AB8400FEB963 /* UIView+Size.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Size.m"; sourceTree = "<group>"; };
+		7ECBEC5E15A6AB8400FEB963 /* JMSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMSelectionView.h; sourceTree = "<group>"; };
+		7ECBEC5F15A6AB8400FEB963 /* JMSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMSelectionView.m; sourceTree = "<group>"; };
+		7ECBEC6015A6AB8400FEB963 /* JMTabConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMTabConstants.h; sourceTree = "<group>"; };
+		7ECBEC6115A6AB8400FEB963 /* JMTabContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMTabContainer.h; sourceTree = "<group>"; };
+		7ECBEC6215A6AB8400FEB963 /* JMTabContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMTabContainer.m; sourceTree = "<group>"; };
+		7ECBEC6315A6AB8400FEB963 /* JMTabItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMTabItem.h; sourceTree = "<group>"; };
+		7ECBEC6415A6AB8400FEB963 /* JMTabItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMTabItem.m; sourceTree = "<group>"; };
+		7ECBEC6515A6AB8400FEB963 /* JMTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMTabView.h; sourceTree = "<group>"; };
+		7ECBEC6615A6AB8400FEB963 /* JMTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMTabView.m; sourceTree = "<group>"; };
+		7ECBEC6815A6AB8400FEB963 /* BarBackgroundLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BarBackgroundLayer.h; sourceTree = "<group>"; };
+		7ECBEC6915A6AB8400FEB963 /* BarBackgroundLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BarBackgroundLayer.m; sourceTree = "<group>"; };
+		7ECBEC7915A8186A00FEB963 /* ReplaysListPageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReplaysListPageView.h; sourceTree = "<group>"; };
+		7ECBEC7A15A8186A00FEB963 /* ReplaysListPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplaysListPageView.m; sourceTree = "<group>"; };
+		7ECBEC8D15A96B5B00FEB963 /* Stephano_zvp_parting_daybreak_redbull.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Stephano_zvp_parting_daybreak_redbull.txt; sourceTree = "<group>"; };
+		7ECEAB2A15F6F3000091004F /* RepShowToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RepShowToolbar.h; sourceTree = "<group>"; };
+		7ECEAB2B15F6F3000091004F /* RepShowToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RepShowToolbar.m; sourceTree = "<group>"; };
+		7ECEAB2C15F6F3000091004F /* RepShowToolbar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RepShowToolbar.xib; sourceTree = "<group>"; };
+		7ECEAB3215F6F9220091004F /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		7ED5CCFD153311B700C51616 /* icon_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bg.png; sourceTree = "<group>"; };
+		7ED9CD621533FA28003F0F54 /* OpponentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpponentView.h; sourceTree = "<group>"; };
+		7ED9CD631533FA28003F0F54 /* OpponentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpponentView.m; sourceTree = "<group>"; };
+		7ED9CD6B1533FFFA003F0F54 /* HoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HoverView.h; sourceTree = "<group>"; };
+		7ED9CD6C1533FFFA003F0F54 /* HoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HoverView.m; sourceTree = "<group>"; };
+		7ED9CD6E153400B1003F0F54 /* RepShowPage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RepShowPage.xib; sourceTree = "<group>"; };
+		7EEE0F88159B456C002F65CD /* Nestea_zvp_ipl4_vs_MVPTails.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nestea_zvp_ipl4_vs_MVPTails.txt; sourceTree = "<group>"; };
+		7EF654F2157DF3FF00420A6C /* NSObject+SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJson.h"; sourceTree = "<group>"; };
+		7EF654F3157DF3FF00420A6C /* NSObject+SBJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJson.m"; sourceTree = "<group>"; };
+		7EF654F4157DF3FF00420A6C /* SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJson.h; sourceTree = "<group>"; };
+		7EF654F5157DF3FF00420A6C /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		7EF654F6157DF3FF00420A6C /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		7EF654F7157DF3FF00420A6C /* SBJsonStreamParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParser.h; sourceTree = "<group>"; };
+		7EF654F8157DF3FF00420A6C /* SBJsonStreamParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParser.m; sourceTree = "<group>"; };
+		7EF654F9157DF3FF00420A6C /* SBJsonStreamParserAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAccumulator.h; sourceTree = "<group>"; };
+		7EF654FA157DF3FF00420A6C /* SBJsonStreamParserAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAccumulator.m; sourceTree = "<group>"; };
+		7EF654FB157DF3FF00420A6C /* SBJsonStreamParserAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAdapter.h; sourceTree = "<group>"; };
+		7EF654FC157DF3FF00420A6C /* SBJsonStreamParserAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAdapter.m; sourceTree = "<group>"; };
+		7EF654FD157DF3FF00420A6C /* SBJsonStreamParserState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserState.h; sourceTree = "<group>"; };
+		7EF654FE157DF3FF00420A6C /* SBJsonStreamParserState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserState.m; sourceTree = "<group>"; };
+		7EF654FF157DF3FF00420A6C /* SBJsonStreamWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriter.h; sourceTree = "<group>"; };
+		7EF65500157DF3FF00420A6C /* SBJsonStreamWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriter.m; sourceTree = "<group>"; };
+		7EF65501157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterAccumulator.h; sourceTree = "<group>"; };
+		7EF65502157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterAccumulator.m; sourceTree = "<group>"; };
+		7EF65503157DF3FF00420A6C /* SBJsonStreamWriterState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterState.h; sourceTree = "<group>"; };
+		7EF65504157DF3FF00420A6C /* SBJsonStreamWriterState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterState.m; sourceTree = "<group>"; };
+		7EF65505157DF3FF00420A6C /* SBJsonTokeniser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonTokeniser.h; sourceTree = "<group>"; };
+		7EF65506157DF3FF00420A6C /* SBJsonTokeniser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonTokeniser.m; sourceTree = "<group>"; };
+		7EF65507157DF3FF00420A6C /* SBJsonUTF8Stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonUTF8Stream.h; sourceTree = "<group>"; };
+		7EF65508157DF3FF00420A6C /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonUTF8Stream.m; sourceTree = "<group>"; };
+		7EF65509157DF3FF00420A6C /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		7EF6550A157DF3FF00420A6C /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		7EFACB5215257731003FDFC2 /* SC2ReplayUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2ReplayUtil.h; sourceTree = "<group>"; };
+		7EFACB5315257731003FDFC2 /* SC2ReplayUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2ReplayUtil.m; sourceTree = "<group>"; };
+		7EFACB6815258394003FDFC2 /* SC2Replay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC2Replay.h; sourceTree = "<group>"; };
+		7EFACB6915258394003FDFC2 /* SC2Replay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SC2Replay.m; sourceTree = "<group>"; };
+		7EFACB72152584D6003FDFC2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7EFACB7415258516003FDFC2 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		7EFACB751525851F003FDFC2 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7E0ED95215045775009EF568 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E948B71158738C400F80B36 /* CoreMotion.framework in Frameworks */,
+				7E948B6F1587389000F80B36 /* CoreLocation.framework in Frameworks */,
+				7E948B6D1587387D00F80B36 /* CoreTelephony.framework in Frameworks */,
+				7E948B6B1587386700F80B36 /* MapKit.framework in Frameworks */,
+				7E948B561587248400F80B36 /* SystemConfiguration.framework in Frameworks */,
+				7E948B541587246100F80B36 /* MessageUI.framework in Frameworks */,
+				7E948B521587245700F80B36 /* MediaPlayer.framework in Frameworks */,
+				7E948B501587243900F80B36 /* AudioToolbox.framework in Frameworks */,
+				7E2C0E8A1586E66A00EF1C6D /* iAd.framework in Frameworks */,
+				7E3EDDC61521AA3000A20252 /* AVFoundation.framework in Frameworks */,
+				7E94D4AD151C4A42002C2E12 /* QuartzCore.framework in Frameworks */,
+				7E0ED95A15045775009EF568 /* UIKit.framework in Frameworks */,
+				7E0ED95C15045775009EF568 /* Foundation.framework in Frameworks */,
+				7E0ED95E15045775009EF568 /* CoreGraphics.framework in Frameworks */,
+				7E948B4D158723FA00F80B36 /* libGoogleAdMobAds.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7E0ED94A15045775009EF568 = {
+			isa = PBXGroup;
+			children = (
+				7E74FEE315CB8949009F6950 /* 57_new.png */,
+				7E74FEE415CB8949009F6950 /* 114_new.png */,
+				7E74FEE015CB818D009F6950 /* Default.png */,
+				7EF654F1157DF3FF00420A6C /* jsonlib */,
+				7E948B3A158723FA00F80B36 /* GoogleAdMobAdsSDK */,
+				7E0ED95F15045775009EF568 /* ZergTimingAlert */,
+				7E0ED95815045775009EF568 /* Frameworks */,
+				7E0ED95615045775009EF568 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7E0ED95615045775009EF568 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7E0ED95515045775009EF568 /* sc2RepNote.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7E0ED95815045775009EF568 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7E948B70158738C400F80B36 /* CoreMotion.framework */,
+				7E948B6E1587389000F80B36 /* CoreLocation.framework */,
+				7E948B6C1587387D00F80B36 /* CoreTelephony.framework */,
+				7E948B6A1587386700F80B36 /* MapKit.framework */,
+				7E948B551587248400F80B36 /* SystemConfiguration.framework */,
+				7E948B531587246100F80B36 /* MessageUI.framework */,
+				7E948B511587245700F80B36 /* MediaPlayer.framework */,
+				7E948B4F1587243900F80B36 /* AudioToolbox.framework */,
+				7E2C0E891586E66A00EF1C6D /* iAd.framework */,
+				7E3EDDC51521AA2F00A20252 /* AVFoundation.framework */,
+				7E94D4AC151C4A42002C2E12 /* QuartzCore.framework */,
+				7E0ED95915045775009EF568 /* UIKit.framework */,
+				7E0ED95B15045775009EF568 /* Foundation.framework */,
+				7E0ED95D15045775009EF568 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7E0ED95F15045775009EF568 /* ZergTimingAlert */ = {
+			isa = PBXGroup;
+			children = (
+				7E6EE9B315EB2C1D000EDA13 /* TableCell */,
+				7ECBEC5215A6AB8400FEB963 /* JMTabView */,
+				7E2DCEA6159960C5007667B8 /* MBProgressHUD */,
+				7E948B5B158724F000F80B36 /* AdViewController.h */,
+				7E5DC9EA15881A63000FD4F7 /* AdViewController.m */,
+				7ED9CD6B1533FFFA003F0F54 /* HoverView.h */,
+				7ED9CD6C1533FFFA003F0F54 /* HoverView.m */,
+				7E3EDDD11522D74800A20252 /* FileUtils.h */,
+				7E3EDDD21522D74800A20252 /* FileUtils.m */,
+				7EAC9A24151C399B005EE834 /* ProgressShow.h */,
+				7EAC9A25151C399B005EE834 /* ProgressShow.m */,
+				7E672FCE15AEB127001785A4 /* WarpGateProgressShow.h */,
+				7E672FCF15AEB127001785A4 /* WarpGateProgressShow.m */,
+				7E3EDDF215241D5200A20252 /* GroupProgressShow.h */,
+				7E3EDDF315241D5300A20252 /* GroupProgressShow.m */,
+				7ED9CD621533FA28003F0F54 /* OpponentView.h */,
+				7ED9CD631533FA28003F0F54 /* OpponentView.m */,
+				7E7A6F4E1535756300F72733 /* OppSingleView.h */,
+				7E7A6F4F1535756300F72733 /* OppSingleView.m */,
+				7E7A6F511535758500F72733 /* OppSingleView.xib */,
+				7E3EDDDF1523E94F00A20252 /* BuildingUnitView.h */,
+				7E3EDDE01523E94F00A20252 /* BuildingUnitView.m */,
+				7EA15C411526903B00AFEAF6 /* BuildingUnitView.xib */,
+				7E3EDDD815230AC800A20252 /* UnitShow.h */,
+				7E3EDDD915230AC800A20252 /* UnitShow.m */,
+				7EA6C10B150855CC00C72796 /* login_btn.png */,
+				7E352356150847300016049A /* Globals.h */,
+				7ECEAB2A15F6F3000091004F /* RepShowToolbar.h */,
+				7ECEAB2B15F6F3000091004F /* RepShowToolbar.m */,
+				7ECEAB2C15F6F3000091004F /* RepShowToolbar.xib */,
+				7E352350150847190016049A /* RepShowPage.h */,
+				7E352351150847190016049A /* RepShowPage.m */,
+				7ED9CD6E153400B1003F0F54 /* RepShowPage.xib */,
+				7ECBEC7915A8186A00FEB963 /* ReplaysListPageView.h */,
+				7ECBEC7A15A8186A00FEB963 /* ReplaysListPageView.m */,
+				7EA17AFD15983E9100FA02C4 /* DirectoryWatcher.h */,
+				7EA17AFE15983E9200FA02C4 /* DirectoryWatcher.m */,
+				7EA15C5D1527E43200AFEAF6 /* IndexView.h */,
+				7EA15C5E1527E43200AFEAF6 /* IndexView.m */,
+				7E0ED96815045775009EF568 /* AppDelegate.h */,
+				7E0ED96915045775009EF568 /* AppDelegate.m */,
+				7E054A6B15A27E00002B3FB2 /* ReplaysRunTime.h */,
+				7E054A6C15A27E01002B3FB2 /* ReplaysRunTime.m */,
+				7E3EDDEF1523FCE300A20252 /* StarcraftBaseUnit.h */,
+				7E3EDDF01523FCE300A20252 /* StarcraftBaseUnit.m */,
+				7EFACB5215257731003FDFC2 /* SC2ReplayUtil.h */,
+				7EFACB5315257731003FDFC2 /* SC2ReplayUtil.m */,
+				7EFACB6815258394003FDFC2 /* SC2Replay.h */,
+				7EFACB6915258394003FDFC2 /* SC2Replay.m */,
+				7E236B6D15EC94EA006955DA /* SC2BaseInfo */,
+				7EAF039A157B53AE00F1DD61 /* SC2ReplayNode.h */,
+				7EAF039B157B53AE00F1DD61 /* SC2ReplayNode.m */,
+				7E7A6F4B153550F800F72733 /* SC2Timing.h */,
+				7E7A6F4C153550F900F72733 /* SC2Timing.m */,
+				7EAF03A0157C4D4100F1DD61 /* DDFileReader.h */,
+				7EAF03A1157C4D4100F1DD61 /* DDFileReader.m */,
+				7E61CB4615F4397B005C84E2 /* UINavigationBar+Customized.h */,
+				7E61CB4715F4397B005C84E2 /* UINavigationBar+Customized.m */,
+				7E0ED96015045775009EF568 /* Supporting Files */,
+			);
+			path = ZergTimingAlert;
+			sourceTree = "<group>";
+		};
+		7E0ED96015045775009EF568 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ECEAB3215F6F9220091004F /* back.png */,
+				7E61CB4315F43968005C84E2 /* navibar_1.png */,
+				7E65073215A5806100AF77FE /* play_icon.png */,
+				7E054A6515A1918A002B3FB2 /* speedstop.png */,
+				7E054A6315A18CFC002B3FB2 /* speeddown.png */,
+				7E054A5F15A18CD7002B3FB2 /* speedup.png */,
+				7E0AE14C157DB7880060DDEB /* players.plist */,
+				7EB690C715930F5000D1BA69 /* replaysList.plist */,
+				7E2C0E731586176500EF1C6D /* players */,
+				7E9E95491584BCCA000FEE50 /* SC2Images */,
+				7EF654E7157DE6A800420A6C /* Replays */,
+				7ED5CCFD153311B700C51616 /* icon_bg.png */,
+				7E49CCD015AB1B690090375F /* protoss.gif */,
+				7E49CCD315AB1BF10090375F /* zerg.gif */,
+				7E49CCD415AB1BF10090375F /* terran.gif */,
+				7E49CCD715AB1FF50090375F /* sc2repImg.png */,
+				7E0ED96115045775009EF568 /* sc2RepNote-Info.plist */,
+				7E0ED96215045775009EF568 /* InfoPlist.strings */,
+				7E0ED96515045775009EF568 /* main.m */,
+				7E0ED96715045775009EF568 /* sc2RepNote-Prefix.pch */,
+				7EFACB73152584D6003FDFC2 /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7E236B6D15EC94EA006955DA /* SC2BaseInfo */ = {
+			isa = PBXGroup;
+			children = (
+				7E30AEF015ECC48A0014F83F /* terran */,
+				7E30AEEF15ECC4800014F83F /* protoss */,
+				7E30AEEE15ECC4760014F83F /* zerg */,
+				7E236B6A15EC94E4006955DA /* SC2Building.h */,
+				7E236B6B15EC94E5006955DA /* SC2Building.m */,
+				7E236B6715EC94D1006955DA /* SC2Unit.h */,
+				7E236B6815EC94D1006955DA /* SC2Unit.m */,
+				7E236B6E15EC950B006955DA /* SC2Upgrade.h */,
+				7E236B6F15EC950B006955DA /* SC2Upgrade.m */,
+				7E236B7115EC951A006955DA /* SC2Research.h */,
+				7E236B7215EC951A006955DA /* SC2Research.m */,
+			);
+			name = SC2BaseInfo;
+			sourceTree = "<group>";
+		};
+		7E2C0E731586176500EF1C6D /* players */ = {
+			isa = PBXGroup;
+			children = (
+				7E2C0E741586177400EF1C6D /* stephano */,
+			);
+			name = players;
+			sourceTree = "<group>";
+		};
+		7E2C0E741586177400EF1C6D /* stephano */ = {
+			isa = PBXGroup;
+			children = (
+				7E2C0E751586179100EF1C6D /* stephano.jpg */,
+			);
+			name = stephano;
+			sourceTree = "<group>";
+		};
+		7E2DCEA6159960C5007667B8 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				7E2DCEA715996135007667B8 /* MBProgressHUD.h */,
+				7E2DCEA815996135007667B8 /* MBProgressHUD.m */,
+			);
+			name = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		7E30AEEE15ECC4760014F83F /* zerg */ = {
+			isa = PBXGroup;
+			children = (
+				7E30AEEA15ECC3CD0014F83F /* zergResearch.plist */,
+				7E30AED715ECB9D80014F83F /* zergBuilding.plist */,
+				7E30AED115ECB82D0014F83F /* zergUnit.plist */,
+				7E30AEE315ECC14C0014F83F /* zergUpgrade.plist */,
+			);
+			name = zerg;
+			sourceTree = "<group>";
+		};
+		7E30AEEF15ECC4800014F83F /* protoss */ = {
+			isa = PBXGroup;
+			children = (
+				7E30AED915ECBB050014F83F /* protossBuilding.plist */,
+				7E30AED015ECB82D0014F83F /* protossUnit.plist */,
+				7E30AEE815ECC3CD0014F83F /* protossResearch.plist */,
+				7E30AEE115ECC14C0014F83F /* protossUpgrade.plist */,
+			);
+			name = protoss;
+			sourceTree = "<group>";
+		};
+		7E30AEF015ECC48A0014F83F /* terran */ = {
+			isa = PBXGroup;
+			children = (
+				7E30AEDA15ECBB050014F83F /* terranBuilding.plist */,
+				7E30AEE915ECC3CD0014F83F /* terranResearch.plist */,
+				7E30AED215ECB82D0014F83F /* terranUnit.plist */,
+				7E30AEE215ECC14C0014F83F /* terranUpgrade.plist */,
+			);
+			name = terran;
+			sourceTree = "<group>";
+		};
+		7E4D1644158F213200648300 /* Upgrade */ = {
+			isa = PBXGroup;
+			children = (
+				7E32375C159AADAC008AFB82 /* Protoss Air Armor 3.gif */,
+				7E32375D159AADAF008AFB82 /* Protoss Air Armor 2.gif */,
+				7E32375E159AADB2008AFB82 /* Protoss Air Armor 1.gif */,
+				7E32375F159AADB5008AFB82 /* Protoss Air Weapons 3.gif */,
+				7E323760159AADB8008AFB82 /* Protoss Air Weapons 2.gif */,
+				7E323768159AAE16008AFB82 /* Protoss Air Weapons 1.gif */,
+				7E32374A159AABD1008AFB82 /* Protoss Shields 3.gif */,
+				7E32374B159AABD3008AFB82 /* Protoss Shields 2.gif */,
+				7E32374C159AABD5008AFB82 /* Protoss Shields 1.gif */,
+				7E32374D159AABD6008AFB82 /* Protoss Ground Armor 3.gif */,
+				7E32374E159AABD8008AFB82 /* Protoss Ground Armor 2.gif */,
+				7E32374F159AABDA008AFB82 /* Protoss Ground Armor 1.gif */,
+				7E323750159AABDC008AFB82 /* Protoss Ground Weapons 3.gif */,
+				7E323751159AABDF008AFB82 /* Protoss Ground Weapons 2.gif */,
+				7E323752159AABE1008AFB82 /* Protoss Ground Weapons 1.gif */,
+				7E32372C159AA18C008AFB82 /* Zerg Flyer Carapace 3.gif */,
+				7E32372D159AA18D008AFB82 /* Zerg Flyer Carapace 2.gif */,
+				7E32372E159AA18D008AFB82 /* Zerg Flyer Carapace 1.gif */,
+				7E323726159AA139008AFB82 /* Zerg Flyer Attacks 3.gif */,
+				7E323727159AA13A008AFB82 /* Zerg Flyer Attacks 2.gif */,
+				7E323728159AA13A008AFB82 /* Zerg Flyer Attacks 1.gif */,
+				7E323720159AA04D008AFB82 /* Zerg Ground Carapace 3.gif */,
+				7E323721159AA04D008AFB82 /* Zerg Ground Carapace 2.gif */,
+				7E323722159AA04E008AFB82 /* Zerg Ground Carapace 1.gif */,
+				7E32371A159AA01B008AFB82 /* Zerg Missile Attacks 3.gif */,
+				7E32371B159AA01B008AFB82 /* Zerg Missile Attacks 2.gif */,
+				7E32371C159AA01B008AFB82 /* Zerg Missile Attacks 1.gif */,
+				7E323714159A9FEC008AFB82 /* Zerg Melee Attacks 3.gif */,
+				7E323715159A9FEC008AFB82 /* Zerg Melee Attacks 2.gif */,
+				7E323716159A9FEC008AFB82 /* Zerg Melee Attacks 1.gif */,
+				7EB690DC1597023B00D1BA69 /* Terran Infantry Weapons 3.png */,
+				7EB690DD1597023B00D1BA69 /* Terran Infantry Weapons 1.png */,
+				7EB690DE1597023B00D1BA69 /* Terran Infantry Weapons 2.png */,
+				7EB690D6159700EA00D1BA69 /* Terran Infantry Armor 3.png */,
+				7EB690D7159700EA00D1BA69 /* Terran Infantry Armor 2.png */,
+				7EB690D8159700EA00D1BA69 /* Terran Infantry Armor 1.png */,
+				7E32373E159AA839008AFB82 /* Terran Ship Plating 3.gif */,
+				7E32373F159AA83A008AFB82 /* Terran Ship Plating 2.gif */,
+				7E323740159AA83B008AFB82 /* Terran Ship Plating 1.gif */,
+				7E323741159AA83D008AFB82 /* Terran Ship Weapons 3.gif */,
+				7E323742159AA83E008AFB82 /* Terran Ship Weapons 2.gif */,
+				7E323743159AA83F008AFB82 /* Terran Ship Weapons 1.gif */,
+				7E323738159AA786008AFB82 /* Terran Vehicle Plating 3.gif */,
+				7E323739159AA787008AFB82 /* Terran Vehicle Plating 2.gif */,
+				7E32373A159AA787008AFB82 /* Terran Vehicle Plating 1.gif */,
+				7E323732159AA75B008AFB82 /* Terran Vehicle Weapons 3.gif */,
+				7E323733159AA75B008AFB82 /* Terran Vehicle Weapons 2.gif */,
+				7E323734159AA75C008AFB82 /* Terran Vehicle Weapons 1.gif */,
+			);
+			name = Upgrade;
+			sourceTree = "<group>";
+		};
+		7E4D1645158F214100648300 /* Research */ = {
+			isa = PBXGroup;
+			children = (
+				7E99695E159AE5BB00BB5A02 /* Zerg Ventral Sacs.gif */,
+				7E99695F159AE5BC00BB5A02 /* Zerg Pneumatized Carapace.gif */,
+				7E996960159AE5BC00BB5A02 /* Zerg Burrow.gif */,
+				7E2DCEB61599B003007667B8 /* Zerg Adrenal Glands.gif */,
+				7EB690D21596F26D00D1BA69 /* Zerg Metabolic Boost.png */,
+				7E996964159AE71000BB5A02 /* Zerg Glial Reconstitution.gif */,
+				7E99695B159AE5A500BB5A02 /* Zerg Tunneling Claws.gif */,
+				7E996966159AE74A00BB5A02 /* Zerg Centrifugal Hooks.gif */,
+				7E996968159AE78900BB5A02 /* Zerg Grooved Spines.gif */,
+				7E996969159AE78A00BB5A02 /* Zerg Chitinous Plating.gif */,
+				7E99696A159AE78B00BB5A02 /* Zerg Pathogen Glands.gif */,
+				7E99696B159AE78D00BB5A02 /* Zerg Neural Parasite.png */,
+				7E996948159AE3D100BB5A02 /* Terran Weapon Refit.png */,
+				7E996949159AE3D100BB5A02 /* Terran Behemoth Reactor.gif */,
+				7E99694C159AE45900BB5A02 /* Terran Moebius Reactor.gif */,
+				7E996940159AE35B00BB5A02 /* Terran Cloaking Field.png */,
+				7E996941159AE35B00BB5A02 /* Terran Seeker Missile.png */,
+				7E996942159AE35B00BB5A02 /* Terran Durable Materials.gif */,
+				7E996943159AE35B00BB5A02 /* Terran Corvid Reactor.gif */,
+				7E99693E159AE30C00BB5A02 /* Terran Caduceus Reactor.gif */,
+				7E99693C159AE2C000BB5A02 /* Terran 250mm Strike Cannons.png */,
+				7E996938159AE22A00BB5A02 /* Terran Infernal Pre-Igniter.png */,
+				7E99693A159AE27200BB5A02 /* Terran Combat Shield.png */,
+				7E996933159AE18300BB5A02 /* Terran Concussive Shells.png */,
+				7E996936159AE1D800BB5A02 /* Terran Nitro Packs.png */,
+				7EB690E41597FEA700D1BA69 /* Terran Siege Tech.gif */,
+				7EB690E21597FD5400D1BA69 /* Terran Stimpack.png */,
+				7EB690D41596F32400D1BA69 /* Protoss Hallucination.png */,
+				7EB690D01596F18700D1BA69 /* Protoss Warp Gate.png */,
+				7E99694E159AE4C300BB5A02 /* Protoss Charge.png */,
+				7E99694F159AE4C300BB5A02 /* Protoss Blink.png */,
+				7E996952159AE4F400BB5A02 /* Protoss Psionic Storm.png */,
+				7E996954159AE50A00BB5A02 /* Protoss Extended Thermal Lance.gif */,
+				7E996955159AE50A00BB5A02 /* Protoss Gravitic Boosters.gif */,
+				7E996956159AE50B00BB5A02 /* Protoss Gravitic Drive.gif */,
+			);
+			name = Research;
+			sourceTree = "<group>";
+		};
+		7E6EE9B315EB2C1D000EDA13 /* TableCell */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = TableCell;
+			sourceTree = "<group>";
+		};
+		7E948B3A158723FA00F80B36 /* GoogleAdMobAdsSDK */ = {
+			isa = PBXGroup;
+			children = (
+				7E948B3B158723FA00F80B36 /* GADAdMobExtras.h */,
+				7E948B3C158723FA00F80B36 /* GADAdNetworkExtras.h */,
+				7E948B3D158723FA00F80B36 /* GADAdSize.h */,
+				7E948B3E158723FA00F80B36 /* GADBannerView.h */,
+				7E948B3F158723FA00F80B36 /* GADBannerViewDelegate.h */,
+				7E948B40158723FA00F80B36 /* GADInterstitial.h */,
+				7E948B41158723FA00F80B36 /* GADInterstitialDelegate.h */,
+				7E948B42158723FA00F80B36 /* GADRequest.h */,
+				7E948B43158723FA00F80B36 /* GADRequestError.h */,
+				7E948B44158723FA00F80B36 /* libGoogleAdMobAds.a */,
+				7E948B45158723FA00F80B36 /* Mediation */,
+				7E948B4C158723FA00F80B36 /* README.txt */,
+			);
+			path = GoogleAdMobAdsSDK;
+			sourceTree = "<group>";
+		};
+		7E948B45158723FA00F80B36 /* Mediation */ = {
+			isa = PBXGroup;
+			children = (
+				7E948B46158723FA00F80B36 /* GADCustomEventBanner.h */,
+				7E948B47158723FA00F80B36 /* GADCustomEventBannerDelegate.h */,
+				7E948B48158723FA00F80B36 /* GADCustomEventExtras.h */,
+				7E948B49158723FA00F80B36 /* GADCustomEventInterstitial.h */,
+				7E948B4A158723FA00F80B36 /* GADCustomEventInterstitialDelegate.h */,
+				7E948B4B158723FA00F80B36 /* GADCustomEventRequest.h */,
+			);
+			path = Mediation;
+			sourceTree = "<group>";
+		};
+		7E9E95491584BCCA000FEE50 /* SC2Images */ = {
+			isa = PBXGroup;
+			children = (
+				7E4D1645158F214100648300 /* Research */,
+				7E4D1644158F213200648300 /* Upgrade */,
+				7E9E954A1584BCCA000FEE50 /* Protoss */,
+				7E9E95681584BCCA000FEE50 /* Terran */,
+				7E9E95831584BCCA000FEE50 /* Zerg */,
+			);
+			path = SC2Images;
+			sourceTree = "<group>";
+		};
+		7E9E954A1584BCCA000FEE50 /* Protoss */ = {
+			isa = PBXGroup;
+			children = (
+				7E4D1649158F21B600648300 /* chronoboost.png */,
+				7E9E954B1584BCCA000FEE50 /* archon.png */,
+				7E9E954C1584BCCA000FEE50 /* assimilator.png */,
+				7E9E954D1584BCCA000FEE50 /* carrier.png */,
+				7E9E954E1584BCCA000FEE50 /* colossus.png */,
+				7E9E954F1584BCCA000FEE50 /* cyberneticscore.png */,
+				7E9E95501584BCCA000FEE50 /* darkshrine.png */,
+				7E9E95511584BCCA000FEE50 /* darktemplar.png */,
+				7E9E95521584BCCA000FEE50 /* fleetbeacon.png */,
+				7E9E95531584BCCA000FEE50 /* forge.png */,
+				7E9E95541584BCCA000FEE50 /* gateway.png */,
+				7E9E95551584BCCA000FEE50 /* hightemplar.png */,
+				7E9E95561584BCCA000FEE50 /* immortal.png */,
+				7E9E95571584BCCA000FEE50 /* mothership.png */,
+				7E9E95581584BCCA000FEE50 /* nexus.png */,
+				7E9E95591584BCCA000FEE50 /* observer.png */,
+				7E9E955A1584BCCA000FEE50 /* photoncannon.png */,
+				7E9E955B1584BCCA000FEE50 /* phoenix.png */,
+				7E9E955C1584BCCA000FEE50 /* probe.png */,
+				7E9E955D1584BCCA000FEE50 /* pylon.png */,
+				7E9E955E1584BCCA000FEE50 /* roboticsfacility.png */,
+				7E9E955F1584BCCA000FEE50 /* roboticsbay.png */,
+				7E9E95601584BCCA000FEE50 /* sentry.png */,
+				7E9E95611584BCCA000FEE50 /* stalker.png */,
+				7E9E95621584BCCA000FEE50 /* stargate.png */,
+				7E9E95631584BCCA000FEE50 /* templararchives.png */,
+				7E9E95641584BCCA000FEE50 /* twilightcouncil.png */,
+				7E9E95651584BCCA000FEE50 /* voidray.png */,
+				7E9E95661584BCCA000FEE50 /* warpprism.png */,
+				7E9E95671584BCCA000FEE50 /* zealot.png */,
+			);
+			path = Protoss;
+			sourceTree = "<group>";
+		};
+		7E9E95681584BCCA000FEE50 /* Terran */ = {
+			isa = PBXGroup;
+			children = (
+				7E2C0E6B1585EB2D00EF1C6D /* techlab.png */,
+				7E2C0E6C1585EB2E00EF1C6D /* reactor.png */,
+				7E2C0E651585E8F500EF1C6D /* orbitalcommand.png */,
+				7E2C0E661585E8F500EF1C6D /* mule.png */,
+				7E2C0E631585E85200EF1C6D /* planetaryfortress.png */,
+				7E9E95691584BCCA000FEE50 /* armory.png */,
+				7E9E956A1584BCCA000FEE50 /* banshee.png */,
+				7E9E956B1584BCCA000FEE50 /* barracks.png */,
+				7E9E956C1584BCCA000FEE50 /* battlecruiser.png */,
+				7E9E956D1584BCCA000FEE50 /* bunker.png */,
+				7E9E956E1584BCCA000FEE50 /* commandcenter.png */,
+				7E9E956F1584BCCA000FEE50 /* fusioncore.png */,
+				7E9E95701584BCCA000FEE50 /* engineeringbay.png */,
+				7E9E95711584BCCA000FEE50 /* factory.png */,
+				7E9E95721584BCCA000FEE50 /* ghost.png */,
+				7E9E95731584BCCA000FEE50 /* ghostacademy.png */,
+				7E9E95741584BCCA000FEE50 /* hellion.png */,
+				7E9E95751584BCCA000FEE50 /* marauder.png */,
+				7E9E95761584BCCA000FEE50 /* marine.png */,
+				7E9E95771584BCCA000FEE50 /* medivac.png */,
+				7E9E95781584BCCA000FEE50 /* missileturret.png */,
+				7E9E95791584BCCA000FEE50 /* raven.png */,
+				7E9E957A1584BCCA000FEE50 /* reaper.png */,
+				7E9E957B1584BCCA000FEE50 /* refinery.png */,
+				7E9E957C1584BCCA000FEE50 /* scv.png */,
+				7E9E957D1584BCCA000FEE50 /* sensortower.png */,
+				7E9E957E1584BCCA000FEE50 /* siegetank.png */,
+				7E9E957F1584BCCA000FEE50 /* starport.png */,
+				7E9E95801584BCCA000FEE50 /* supplydepot.png */,
+				7E9E95811584BCCA000FEE50 /* thor.png */,
+				7E9E95821584BCCA000FEE50 /* viking.png */,
+			);
+			path = Terran;
+			sourceTree = "<group>";
+		};
+		7E9E95831584BCCA000FEE50 /* Zerg */ = {
+			isa = PBXGroup;
+			children = (
+				7E68D6FE159D399C00852057 /* Spawn Creep Tumor.gif */,
+				7E2DCEAE1599823C007667B8 /* roach1.png */,
+				7E4D164B158F21F400648300 /* spawnlarva.png */,
+				7E2C0E691585E90100EF1C6D /* lair.png */,
+				7E2C0E611585E4B800EF1C6D /* hive.png */,
+				7E2C0E5F1585E49F00EF1C6D /* creeptumor.png */,
+				7E2C0E5D1585E48E00EF1C6D /* overseer.png */,
+				7E2C0E5B1585E22700EF1C6D /* spire.png */,
+				7E9E95911584BCCA000FEE50 /* baneling.png */,
+				7E9E95921584BCCA000FEE50 /* banelingnest.png */,
+				7E9E95931584BCCA000FEE50 /* broodlord.png */,
+				7E9E95941584BCCA000FEE50 /* corruptor.png */,
+				7E9E95951584BCCA000FEE50 /* drone.png */,
+				7E9E95961584BCCA000FEE50 /* evolutionchamber.png */,
+				7E9E95971584BCCA000FEE50 /* extractor.png */,
+				7E9E95981584BCCA000FEE50 /* greaterspire.png */,
+				7E9E95991584BCCA000FEE50 /* hatchery.png */,
+				7E9E959A1584BCCA000FEE50 /* hydralisk.png */,
+				7E9E959B1584BCCA000FEE50 /* hydraliskden.png */,
+				7E9E959C1584BCCA000FEE50 /* infestor.png */,
+				7E9E959D1584BCCA000FEE50 /* infestorpit.png */,
+				7E9E959E1584BCCA000FEE50 /* mutalisk.png */,
+				7E9E959F1584BCCA000FEE50 /* nydusnetwork.png */,
+				7E9E95A01584BCCA000FEE50 /* overlord.png */,
+				7E9E95A11584BCCA000FEE50 /* queen.png */,
+				7E9E95A21584BCCA000FEE50 /* roachwarren.png */,
+				7E9E95A31584BCCA000FEE50 /* spawningpool.png */,
+				7E9E95A41584BCCA000FEE50 /* spinecrawler.png */,
+				7E9E95A51584BCCA000FEE50 /* sporecrawler.png */,
+				7E9E95A61584BCCA000FEE50 /* ultralisk.png */,
+				7E9E95A71584BCCA000FEE50 /* ultraliskcavern.png */,
+				7E9E95A81584BCCA000FEE50 /* zergling.png */,
+			);
+			path = Zerg;
+			sourceTree = "<group>";
+		};
+		7ECBEC5215A6AB8400FEB963 /* JMTabView */ = {
+			isa = PBXGroup;
+			children = (
+				7ECBEC5315A6AB8400FEB963 /* Classes */,
+			);
+			path = JMTabView;
+			sourceTree = "<group>";
+		};
+		7ECBEC5315A6AB8400FEB963 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7ECBEC5415A6AB8400FEB963 /* Categories */,
+				7ECBEC5D15A6AB8400FEB963 /* Subviews */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7ECBEC5415A6AB8400FEB963 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				7ECBEC5515A6AB8400FEB963 /* UIColor+Hex.h */,
+				7ECBEC5615A6AB8400FEB963 /* UIColor+Hex.m */,
+				7ECBEC5715A6AB8400FEB963 /* UIView+InnerShadow.h */,
+				7ECBEC5815A6AB8400FEB963 /* UIView+InnerShadow.m */,
+				7ECBEC5915A6AB8400FEB963 /* UIView+Positioning.h */,
+				7ECBEC5A15A6AB8400FEB963 /* UIView+Positioning.m */,
+				7ECBEC5B15A6AB8400FEB963 /* UIView+Size.h */,
+				7ECBEC5C15A6AB8400FEB963 /* UIView+Size.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		7ECBEC5D15A6AB8400FEB963 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				7ECBEC5E15A6AB8400FEB963 /* JMSelectionView.h */,
+				7ECBEC5F15A6AB8400FEB963 /* JMSelectionView.m */,
+				7ECBEC6015A6AB8400FEB963 /* JMTabConstants.h */,
+				7ECBEC6115A6AB8400FEB963 /* JMTabContainer.h */,
+				7ECBEC6215A6AB8400FEB963 /* JMTabContainer.m */,
+				7ECBEC6315A6AB8400FEB963 /* JMTabItem.h */,
+				7ECBEC6415A6AB8400FEB963 /* JMTabItem.m */,
+				7ECBEC6515A6AB8400FEB963 /* JMTabView.h */,
+				7ECBEC6615A6AB8400FEB963 /* JMTabView.m */,
+				7ECBEC6715A6AB8400FEB963 /* Layers */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		7ECBEC6715A6AB8400FEB963 /* Layers */ = {
+			isa = PBXGroup;
+			children = (
+				7ECBEC6815A6AB8400FEB963 /* BarBackgroundLayer.h */,
+				7ECBEC6915A6AB8400FEB963 /* BarBackgroundLayer.m */,
+			);
+			path = Layers;
+			sourceTree = "<group>";
+		};
+		7EF654E7157DE6A800420A6C /* Replays */ = {
+			isa = PBXGroup;
+			children = (
+				7E672FD915AEFF9E001785A4 /* Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt */,
+				7E3E45BB15AC26F30098858C /* MKP_tvp_vs_EGJYP_IPL4_2base.txt */,
+				7E3E45FC15ADC4620098858C /* Squirtle vs MMA 2 base Colossus IPL4.txt */,
+				7E235D9A15AE9A5700CC4F1B /* Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt */,
+				7E235D9715AE8FFA00CC4F1B /* DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt */,
+				7E3E45FA15ADC2BF0098858C /* Squirtle vs MKP 2 base Colossus IPL4.txt */,
+				7E3E45F315AD7EE30098858C /* Squirtle vs Nestea pvz 3bg attack IPL4.txt */,
+				7E8A500515AAB6BC00D4156B /* MKP tvp vs PartinG 2012 MLG Winter .txt */,
+				7E8A500315AAB6A000D4156B /* Parting pvt vs MKP 2012 MLG Winter .txt */,
+				7E8A500115AAAC3F00D4156B /* DRG_zvp_vs_EGJYP_2012 MLG Winter.txt */,
+				7E8A4FF415AA809000D4156B /* Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt */,
+				7E8A4FF515AA809000D4156B /* Symbol_zvt_Polt_on_daybreak_4queen.txt */,
+				7ECBEC8D15A96B5B00FEB963 /* Stephano_zvp_parting_daybreak_redbull.txt */,
+				7E054A8A15A543F8002B3FB2 /* aLive_tvp_Squirtle_IPL4_1base.txt */,
+				7E054A8B15A543F8002B3FB2 /* aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt */,
+				7E054A8C15A543F8002B3FB2 /* mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt */,
+				7E054A8D15A543F8002B3FB2 /* Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt */,
+				7E054A8715A543E9002B3FB2 /* MKP_tvz_Symbol_IPL5_5bb_Ohana.txt */,
+				7E054A7515A42ED4002B3FB2 /* MKP_tvz_ipl5_vs_TSLHyun_2.txt */,
+				7E68D704159D977900852057 /* MC_pvz_redbull_vs_stephano_OhanaLE.txt */,
+				7E68D700159D3F2A00852057 /* STPartinG_pvz_redbull_vs_LiquidRet.txt */,
+				7EEE0F88159B456C002F65CD /* Nestea_zvp_ipl4_vs_MVPTails.txt */,
+				7EB690CE1596F0C500D1BA69 /* test.txt */,
+				7E4D1640158F0FBE00648300 /* MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt */,
+			);
+			name = Replays;
+			sourceTree = "<group>";
+		};
+		7EF654F1157DF3FF00420A6C /* jsonlib */ = {
+			isa = PBXGroup;
+			children = (
+				7EF654F2157DF3FF00420A6C /* NSObject+SBJson.h */,
+				7EF654F3157DF3FF00420A6C /* NSObject+SBJson.m */,
+				7EF654F4157DF3FF00420A6C /* SBJson.h */,
+				7EF654F5157DF3FF00420A6C /* SBJsonParser.h */,
+				7EF654F6157DF3FF00420A6C /* SBJsonParser.m */,
+				7EF654F7157DF3FF00420A6C /* SBJsonStreamParser.h */,
+				7EF654F8157DF3FF00420A6C /* SBJsonStreamParser.m */,
+				7EF654F9157DF3FF00420A6C /* SBJsonStreamParserAccumulator.h */,
+				7EF654FA157DF3FF00420A6C /* SBJsonStreamParserAccumulator.m */,
+				7EF654FB157DF3FF00420A6C /* SBJsonStreamParserAdapter.h */,
+				7EF654FC157DF3FF00420A6C /* SBJsonStreamParserAdapter.m */,
+				7EF654FD157DF3FF00420A6C /* SBJsonStreamParserState.h */,
+				7EF654FE157DF3FF00420A6C /* SBJsonStreamParserState.m */,
+				7EF654FF157DF3FF00420A6C /* SBJsonStreamWriter.h */,
+				7EF65500157DF3FF00420A6C /* SBJsonStreamWriter.m */,
+				7EF65501157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.h */,
+				7EF65502157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.m */,
+				7EF65503157DF3FF00420A6C /* SBJsonStreamWriterState.h */,
+				7EF65504157DF3FF00420A6C /* SBJsonStreamWriterState.m */,
+				7EF65505157DF3FF00420A6C /* SBJsonTokeniser.h */,
+				7EF65506157DF3FF00420A6C /* SBJsonTokeniser.m */,
+				7EF65507157DF3FF00420A6C /* SBJsonUTF8Stream.h */,
+				7EF65508157DF3FF00420A6C /* SBJsonUTF8Stream.m */,
+				7EF65509157DF3FF00420A6C /* SBJsonWriter.h */,
+				7EF6550A157DF3FF00420A6C /* SBJsonWriter.m */,
+			);
+			name = jsonlib;
+			path = ZergTimingAlert/jsonlib;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7E0ED95415045775009EF568 /* sc2RepNote */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E0ED97315045775009EF568 /* Build configuration list for PBXNativeTarget "sc2RepNote" */;
+			buildPhases = (
+				7E0ED95115045775009EF568 /* Sources */,
+				7E0ED95215045775009EF568 /* Frameworks */,
+				7E0ED95315045775009EF568 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = sc2RepNote;
+			productName = ZergTimingAlert;
+			productReference = 7E0ED95515045775009EF568 /* sc2RepNote.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7E0ED94C15045775009EF568 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = esse;
+			};
+			buildConfigurationList = 7E0ED94F15045775009EF568 /* Build configuration list for PBXProject "sc2RepNote" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				"zh-Hans",
+				"zh-Hant",
+			);
+			mainGroup = 7E0ED94A15045775009EF568;
+			productRefGroup = 7E0ED95615045775009EF568 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7E0ED95415045775009EF568 /* sc2RepNote */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7E0ED95315045775009EF568 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E0ED96415045775009EF568 /* InfoPlist.strings in Resources */,
+				7EA6C10C150855CC00C72796 /* login_btn.png in Resources */,
+				7EFACB71152584D6003FDFC2 /* Localizable.strings in Resources */,
+				7EA15C421526903B00AFEAF6 /* BuildingUnitView.xib in Resources */,
+				7ED5CCFE153311B700C51616 /* icon_bg.png in Resources */,
+				7ED9CD6F153400B1003F0F54 /* RepShowPage.xib in Resources */,
+				7E7A6F521535758500F72733 /* OppSingleView.xib in Resources */,
+				7E0AE14D157DB7880060DDEB /* players.plist in Resources */,
+				7E9E95A91584BCCA000FEE50 /* archon.png in Resources */,
+				7E9E95AA1584BCCA000FEE50 /* assimilator.png in Resources */,
+				7E9E95AB1584BCCA000FEE50 /* carrier.png in Resources */,
+				7E9E95AC1584BCCA000FEE50 /* colossus.png in Resources */,
+				7E9E95AD1584BCCA000FEE50 /* cyberneticscore.png in Resources */,
+				7E9E95AE1584BCCA000FEE50 /* darkshrine.png in Resources */,
+				7E9E95AF1584BCCA000FEE50 /* darktemplar.png in Resources */,
+				7E9E95B01584BCCA000FEE50 /* fleetbeacon.png in Resources */,
+				7E9E95B11584BCCA000FEE50 /* forge.png in Resources */,
+				7E9E95B21584BCCA000FEE50 /* gateway.png in Resources */,
+				7E9E95B31584BCCA000FEE50 /* hightemplar.png in Resources */,
+				7E9E95B41584BCCA000FEE50 /* immortal.png in Resources */,
+				7E9E95B51584BCCA000FEE50 /* mothership.png in Resources */,
+				7E9E95B61584BCCA000FEE50 /* nexus.png in Resources */,
+				7E9E95B71584BCCA000FEE50 /* observer.png in Resources */,
+				7E9E95B81584BCCA000FEE50 /* photoncannon.png in Resources */,
+				7E9E95B91584BCCA000FEE50 /* phoenix.png in Resources */,
+				7E9E95BA1584BCCA000FEE50 /* probe.png in Resources */,
+				7E9E95BB1584BCCA000FEE50 /* pylon.png in Resources */,
+				7E9E95BC1584BCCA000FEE50 /* roboticsfacility.png in Resources */,
+				7E9E95BD1584BCCA000FEE50 /* roboticsbay.png in Resources */,
+				7E9E95BE1584BCCA000FEE50 /* sentry.png in Resources */,
+				7E9E95BF1584BCCA000FEE50 /* stalker.png in Resources */,
+				7E9E95C01584BCCA000FEE50 /* stargate.png in Resources */,
+				7E9E95C11584BCCA000FEE50 /* templararchives.png in Resources */,
+				7E9E95C21584BCCA000FEE50 /* twilightcouncil.png in Resources */,
+				7E9E95C31584BCCA000FEE50 /* voidray.png in Resources */,
+				7E9E95C41584BCCA000FEE50 /* warpprism.png in Resources */,
+				7E9E95C51584BCCA000FEE50 /* zealot.png in Resources */,
+				7E9E95C61584BCCA000FEE50 /* armory.png in Resources */,
+				7E9E95C71584BCCA000FEE50 /* banshee.png in Resources */,
+				7E9E95C81584BCCA000FEE50 /* barracks.png in Resources */,
+				7E9E95C91584BCCA000FEE50 /* battlecruiser.png in Resources */,
+				7E9E95CA1584BCCA000FEE50 /* bunker.png in Resources */,
+				7E9E95CB1584BCCA000FEE50 /* commandcenter.png in Resources */,
+				7E9E95CC1584BCCA000FEE50 /* fusioncore.png in Resources */,
+				7E9E95CD1584BCCA000FEE50 /* engineeringbay.png in Resources */,
+				7E9E95CE1584BCCA000FEE50 /* factory.png in Resources */,
+				7E9E95CF1584BCCA000FEE50 /* ghost.png in Resources */,
+				7E9E95D01584BCCA000FEE50 /* ghostacademy.png in Resources */,
+				7E9E95D11584BCCA000FEE50 /* hellion.png in Resources */,
+				7E9E95D21584BCCA000FEE50 /* marauder.png in Resources */,
+				7E9E95D31584BCCA000FEE50 /* marine.png in Resources */,
+				7E9E95D41584BCCA000FEE50 /* medivac.png in Resources */,
+				7E9E95D51584BCCA000FEE50 /* missileturret.png in Resources */,
+				7E9E95D61584BCCA000FEE50 /* raven.png in Resources */,
+				7E9E95D71584BCCA000FEE50 /* reaper.png in Resources */,
+				7E9E95D81584BCCA000FEE50 /* refinery.png in Resources */,
+				7E9E95D91584BCCA000FEE50 /* scv.png in Resources */,
+				7E9E95DA1584BCCA000FEE50 /* sensortower.png in Resources */,
+				7E9E95DB1584BCCA000FEE50 /* siegetank.png in Resources */,
+				7E9E95DC1584BCCA000FEE50 /* starport.png in Resources */,
+				7E9E95DD1584BCCA000FEE50 /* supplydepot.png in Resources */,
+				7E9E95DE1584BCCA000FEE50 /* thor.png in Resources */,
+				7E9E95DF1584BCCA000FEE50 /* viking.png in Resources */,
+				7E9E95ED1584BCCA000FEE50 /* baneling.png in Resources */,
+				7E9E95EE1584BCCA000FEE50 /* banelingnest.png in Resources */,
+				7E9E95EF1584BCCA000FEE50 /* broodlord.png in Resources */,
+				7E9E95F01584BCCA000FEE50 /* corruptor.png in Resources */,
+				7E9E95F11584BCCA000FEE50 /* drone.png in Resources */,
+				7E9E95F21584BCCA000FEE50 /* evolutionchamber.png in Resources */,
+				7E9E95F31584BCCA000FEE50 /* extractor.png in Resources */,
+				7E9E95F41584BCCA000FEE50 /* greaterspire.png in Resources */,
+				7E9E95F51584BCCA000FEE50 /* hatchery.png in Resources */,
+				7E9E95F61584BCCA000FEE50 /* hydralisk.png in Resources */,
+				7E9E95F71584BCCA000FEE50 /* hydraliskden.png in Resources */,
+				7E9E95F81584BCCA000FEE50 /* infestor.png in Resources */,
+				7E9E95F91584BCCA000FEE50 /* infestorpit.png in Resources */,
+				7E9E95FA1584BCCA000FEE50 /* mutalisk.png in Resources */,
+				7E9E95FB1584BCCA000FEE50 /* nydusnetwork.png in Resources */,
+				7E9E95FC1584BCCA000FEE50 /* overlord.png in Resources */,
+				7E9E95FD1584BCCA000FEE50 /* queen.png in Resources */,
+				7E9E95FE1584BCCA000FEE50 /* roachwarren.png in Resources */,
+				7E9E95FF1584BCCA000FEE50 /* spawningpool.png in Resources */,
+				7E9E96001584BCCA000FEE50 /* spinecrawler.png in Resources */,
+				7E9E96011584BCCA000FEE50 /* sporecrawler.png in Resources */,
+				7E9E96021584BCCA000FEE50 /* ultralisk.png in Resources */,
+				7E9E96031584BCCA000FEE50 /* ultraliskcavern.png in Resources */,
+				7E9E96041584BCCA000FEE50 /* zergling.png in Resources */,
+				7E2C0E5C1585E22800EF1C6D /* spire.png in Resources */,
+				7E2C0E5E1585E48F00EF1C6D /* overseer.png in Resources */,
+				7E2C0E601585E4A000EF1C6D /* creeptumor.png in Resources */,
+				7E2C0E621585E4B900EF1C6D /* hive.png in Resources */,
+				7E2C0E641585E85200EF1C6D /* planetaryfortress.png in Resources */,
+				7E2C0E671585E8F500EF1C6D /* orbitalcommand.png in Resources */,
+				7E2C0E681585E8F500EF1C6D /* mule.png in Resources */,
+				7E2C0E6A1585E90400EF1C6D /* lair.png in Resources */,
+				7E2C0E6D1585EB2F00EF1C6D /* techlab.png in Resources */,
+				7E2C0E6E1585EB2F00EF1C6D /* reactor.png in Resources */,
+				7E2C0E761586179100EF1C6D /* stephano.jpg in Resources */,
+				7E948B4E158723FA00F80B36 /* README.txt in Resources */,
+				7E4D1642158F0FBE00648300 /* MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg.txt in Resources */,
+				7E4D164A158F21B600648300 /* chronoboost.png in Resources */,
+				7E4D164C158F21F500648300 /* spawnlarva.png in Resources */,
+				7EB690C815930F5000D1BA69 /* replaysList.plist in Resources */,
+				7EB690CF1596F0C500D1BA69 /* test.txt in Resources */,
+				7EB690D11596F18700D1BA69 /* Protoss Warp Gate.png in Resources */,
+				7EB690D31596F26D00D1BA69 /* Zerg Metabolic Boost.png in Resources */,
+				7EB690D51596F32500D1BA69 /* Protoss Hallucination.png in Resources */,
+				7EB690D9159700EA00D1BA69 /* Terran Infantry Armor 3.png in Resources */,
+				7EB690DA159700EA00D1BA69 /* Terran Infantry Armor 2.png in Resources */,
+				7EB690DB159700EA00D1BA69 /* Terran Infantry Armor 1.png in Resources */,
+				7EB690DF1597023B00D1BA69 /* Terran Infantry Weapons 3.png in Resources */,
+				7EB690E01597023B00D1BA69 /* Terran Infantry Weapons 1.png in Resources */,
+				7EB690E11597023B00D1BA69 /* Terran Infantry Weapons 2.png in Resources */,
+				7EB690E31597FD5400D1BA69 /* Terran Stimpack.png in Resources */,
+				7EB690E51597FEA700D1BA69 /* Terran Siege Tech.gif in Resources */,
+				7E2DCEAF15998242007667B8 /* roach1.png in Resources */,
+				7E2DCEB71599B003007667B8 /* Zerg Adrenal Glands.gif in Resources */,
+				7E323717159A9FEC008AFB82 /* Zerg Melee Attacks 3.gif in Resources */,
+				7E323718159A9FEC008AFB82 /* Zerg Melee Attacks 2.gif in Resources */,
+				7E323719159A9FEC008AFB82 /* Zerg Melee Attacks 1.gif in Resources */,
+				7E32371D159AA01B008AFB82 /* Zerg Missile Attacks 3.gif in Resources */,
+				7E32371E159AA01B008AFB82 /* Zerg Missile Attacks 2.gif in Resources */,
+				7E32371F159AA01B008AFB82 /* Zerg Missile Attacks 1.gif in Resources */,
+				7E323723159AA04E008AFB82 /* Zerg Ground Carapace 3.gif in Resources */,
+				7E323724159AA04E008AFB82 /* Zerg Ground Carapace 2.gif in Resources */,
+				7E323725159AA04E008AFB82 /* Zerg Ground Carapace 1.gif in Resources */,
+				7E323729159AA13B008AFB82 /* Zerg Flyer Attacks 3.gif in Resources */,
+				7E32372A159AA13B008AFB82 /* Zerg Flyer Attacks 2.gif in Resources */,
+				7E32372B159AA13B008AFB82 /* Zerg Flyer Attacks 1.gif in Resources */,
+				7E32372F159AA18E008AFB82 /* Zerg Flyer Carapace 3.gif in Resources */,
+				7E323730159AA18E008AFB82 /* Zerg Flyer Carapace 2.gif in Resources */,
+				7E323731159AA18E008AFB82 /* Zerg Flyer Carapace 1.gif in Resources */,
+				7E323735159AA75D008AFB82 /* Terran Vehicle Weapons 3.gif in Resources */,
+				7E323736159AA75D008AFB82 /* Terran Vehicle Weapons 2.gif in Resources */,
+				7E323737159AA75D008AFB82 /* Terran Vehicle Weapons 1.gif in Resources */,
+				7E32373B159AA788008AFB82 /* Terran Vehicle Plating 3.gif in Resources */,
+				7E32373C159AA788008AFB82 /* Terran Vehicle Plating 2.gif in Resources */,
+				7E32373D159AA788008AFB82 /* Terran Vehicle Plating 1.gif in Resources */,
+				7E323744159AA840008AFB82 /* Terran Ship Plating 3.gif in Resources */,
+				7E323745159AA840008AFB82 /* Terran Ship Plating 2.gif in Resources */,
+				7E323746159AA840008AFB82 /* Terran Ship Plating 1.gif in Resources */,
+				7E323747159AA840008AFB82 /* Terran Ship Weapons 3.gif in Resources */,
+				7E323748159AA840008AFB82 /* Terran Ship Weapons 2.gif in Resources */,
+				7E323749159AA840008AFB82 /* Terran Ship Weapons 1.gif in Resources */,
+				7E323753159AABE3008AFB82 /* Protoss Shields 3.gif in Resources */,
+				7E323754159AABE3008AFB82 /* Protoss Shields 2.gif in Resources */,
+				7E323755159AABE3008AFB82 /* Protoss Shields 1.gif in Resources */,
+				7E323756159AABE3008AFB82 /* Protoss Ground Armor 3.gif in Resources */,
+				7E323757159AABE3008AFB82 /* Protoss Ground Armor 2.gif in Resources */,
+				7E323758159AABE3008AFB82 /* Protoss Ground Armor 1.gif in Resources */,
+				7E323759159AABE3008AFB82 /* Protoss Ground Weapons 3.gif in Resources */,
+				7E32375A159AABE3008AFB82 /* Protoss Ground Weapons 2.gif in Resources */,
+				7E32375B159AABE3008AFB82 /* Protoss Ground Weapons 1.gif in Resources */,
+				7E323762159AADBE008AFB82 /* Protoss Air Armor 3.gif in Resources */,
+				7E323763159AADBE008AFB82 /* Protoss Air Armor 2.gif in Resources */,
+				7E323764159AADBE008AFB82 /* Protoss Air Armor 1.gif in Resources */,
+				7E323765159AADBE008AFB82 /* Protoss Air Weapons 3.gif in Resources */,
+				7E323766159AADBE008AFB82 /* Protoss Air Weapons 2.gif in Resources */,
+				7E323769159AAE27008AFB82 /* Protoss Air Weapons 1.gif in Resources */,
+				7E996934159AE18300BB5A02 /* Terran Concussive Shells.png in Resources */,
+				7E996937159AE1D800BB5A02 /* Terran Nitro Packs.png in Resources */,
+				7E996939159AE22A00BB5A02 /* Terran Infernal Pre-Igniter.png in Resources */,
+				7E99693B159AE27200BB5A02 /* Terran Combat Shield.png in Resources */,
+				7E99693D159AE2C100BB5A02 /* Terran 250mm Strike Cannons.png in Resources */,
+				7E99693F159AE30C00BB5A02 /* Terran Caduceus Reactor.gif in Resources */,
+				7E996944159AE35B00BB5A02 /* Terran Cloaking Field.png in Resources */,
+				7E996945159AE35B00BB5A02 /* Terran Seeker Missile.png in Resources */,
+				7E996946159AE35B00BB5A02 /* Terran Durable Materials.gif in Resources */,
+				7E996947159AE35B00BB5A02 /* Terran Corvid Reactor.gif in Resources */,
+				7E99694A159AE3D100BB5A02 /* Terran Weapon Refit.png in Resources */,
+				7E99694B159AE3D100BB5A02 /* Terran Behemoth Reactor.gif in Resources */,
+				7E99694D159AE45A00BB5A02 /* Terran Moebius Reactor.gif in Resources */,
+				7E996950159AE4C300BB5A02 /* Protoss Charge.png in Resources */,
+				7E996951159AE4C300BB5A02 /* Protoss Blink.png in Resources */,
+				7E996953159AE4F500BB5A02 /* Protoss Psionic Storm.png in Resources */,
+				7E996957159AE50C00BB5A02 /* Protoss Extended Thermal Lance.gif in Resources */,
+				7E996958159AE50C00BB5A02 /* Protoss Gravitic Boosters.gif in Resources */,
+				7E996959159AE50C00BB5A02 /* Protoss Gravitic Drive.gif in Resources */,
+				7E99695D159AE5A600BB5A02 /* Zerg Tunneling Claws.gif in Resources */,
+				7E996961159AE5BD00BB5A02 /* Zerg Ventral Sacs.gif in Resources */,
+				7E996962159AE5BD00BB5A02 /* Zerg Pneumatized Carapace.gif in Resources */,
+				7E996963159AE5BD00BB5A02 /* Zerg Burrow.gif in Resources */,
+				7E996965159AE71100BB5A02 /* Zerg Glial Reconstitution.gif in Resources */,
+				7E996967159AE74C00BB5A02 /* Zerg Centrifugal Hooks.gif in Resources */,
+				7E99696C159AE78E00BB5A02 /* Zerg Grooved Spines.gif in Resources */,
+				7E99696D159AE78E00BB5A02 /* Zerg Chitinous Plating.gif in Resources */,
+				7E99696E159AE78E00BB5A02 /* Zerg Pathogen Glands.gif in Resources */,
+				7E99696F159AE78E00BB5A02 /* Zerg Neural Parasite.png in Resources */,
+				7EEE0F89159B456C002F65CD /* Nestea_zvp_ipl4_vs_MVPTails.txt in Resources */,
+				7E68D6FF159D399C00852057 /* Spawn Creep Tumor.gif in Resources */,
+				7E68D701159D3F2A00852057 /* STPartinG_pvz_redbull_vs_LiquidRet.txt in Resources */,
+				7E68D705159D977900852057 /* MC_pvz_redbull_vs_stephano_OhanaLE.txt in Resources */,
+				7E054A6115A18CD7002B3FB2 /* speedup.png in Resources */,
+				7E054A6415A18CFC002B3FB2 /* speeddown.png in Resources */,
+				7E054A6615A1918A002B3FB2 /* speedstop.png in Resources */,
+				7E054A7615A42ED5002B3FB2 /* MKP_tvz_ipl5_vs_TSLHyun_2.txt in Resources */,
+				7E054A8815A543E9002B3FB2 /* MKP_tvz_Symbol_IPL5_5bb_Ohana.txt in Resources */,
+				7E054A8E15A543F8002B3FB2 /* aLive_tvp_Squirtle_IPL4_1base.txt in Resources */,
+				7E054A8F15A543F8002B3FB2 /* aLive_tvz_Nestea_IPL4_111_Cloud Kindom.txt in Resources */,
+				7E054A9015A543F8002B3FB2 /* mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard.txt in Resources */,
+				7E054A9115A543F8002B3FB2 /* Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard.txt in Resources */,
+				7E65073315A5806200AF77FE /* play_icon.png in Resources */,
+				7ECBEC8E15A96B5B00FEB963 /* Stephano_zvp_parting_daybreak_redbull.txt in Resources */,
+				7E8A4FF615AA809000D4156B /* Polt_tvz_Symbol_on_daybreak_2base_Hellion.txt in Resources */,
+				7E8A4FF715AA809000D4156B /* Symbol_zvt_Polt_on_daybreak_4queen.txt in Resources */,
+				7E8A500215AAAC3F00D4156B /* DRG_zvp_vs_EGJYP_2012 MLG Winter.txt in Resources */,
+				7E8A500415AAB6A000D4156B /* Parting pvt vs MKP 2012 MLG Winter .txt in Resources */,
+				7E8A500615AAB6BC00D4156B /* MKP tvp vs PartinG 2012 MLG Winter .txt in Resources */,
+				7E49CCD115AB1B690090375F /* protoss.gif in Resources */,
+				7E49CCD515AB1BF10090375F /* zerg.gif in Resources */,
+				7E49CCD615AB1BF10090375F /* terran.gif in Resources */,
+				7E49CCD815AB1FF50090375F /* sc2repImg.png in Resources */,
+				7E3E45BC15AC26F30098858C /* MKP_tvp_vs_EGJYP_IPL4_2base.txt in Resources */,
+				7E3E45F415AD7EE30098858C /* Squirtle vs Nestea pvz 3bg attack IPL4.txt in Resources */,
+				7E3E45FB15ADC2BF0098858C /* Squirtle vs MKP 2 base Colossus IPL4.txt in Resources */,
+				7E3E45FD15ADC4620098858C /* Squirtle vs MMA 2 base Colossus IPL4.txt in Resources */,
+				7E235D9815AE8FFA00CC4F1B /* DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter.txt in Resources */,
+				7E235D9B15AE9A5700CC4F1B /* Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing.txt in Resources */,
+				7E672FDA15AEFF9E001785A4 /* Stephano_zvp_Squirtle_Redbull_AntigaShipyard.txt in Resources */,
+				7E74FEE115CB818D009F6950 /* Default.png in Resources */,
+				7E74FEE515CB8949009F6950 /* 57_new.png in Resources */,
+				7E74FEE615CB8949009F6950 /* 114_new.png in Resources */,
+				7E30AED315ECB82D0014F83F /* protossUnit.plist in Resources */,
+				7E30AED415ECB82D0014F83F /* zergUnit.plist in Resources */,
+				7E30AED515ECB82D0014F83F /* terranUnit.plist in Resources */,
+				7E30AED815ECB9D80014F83F /* zergBuilding.plist in Resources */,
+				7E30AEDB15ECBB050014F83F /* protossBuilding.plist in Resources */,
+				7E30AEDC15ECBB050014F83F /* terranBuilding.plist in Resources */,
+				7E30AEE415ECC14C0014F83F /* protossUpgrade.plist in Resources */,
+				7E30AEE515ECC14C0014F83F /* terranUpgrade.plist in Resources */,
+				7E30AEE615ECC14C0014F83F /* zergUpgrade.plist in Resources */,
+				7E30AEEB15ECC3CD0014F83F /* protossResearch.plist in Resources */,
+				7E30AEEC15ECC3CD0014F83F /* terranResearch.plist in Resources */,
+				7E30AEED15ECC3CD0014F83F /* zergResearch.plist in Resources */,
+				7E61CB4415F43968005C84E2 /* navibar_1.png in Resources */,
+				7ECEAB2E15F6F3010091004F /* RepShowToolbar.xib in Resources */,
+				7ECEAB3315F6F9220091004F /* back.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7E0ED95115045775009EF568 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E0ED96615045775009EF568 /* main.m in Sources */,
+				7E0ED96A15045775009EF568 /* AppDelegate.m in Sources */,
+				7E352352150847190016049A /* RepShowPage.m in Sources */,
+				7EAC9A26151C399B005EE834 /* ProgressShow.m in Sources */,
+				7E3EDDD31522D74800A20252 /* FileUtils.m in Sources */,
+				7E3EDDDA15230AC900A20252 /* UnitShow.m in Sources */,
+				7E3EDDE11523E94F00A20252 /* BuildingUnitView.m in Sources */,
+				7E3EDDF11523FCE300A20252 /* StarcraftBaseUnit.m in Sources */,
+				7E3EDDF415241D5300A20252 /* GroupProgressShow.m in Sources */,
+				7EFACB5415257732003FDFC2 /* SC2ReplayUtil.m in Sources */,
+				7EFACB6A15258394003FDFC2 /* SC2Replay.m in Sources */,
+				7EA15C601527E43300AFEAF6 /* IndexView.m in Sources */,
+				7ED9CD651533FA29003F0F54 /* OpponentView.m in Sources */,
+				7ED9CD6D1533FFFA003F0F54 /* HoverView.m in Sources */,
+				7E7A6F4D153550F900F72733 /* SC2Timing.m in Sources */,
+				7E7A6F501535756300F72733 /* OppSingleView.m in Sources */,
+				7EAF039C157B53AE00F1DD61 /* SC2ReplayNode.m in Sources */,
+				7EAF03A2157C4D4100F1DD61 /* DDFileReader.m in Sources */,
+				7EF6550B157DF3FF00420A6C /* NSObject+SBJson.m in Sources */,
+				7EF6550C157DF3FF00420A6C /* SBJsonParser.m in Sources */,
+				7EF6550D157DF3FF00420A6C /* SBJsonStreamParser.m in Sources */,
+				7EF6550E157DF3FF00420A6C /* SBJsonStreamParserAccumulator.m in Sources */,
+				7EF6550F157DF3FF00420A6C /* SBJsonStreamParserAdapter.m in Sources */,
+				7EF65510157DF3FF00420A6C /* SBJsonStreamParserState.m in Sources */,
+				7EF65511157DF3FF00420A6C /* SBJsonStreamWriter.m in Sources */,
+				7EF65512157DF3FF00420A6C /* SBJsonStreamWriterAccumulator.m in Sources */,
+				7EF65513157DF3FF00420A6C /* SBJsonStreamWriterState.m in Sources */,
+				7EF65514157DF3FF00420A6C /* SBJsonTokeniser.m in Sources */,
+				7EF65515157DF3FF00420A6C /* SBJsonUTF8Stream.m in Sources */,
+				7EF65516157DF3FF00420A6C /* SBJsonWriter.m in Sources */,
+				7E5DC9EB15881A63000FD4F7 /* AdViewController.m in Sources */,
+				7EA17AFF15983E9200FA02C4 /* DirectoryWatcher.m in Sources */,
+				7E2DCEA915996135007667B8 /* MBProgressHUD.m in Sources */,
+				7E054A6D15A27E02002B3FB2 /* ReplaysRunTime.m in Sources */,
+				7ECBEC6B15A6AB8400FEB963 /* UIColor+Hex.m in Sources */,
+				7ECBEC6C15A6AB8400FEB963 /* UIView+InnerShadow.m in Sources */,
+				7ECBEC6D15A6AB8400FEB963 /* UIView+Positioning.m in Sources */,
+				7ECBEC6E15A6AB8400FEB963 /* UIView+Size.m in Sources */,
+				7ECBEC6F15A6AB8400FEB963 /* JMSelectionView.m in Sources */,
+				7ECBEC7015A6AB8400FEB963 /* JMTabContainer.m in Sources */,
+				7ECBEC7115A6AB8400FEB963 /* JMTabItem.m in Sources */,
+				7ECBEC7215A6AB8400FEB963 /* JMTabView.m in Sources */,
+				7ECBEC7315A6AB8400FEB963 /* BarBackgroundLayer.m in Sources */,
+				7ECBEC7B15A8186B00FEB963 /* ReplaysListPageView.m in Sources */,
+				7E672FD015AEB127001785A4 /* WarpGateProgressShow.m in Sources */,
+				7E236B6915EC94D1006955DA /* SC2Unit.m in Sources */,
+				7E236B6C15EC94E5006955DA /* SC2Building.m in Sources */,
+				7E236B7015EC950B006955DA /* SC2Upgrade.m in Sources */,
+				7E236B7315EC951A006955DA /* SC2Research.m in Sources */,
+				7E61CB4815F4397B005C84E2 /* UINavigationBar+Customized.m in Sources */,
+				7ECEAB2D15F6F3010091004F /* RepShowToolbar.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7E0ED96215045775009EF568 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7E0ED96315045775009EF568 /* en */,
+				7EFACB751525851F003FDFC2 /* zh-Hans */,
+				7E4E9E5F15ABFFB8006B7909 /* zh-Hant */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		7EFACB73152584D6003FDFC2 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7EFACB72152584D6003FDFC2 /* en */,
+				7EFACB7415258516003FDFC2 /* zh-Hans */,
+				7E4E9E5E15ABFF9A006B7909 /* zh-Hant */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7E0ED97115045775009EF568 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7E0ED97215045775009EF568 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7E0ED97415045775009EF568 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZergTimingAlert/sc2RepNote-Prefix.pch";
+				INFOPLIST_FILE = "ZergTimingAlert/sc2RepNote-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/GoogleAdMobAdsSDK\"",
+					"\"$(SRCROOT)/airAD\"",
+				);
+				PRODUCT_NAME = sc2RepNote;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		7E0ED97515045775009EF568 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZergTimingAlert/sc2RepNote-Prefix.pch";
+				INFOPLIST_FILE = "ZergTimingAlert/sc2RepNote-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/GoogleAdMobAdsSDK\"",
+					"\"$(SRCROOT)/airAD\"",
+				);
+				PRODUCT_NAME = sc2RepNote;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7E0ED94F15045775009EF568 /* Build configuration list for PBXProject "sc2RepNote" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E0ED97115045775009EF568 /* Debug */,
+				7E0ED97215045775009EF568 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E0ED97315045775009EF568 /* Build configuration list for PBXNativeTarget "sc2RepNote" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E0ED97415045775009EF568 /* Debug */,
+				7E0ED97515045775009EF568 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7E0ED94C15045775009EF568 /* Project object */;
+}

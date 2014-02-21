@@ -1,0 +1,88 @@
+1|Train SCV
+17|Train SCV
+27|Train SCV
+40|Train SCV
+56|Build Supply Depot; target: x=53.0,y=132.0
+63|Train SCV
+75|Train SCV
+95|Build Barracks; target: x=53.5,y=129.5
+103|Train SCV
+110|Train SCV
+127|Train SCV
+156|Train SCV
+161|Train Marine
+174|Upgrade to Orbital Command (Command Center)
+191|Build Command Center; target: x=63.5,y=141.5
+202|Build Supply Depot; target: x=35.0,y=146.0
+207|Train Marine
+210|Calldown MULE (Orbital Command); target: Mineral Field (100bc)
+211|Train SCV
+223|Train Marine
+223|Train SCV
+246|Build Barracks; target: x=47.5,y=132.5
+246|Build Barracks; target: x=47.5,y=135.5
+250|Train SCV
+260|Train Marine
+274|Build Barracks; target: x=42.5,y=132.5
+276|Build Barracks; target: x=42.5,y=136.5
+280|Train SCV
+286|Train Marine
+296|Upgrade to Orbital Command (Command Center)
+301|Train SCV
+302|Calldown MULE (Orbital Command); target: Mineral Field (100c0)
+310|Build Supply Depot; target: x=27.0,y=124.0
+313|Train Marine
+316|Train Marine
+320|Train Marine
+324|Train SCV
+337|Train Marine
+338|Train Marine
+341|Train SCV
+341|Train SCV
+342|Calldown MULE (Orbital Command); target: Mineral Field (100fc)
+347|Train Marine
+347|Train Marine
+354|Build Supply Depot; target: x=70.0,y=131.0
+360|Train SCV
+360|Train SCV
+370|Train Marine
+370|Train Marine
+370|Train Marine
+370|Train Marine
+371|Train Marine
+377|Build Supply Depot; target: x=60.0,y=140.0
+378|Train SCV
+381|Train SCV
+393|Train Marine
+393|Train Marine
+393|Train Marine
+393|Train Marine
+394|Train Marine
+395|Calldown MULE (Orbital Command); target: Mineral Field (10114)
+399|Train SCV
+399|Train SCV
+402|Build Supply Depot; target: x=64.0,y=149.0
+416|Train SCV
+416|Train SCV
+422|Train Marine
+423|Train Marine
+423|Train Marine
+423|Train Marine
+423|Train Marine
+428|Calldown MULE (Orbital Command); target: Mineral Field (10110)
+429|Train SCV
+429|Train SCV
+440|Train Marine
+440|Train Marine
+440|Train Marine
+440|Train Marine
+442|Train Marine
+454|Train SCV
+454|Train SCV
+464|Train Marine
+464|Train Marine
+464|Train Marine
+464|Train Marine
+465|Train Marine
+471|Train SCV
+471|Train SCV

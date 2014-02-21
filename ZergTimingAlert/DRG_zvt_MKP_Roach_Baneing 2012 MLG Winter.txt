@@ -1,0 +1,176 @@
+1|Train Drone
+18|Train Drone
+29|Train Drone
+48|Train Overlord
+56|Train Drone
+74|Train Drone
+74|Train Drone
+79|Train Drone
+94|Train Drone
+109|Train Drone
+129|Build Hatchery; target: x=141.5,y=56.5
+134|Train Drone
+155|Build Spawning Pool; target: x=136.5,y=28.5
+160|Train Drone
+165|Train Drone
+173|Train Drone
+185|Train Overlord
+222|Train Queen
+228|Train Zergling
+231|Train Queen
+231|Train Drone
+233|Train Drone
+235|Train Drone
+245|Train Drone
+247|Train Overlord
+261|Train Drone
+264|Train Drone
+273|Spawn Larva (Queen); target: Hatchery (102ac)
+274|Train Queen
+276|Train Queen
+281|Train Drone
+282|Spawn Larva (Queen); target: Hatchery (2030c)
+285|Train Overlord
+291|Train Drone
+293|Train Drone
+305|Train Drone
+311|Train Drone
+321|Train Drone
+321|Train Drone
+323|Train Drone
+323|Train Drone
+324|Spawn Larva (Queen); target: Hatchery (102ac)
+325|Train Drone
+325|Train Drone
+326|Spawn Larva (Queen); target: Hatchery (2030c)
+328|Train Drone
+330|Train Overlord
+332|Spawn Creep Tumor (Queen); target: x=133.5,y=62.5
+335|Spawn Creep Tumor (Queen); target: x=131.5,y=60.5
+342|Build Spine Crawler; target: x=133.0,y=58.0
+344|Build Extractor; target: Vespene Geyser (10224)
+344|Build Extractor; target: Vespene Geyser (1022c)
+347|Build Extractor; target: Vespene Geyser (10230)
+347|Train Overlord
+348|Train Drone
+349|Train Drone
+350|Train Drone
+355|Train Drone
+356|Train Drone
+367|Spawn Larva (Queen); target: Hatchery (102ac)
+367|Train Drone
+367|Train Drone
+367|Train Drone
+368|Train Drone
+380|Build Roach Warren; target: x=139.5,y=52.5
+380|Spawn Larva (Queen); target: Hatchery (2030c)
+384|Train Drone
+385|Train Drone
+385|Train Drone
+388|Train Drone
+390|Train Drone
+397|Train Drone
+397|Train Drone
+409|Train Drone
+409|Train Drone
+410|Train Drone
+413|Spawn Larva (Queen); target: Hatchery (102ac)
+417|Train Overlord
+417|Train Overlord
+419|Research Zerg Metabolic Boost
+422|Train Overlord
+422|Spawn Larva (Queen); target: Hatchery (2030c)
+432|Train Overlord
+441|Train Roach
+442|Train Roach
+442|Train Roach
+443|Train Roach
+443|Train Roach
+443|Train Roach
+444|Train Roach
+454|Spawn Larva (Queen); target: Hatchery (102ac)
+456|Train Roach
+456|Train Roach
+456|Train Roach
+457|Train Roach
+459|Train Roach
+465|Train Roach
+465|Train Roach
+466|Spawn Larva (Queen); target: Hatchery (2030c)
+468|Train Overlord
+472|Build Baneling Nest; target: x=136.5,y=31.5
+473|Train Zergling
+475|Train Zergling
+476|Train Zergling
+480|Train Zergling
+489|Train Zergling
+492|Train Zergling
+497|Train Zergling
+498|Train Zergling
+500|Train Zergling
+501|Train Zergling
+511|Train Zergling
+511|Train Zergling
+512|Spawn Larva (Queen); target: Hatchery (102ac)
+512|Train Zergling
+513|Train Zergling
+513|Train Zergling
+513|Spawn Larva (Queen); target: Hatchery (2030c)
+515|Train Zergling
+516|Spawn Creep Tumor (Queen); target: x=121.5,y=62.5
+517|Spawn Creep Tumor (Queen); target: x=126.5,y=67.5
+520|Train Zergling
+527|Spawn Creep Tumor (Queen); target: x=125.5,y=68.5
+527|Spawn Creep Tumor (Queen); target: x=121.5,y=60.5
+528|Spawn Creep Tumor (Queen); target: x=128.5,y=68.5
+528|Spawn Creep Tumor (Queen); target: x=128.5,y=67.5
+529|Spawn Creep Tumor (Queen); target: x=125.5,y=66.5
+529|Spawn Creep Tumor (Queen); target: x=125.5,y=66.5
+530|Train Overlord
+537|Train Zergling
+541|Morph to Baneling (Zergling)
+541|Morph to Baneling (Zergling)
+541|Morph to Baneling (Zergling)
+541|Morph to Baneling (Zergling)
+541|Morph to Baneling (Zergling)
+541|Morph to Baneling (Zergling)
+542|Morph to Baneling (Zergling)
+542|Morph to Baneling (Zergling)
+542|Morph to Baneling (Zergling)
+542|Morph to Baneling (Zergling)
+544|Train Overlord
+549|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+550|Morph to Baneling (Zergling)
+556|Train Zergling
+556|Train Zergling
+559|Train Zergling
+562|Train Zergling
+562|Train Zergling
+562|Train Zergling
+563|Train Zergling
+570|Build Hatchery; target: x=149.5,y=93.5
+584|Train Drone
+584|Train Drone
+585|Train Drone
+585|Train Drone
+585|Train Drone
+590|Spawn Larva (Queen); target: Hatchery (102ac)
+601|Train Drone
+602|Build Hatchery; target: x=126.5,y=36.5
+602|Build Extractor; target: Vespene Geyser (10200)
+603|Build Lair
+604|Spawn Larva (Queen); target: Hatchery (2030c)
+604|Train Drone
+605|Spawn Creep Tumor (Queen); target: x=117.5,y=73.5
+608|Spawn Creep Tumor (Queen); target: x=127.5,y=74.5
+609|Spawn Creep Tumor (Queen); target: x=117.5,y=69.5
+615|Train Drone
+616|Train Drone
+617|Train Drone

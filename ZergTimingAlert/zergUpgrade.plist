@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zerg Flyer Attacks 1</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Attacks 1.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Attacks 1</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Zerg Flyer Attacks 2</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Attacks 2.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Attacks 2</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Zerg Flyer Attacks 3</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Attacks 3.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Attacks 3</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Zerg Flyer Carapace 1</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Carapace 1.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Carapace 1</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Zerg Flyer Carapace 2</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Carapace 2.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Carapace 2</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Zerg Flyer Carapace 3</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Flyer Carapace 3.gif</string>
+		<key>name</key>
+		<string>Zerg Flyer Carapace 3</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Zerg Ground Carapace 1</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Ground Carapace 1.gif</string>
+		<key>name</key>
+		<string>Zerg Ground Carapace 1</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Zerg Ground Carapace 2</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Ground Carapace 2.gif</string>
+		<key>name</key>
+		<string>Zerg Ground Carapace 2</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Zerg Ground Carapace 3</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Ground Carapace 3.gif</string>
+		<key>name</key>
+		<string>Zerg Ground Carapace 3</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Zerg Melee Attacks 1</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Melee Attacks 1.gif</string>
+		<key>name</key>
+		<string>Zerg Melee Attacks 1</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Zerg Melee Attacks 2</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Melee Attacks 2.gif</string>
+		<key>name</key>
+		<string>Zerg Melee Attacks 2</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Zerg Melee Attacks 3</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Melee Attacks 3.gif</string>
+		<key>name</key>
+		<string>Zerg Melee Attacks 3</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Zerg Missile Attacks 1</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Missile Attacks 1.gif</string>
+		<key>name</key>
+		<string>Zerg Missile Attacks 1</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Zerg Missile Attacks 2</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Missile Attacks 2.gif</string>
+		<key>name</key>
+		<string>Zerg Missile Attacks 2</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Zerg Missile Attacks 3</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Missile Attacks 3.gif</string>
+		<key>name</key>
+		<string>Zerg Missile Attacks 3</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,675 @@
+1|Train Drone
+18|Train Drone
+30|Train Drone
+48|Train Overlord
+57|Train Drone
+74|Train Drone
+74|Train Drone
+82|Train Drone
+95|Train Drone
+110|Train Drone
+132|Build Hatchery; target: x=30.5,y=49.5
+137|Train Drone
+164|Build Spawning Pool; target: x=42.5,y=29.5
+172|Train Drone
+172|Train Drone
+177|Train Drone
+192|Train Overlord
+234|Train Queen
+234|Train Queen
+235|Train Drone
+235|Train Drone
+235|Train Drone
+238|Train Drone
+250|Train Overlord
+255|Train Zergling
+277|Build Hatchery; target: x=48.5,y=33.5
+283|Train Drone
+283|Train Drone
+285|Spawn Larva (Queen); target: Hatchery (202b4)
+285|Spawn Larva (Queen); target: Hatchery (10250)
+292|Train Drone
+303|Train Drone
+303|Train Drone
+311|Train Overlord
+311|Train Overlord
+324|Train Drone
+329|Spawn Larva (Queen); target: Hatchery (202b4)
+330|Spawn Larva (Queen); target: Hatchery (10250)
+334|Train Drone
+334|Train Drone
+334|Train Drone
+334|Train Drone
+337|Train Drone
+338|Train Drone
+338|Train Drone
+340|Train Drone
+346|Train Drone
+350|Train Drone
+364|Train Queen
+364|Train Queen
+373|Spawn Larva (Queen); target: Hatchery (10250)
+374|Spawn Larva (Queen); target: Hatchery (202b4)
+375|Train Drone
+376|Train Drone
+376|Train Drone
+376|Train Drone
+376|Train Drone
+376|Train Drone
+380|Train Overlord
+382|Build Extractor; target: Space Platform Geyser (101d0)
+383|Build Extractor; target: Space Platform Geyser (101b4)
+385|Build Extractor; target: Space Platform Geyser (10198)
+386|Build Extractor; target: Space Platform Geyser (101b0)
+391|Build Spine Crawler; target: x=38.0,y=55.0
+400|Train Drone
+400|Train Drone
+400|Train Drone
+401|Train Drone
+401|Train Drone
+412|Train Queen
+418|Spawn Larva (Queen); target: Hatchery (10250)
+418|Spawn Larva (Queen); target: Hatchery (10334)
+421|Spawn Larva (Queen); target: Hatchery (202b4)
+422|Spawn Creep Tumor (Queen); target: x=40.5,y=55.5
+425|Train Drone
+425|Train Drone
+425|Train Drone
+425|Train Drone
+425|Train Drone
+425|Train Drone
+425|Train Drone
+425|Train Drone
+431|Build Spine Crawler; target: x=35.0,y=53.0
+439|Build Spine Crawler; target: x=36.0,y=57.0
+442|Build Lair
+455|Build Roach Warren; target: x=39.5,y=29.5
+465|Spawn Larva (Queen); target: Hatchery (202b4)
+467|Spawn Larva (Queen); target: Hatchery (10334)
+467|Spawn Larva (Queen); target: Hatchery (10250)
+468|Spawn Larva (Queen); target: Hatchery (10250)
+469|Train Drone
+469|Train Drone
+469|Train Drone
+469|Train Drone
+471|Spawn Creep Tumor (Queen); target: x=45.5,y=61.5
+481|Train Overlord
+481|Train Overlord
+481|Train Overlord
+500|Build Evolution Chamber; target: x=39.5,y=32.5
+511|Spawn Larva (Queen); target: Hatchery (10250)
+512|Spawn Larva (Queen); target: Hatchery (10334)
+512|Spawn Larva (Queen); target: Hatchery (10334)
+516|Spawn Larva (Queen); target: Hatchery (202b4)
+519|Build Hatchery; target: x=26.5,y=86.5
+522|Research Zerg Glial Reconstitution
+523|Morph to Overseer (Overlord)
+527|Train Roach
+527|Train Roach
+527|Train Roach
+527|Train Roach
+527|Train Roach
+527|Train Roach
+538|Train Drone
+538|Train Drone
+538|Train Drone
+539|Train Drone
+539|Train Drone
+539|Train Drone
+539|Train Drone
+545|Spawn Creep Tumor (Queen); target: x=31.5,y=79.5
+545|Spawn Creep Tumor (Queen); target: x=33.5,y=80.5
+548|Spawn Creep Tumor (Queen); target: x=33.5,y=79.5
+554|Train Overlord
+554|Train Overlord
+554|Train Overlord
+554|Train Overlord
+556|Spawn Creep Tumor (Queen); target: x=30.5,y=79.5
+561|Spawn Larva (Queen); target: Hatchery (202b4)
+568|Build Baneling Nest; target: x=39.5,y=35.5
+565|Spawn Larva (Queen); target: Hatchery (10334)
+565|Spawn Larva (Queen); target: Lair (10250)
+566|Upgrade Zerg Ground Carapace 1
+578|Train Overlord
+579|Train Overlord
+579|Train Overlord
+591|Train Drone
+591|Train Drone
+591|Train Drone
+591|Train Drone
+591|Train Drone
+592|Train Drone
+592|Train Drone
+602|Build Extractor; target: Space Platform Geyser (1019c)
+602|Build Extractor; target: Space Platform Geyser (10184)
+607|Train Roach
+608|Train Roach
+609|Train Roach
+609|Train Roach
+609|Train Roach
+610|Spawn Larva (Queen); target: Hatchery (202b4)
+611|Spawn Larva (Queen); target: Hatchery (10334)
+611|Spawn Larva (Queen); target: Lair (10250)
+611|Spawn Larva (Queen); target: Lair (10250)
+613|Research Zerg Metabolic Boost
+622|Train Zergling
+622|Train Zergling
+622|Train Zergling
+622|Train Zergling
+622|Train Zergling
+632|Research Zerg Centrifugal Hooks
+634|Spawn Larva (Queen); target: Hatchery (20524)
+652|Train Zergling
+653|Train Zergling
+653|Train Zergling
+653|Train Zergling
+653|Train Zergling
+666|Spawn Larva (Queen); target: Lair (10250)
+666|Spawn Larva (Queen); target: Hatchery (10334)
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+670|Train Drone
+671|Train Drone
+671|Train Drone
+671|Train Drone
+673|Spawn Larva (Queen); target: Hatchery (202b4)
+681|Spawn Larva (Queen); target: Hatchery (20524)
+686|Spawn Creep Tumor (Queen); target: x=46.5,y=98.5
+687|Spawn Creep Tumor (Queen); target: x=45.5,y=101.5
+687|Spawn Creep Tumor (Queen); target: x=46.5,y=99.5
+687|Spawn Creep Tumor (Queen); target: x=46.5,y=96.5
+687|Spawn Creep Tumor (Queen); target: x=47.5,y=93.5
+691|Train Zergling
+691|Train Zergling
+691|Train Zergling
+691|Train Zergling
+691|Train Zergling
+692|Train Zergling
+692|Train Zergling
+692|Train Zergling
+692|Train Zergling
+694|Train Zergling
+699|Build Evolution Chamber; target: x=42.5,y=32.5
+704|Train Zergling
+705|Train Zergling
+705|Train Zergling
+705|Train Zergling
+709|Build Spore Crawler; target: x=20.0,y=92.0
+716|Train Drone
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+722|Train Zergling
+725|Spawn Larva (Queen); target: Hatchery (20524)
+726|Spawn Larva (Queen); target: Hatchery (202b4)
+727|Spawn Larva (Queen); target: Hatchery (10334)
+728|Spawn Larva (Queen); target: Lair (10250)
+729|Upgrade Zerg Ground Carapace 2
+739|Train Overlord
+740|Train Overlord
+740|Train Overlord
+756|Upgrade Zerg Melee Attacks 1
+758|Build Infestation Pit; target: x=42.5,y=35.5
+765|Spawn Creep Tumor (Queen); target: x=61.5,y=100.5
+765|Spawn Creep Tumor (Queen); target: x=61.5,y=98.5
+765|Spawn Creep Tumor (Queen); target: x=61.5,y=94.5
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+770|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+771|Morph to Baneling (Zergling)
+772|Morph to Baneling (Zergling)
+772|Morph to Baneling (Zergling)
+772|Morph to Baneling (Zergling)
+772|Morph to Baneling (Zergling)
+779|Spawn Larva (Queen); target: Hatchery (10334)
+779|Spawn Larva (Queen); target: Lair (10250)
+779|Spawn Larva (Queen); target: Lair (10250)
+780|Spawn Larva (Queen); target: Hatchery (202b4)
+782|Train Drone
+785|Spawn Larva (Queen); target: Hatchery (20524)
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+787|Train Zergling
+788|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+802|Train Zergling
+830|Morph to Baneling (Zergling)
+830|Morph to Baneling (Zergling)
+834|Train Zergling
+834|Train Zergling
+835|Train Zergling
+835|Train Zergling
+835|Train Zergling
+835|Train Zergling
+835|Train Zergling
+835|Train Zergling
+835|Train Zergling
+844|Spawn Larva (Queen); target: Hatchery (202b4)
+845|Spawn Larva (Queen); target: Hatchery (10334)
+845|Spawn Larva (Queen); target: Lair (10250)
+845|Spawn Larva (Queen); target: Lair (10250)
+846|Research Zerg Pathogen Glands
+846|Spawn Larva (Queen); target: Hatchery (20524)
+848|Build Hatchery; target: x=41.5,y=119.5
+851|Build Hatchery; target: x=59.5,y=82.5
+854|Research Zerg Burrow
+864|Spawn Creep Tumor (Queen); target: x=68.5,y=95.5
+865|Spawn Creep Tumor (Queen); target: x=68.5,y=94.5
+865|Spawn Creep Tumor (Queen); target: x=68.5,y=92.5
+865|Spawn Creep Tumor (Queen); target: x=68.5,y=92.5
+874|Build Hive
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+878|Train Infestor
+920|Spawn Creep Tumor (Queen); target: x=81.5,y=91.5
+921|Spawn Creep Tumor (Queen); target: x=81.5,y=80.5
+924|Train Zergling
+924|Train Zergling
+924|Train Zergling
+924|Train Zergling
+924|Train Zergling
+924|Train Zergling
+925|Train Zergling
+925|Train Zergling
+925|Train Zergling
+925|Train Zergling
+925|Train Zergling
+926|Upgrade Zerg Melee Attacks 2
+926|Spawn Larva (Queen); target: Hatchery (10334)
+927|Spawn Larva (Queen); target: Lair (10250)
+927|Spawn Larva (Queen); target: Lair (10250)
+928|Spawn Larva (Queen); target: Hatchery (202b4)
+929|Build Spire; target: x=31.0,y=57.0
+930|Spawn Larva (Queen); target: Hatchery (20524)
+933|Build Extractor; target: Space Platform Geyser (10190)
+933|Build Extractor; target: Space Platform Geyser (0)
+935|Train Drone
+937|Train Overlord
+938|Train Overlord
+938|Train Overlord
+938|Train Overlord
+938|Train Overlord
+938|Train Overlord
+938|Train Overlord
+938|Train Overlord
+943|Build Spore Crawler; target: x=53.0,y=20.0
+944|Build Spore Crawler; target: x=57.0,y=39.0
+954|Train Overlord
+967|Train Drone
+967|Train Drone
+967|Train Drone
+967|Train Drone
+967|Train Drone
+967|Train Drone
+967|Train Drone
+968|Train Drone
+968|Train Drone
+968|Train Drone
+968|Train Drone
+968|Train Drone
+968|Train Queen
+969|Spawn Larva (Queen); target: Hatchery (10334)
+969|Spawn Larva (Queen); target: Lair (10250)
+970|Spawn Larva (Queen); target: Lair (10250)
+971|Spawn Larva (Queen); target: Hatchery (202b4)
+972|Spawn Larva (Queen); target: Hatchery (20524)
+974|Build Spine Crawler; target: x=23.0,y=91.0
+977|Morph to Baneling (Zergling)
+977|Morph to Baneling (Zergling)
+977|Morph to Baneling (Zergling)
+977|Morph to Baneling (Zergling)
+977|Morph to Baneling (Zergling)
+977|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+978|Morph to Baneling (Zergling)
+979|Train Zergling
+979|Train Zergling
+979|Train Zergling
+979|Train Zergling
+979|Train Zergling
+979|Train Zergling
+990|Upgrade Zerg Ground Carapace 3
+995|Build Ultralisk Cavern; target: x=54.5,y=35.5
+1014|Research Zerg Adrenal Glands
+1014|Spawn Larva (Queen); target: Hatchery (10334)
+1015|Spawn Larva (Queen); target: Hive (10250)
+1015|Spawn Larva (Queen); target: Hive (10250)
+1022|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1023|Train Zergling
+1027|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1041|Train Zergling
+1042|Train Zergling
+1042|Train Zergling
+1042|Train Zergling
+1069|Research Zerg Chitinous Plating
+1070|Train Ultralisk
+1070|Train Ultralisk
+1070|Train Ultralisk
+1072|Spawn Larva (Queen); target: Hatchery (10334)
+1073|Spawn Larva (Queen); target: Hive (10250)
+1073|Spawn Larva (Queen); target: Hive (10250)
+1074|Spawn Larva (Queen); target: Hatchery (202b4)
+1074|Spawn Larva (Queen); target: Hatchery (20524)
+1075|Spawn Larva (Queen); target: Hatchery (30834)
+1078|Train Infestor
+1078|Train Infestor
+1078|Train Infestor
+1082|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1083|Train Zergling
+1085|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1100|Train Zergling
+1101|Train Zergling
+1101|Train Zergling
+1105|Train Zergling
+1105|Train Zergling
+1105|Train Zergling
+1105|Train Zergling
+1105|Train Zergling
+1105|Train Zergling
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1116|Morph to Baneling (Zergling)
+1117|Train Infestor
+1119|Spawn Larva (Queen); target: Hatchery (20524)
+1119|Spawn Larva (Queen); target: Hatchery (202b4)
+1120|Spawn Larva (Queen); target: Hive (10250)
+1122|Spawn Larva (Queen); target: Hatchery (30834)
+1132|Upgrade Zerg Melee Attacks 3
+1136|Burrow (Zergling)
+1149|Train Zergling
+1149|Train Zergling
+1149|Train Zergling
+1149|Train Zergling
+1149|Train Zergling
+1149|Train Zergling
+1150|Train Zergling
+1150|Train Zergling
+1150|Train Zergling
+1150|Train Zergling
+1153|Fungal Growth (Infestor); target: x=75.2,y=95.4
+1166|Train Ultralisk
+1166|Train Ultralisk
+1167|Train Ultralisk
+1170|Train Ultralisk
+1170|Train Ultralisk
+1173|Burrow (Zergling)
+1177|Train Zergling
+1177|Train Zergling
+1177|Train Zergling
+1177|Train Zergling
+1177|Train Zergling
+1177|Train Zergling
+1178|Train Zergling
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1179|Morph to Baneling (Zergling)
+1180|Morph to Baneling (Zergling)
+1180|Morph to Baneling (Zergling)
+1183|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1184|Train Zergling
+1185|Spawn Larva (Queen); target: Hatchery (202b4)
+1186|Spawn Larva (Queen); target: Hatchery (10334)
+1186|Spawn Larva (Queen); target: Hive (10250)
+1186|Spawn Larva (Queen); target: Hive (10250)
+1188|Transfusion (Queen); target: Ultralisk (50bbc)
+1189|Transfusion (Queen); target: Ultralisk (50bbc)
+1190|Transfusion (Queen); target: Ultralisk (50bbc)
+1193|Train Zergling
+1193|Train Zergling
+1193|Train Zergling
+1193|Train Zergling
+1193|Train Zergling
+1193|Train Zergling
+1193|Train Zergling
+1196|Spawn Larva (Queen); target: Hatchery (20524)
+1203|Spawn Larva (Queen); target: Hatchery (30834)
+1225|Burrow (Infestor)
+1228|Unburrow (Infestor)
+1235|Train Ultralisk
+1235|Train Ultralisk
+1235|Train Ultralisk
+1235|Train Ultralisk
+1241|Train Infestor
+1241|Train Infestor
+1243|Train Zergling
+1243|Train Zergling
+1244|Train Zergling
+1244|Train Zergling
+1246|Train Zergling
+1247|Burrow (Drone)
+1249|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1250|Train Zergling
+1252|Train Zergling
+1252|Train Zergling
+1252|Train Zergling
+1252|Train Zergling
+1252|Train Zergling
+1252|Train Zergling
+1256|Train Zergling
+1256|Train Zergling
+1256|Train Zergling
+1257|Spawn Larva (Queen); target: Hatchery (20524)
+1257|Spawn Larva (Queen); target: Hatchery (202b4)
+1258|Spawn Larva (Queen); target: Hatchery (10334)
+1259|Spawn Larva (Queen); target: Hive (10250)
+1259|Spawn Larva (Queen); target: Hive (10250)
+1271|Morph to Baneling (Zergling)
+1271|Morph to Baneling (Zergling)
+1271|Morph to Baneling (Zergling)
+1271|Morph to Baneling (Zergling)
+1271|Morph to Baneling (Zergling)
+1271|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1272|Morph to Baneling (Zergling)
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1274|Train Zergling
+1280|Unburrow (Infestor)
+1281|Unburrow (Zergling)
+1283|Burrow (Infestor)
+1285|Burrow (Zergling)
+1288|Transfusion (Queen); target: Ultralisk (50bbc)
+1291|Transfusion (Queen); target: Ultralisk (80b30)
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1296|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1297|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1311|Train Zergling
+1313|Fungal Growth (Infestor); target: x=45.7,y=92.1
+1315|Spawn Larva (Queen); target: Hatchery (202b4)
+1316|Spawn Larva (Queen); target: Hatchery (10334)
+1316|Spawn Larva (Queen); target: Hive (10250)
+1317|Spawn Larva (Queen); target: Hive (10250)
+1321|Train Zergling
+1321|Train Zergling
+1322|Train Zergling
+1322|Train Zergling
+1322|Train Zergling
+1322|Train Zergling
+1322|Train Zergling
+1325|Transfusion (Queen); target: Ultralisk (80b30)
+1327|Train Zergling
+1327|Train Zergling
+1327|Train Zergling
+1327|Train Zergling
+1327|Train Zergling
+1327|Train Zergling
+1327|Train Zergling
+1329|Train Zergling
+1332|Train Zergling
+1334|Train Zergling
+1337|Leave game

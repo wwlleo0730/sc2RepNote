@@ -1,0 +1,236 @@
+1|Train SCV
+17|Train SCV
+28|Train SCV
+38|Train SCV
+57|Build Supply Depot; target: x=129.0,y=165.0
+66|Train SCV
+73|Train SCV
+97|Build Barracks; target: x=136.5,y=150.5
+104|Train SCV
+113|Train SCV
+119|Train SCV
+135|Train SCV
+164|Train Marine
+173|Upgrade to Orbital Command (Command Center)
+193|Build Command Center; target: x=130.5,y=132.5
+201|Build Supply Depot; target: x=131.0,y=165.0
+210|Train SCV
+210|Calldown MULE (Orbital Command); target: Mineral Field (1015c)
+213|Train Marine
+223|Train SCV
+225|Train Marine
+245|Build Barracks; target: x=131.5,y=152.5
+247|Build Barracks; target: x=131.5,y=155.5
+250|Train SCV
+253|Train Marine
+262|Train SCV
+274|Build Refinery; target: Vespene Geyser (101c4)
+274|Build Refinery; target: Vespene Geyser (101e0)
+279|Train SCV
+287|Train Marine
+295|Upgrade to Orbital Command (Command Center)
+296|Train SCV
+298|Calldown MULE (Orbital Command); target: Mineral Field (100bc)
+309|Train Marine
+313|Train Marine
+313|Train Marine
+314|Train SCV
+324|Build Engineering Bay; target: x=133.5,y=162.5
+326|Build Supply Depot; target: x=133.0,y=165.0
+331|Train SCV
+333|Calldown MULE (Orbital Command); target: Mineral Field (10128)
+337|Train SCV
+338|Build Tech Lab (Barracks)
+343|Train Marine
+344|Train Marine
+355|Build Bunker; target: x=124.5,y=134.5
+357|Train SCV
+357|Train SCV
+364|Research Terran Stimpack
+370|Upgrade Terran Infantry Weapons 1
+373|Train SCV
+374|Train SCV
+380|Train Marine
+380|Train Marine
+384|Train Marine
+388|Build Supply Depot; target: x=135.0,y=165.0
+392|Calldown MULE (Orbital Command); target: Mineral Field (100a4)
+393|Train SCV
+393|Train SCV
+406|Train Marine
+406|Train Marine
+408|Build Factory; target: x=124.5,y=152.5
+410|Train Marine
+415|Build Refinery; target: Vespene Geyser (101ac)
+416|Train SCV
+417|Train SCV
+421|Build Supply Depot; target: x=137.0,y=165.0
+426|Calldown MULE (Orbital Command); target: Mineral Field (100c0)
+431|Train SCV
+432|Train SCV
+432|Build Reactor (Barracks)
+433|Build Reactor (Barracks)
+438|Train Marauder
+449|Train SCV
+449|Train SCV
+452|Train Marauder
+457|Build Supply Depot; target: x=137.0,y=163.0
+461|Train SCV
+461|Train SCV
+468|Build Starport; target: x=121.5,y=152.5
+470|Build Reactor (Factory)
+477|Build Supply Depot; target: x=139.0,y=133.0
+479|Calldown MULE (Orbital Command); target: Mineral Field (100bc)
+483|Train Marine
+483|Train Marine
+483|Train Marine
+484|Train Marine
+484|Train Marauder
+486|Train SCV
+487|Train SCV
+492|Build Supply Depot; target: x=137.0,y=161.0
+505|Train SCV
+505|Train SCV
+510|Build Supply Depot; target: x=134.0,y=160.0
+514|Train Marauder
+514|Train Marine
+515|Train Marine
+515|Train Marine
+515|Train Marine
+519|Upgrade Terran Infantry Armor 1
+521|Research Terran Combat Shield
+529|Calldown MULE (Orbital Command); target: Mineral Field (10188)
+530|Train SCV
+530|Train SCV
+537|Train Medivac
+540|Build Supply Depot; target: x=135.0,y=126.0
+545|Train Medivac
+546|Train Marine
+546|Train Marine
+546|Train Marine
+547|Train Marine
+553|Build Supply Depot; target: x=121.0,y=128.0
+556|Build Supply Depot; target: x=121.0,y=130.0
+564|Train Marauder
+566|Train SCV
+566|Train SCV
+570|Build Refinery; target: Vespene Geyser (101e4)
+576|Train Marine
+577|Train Marine
+577|Train Marine
+577|Train Marine
+581|Train SCV
+581|Train SCV
+582|Research Terran Concussive Shells
+590|Train Medivac
+590|Train Medivac
+591|Train Medivac
+592|Train Medivac
+596|Build Supply Depot; target: x=121.0,y=132.0
+604|Train Marine
+605|Train Marine
+605|Train Marine
+605|Train Marine
+605|Train Marauder
+614|Build Armory; target: x=137.5,y=157.5
+615|Build Engineering Bay; target: x=139.5,y=163.5
+625|Build Supply Depot; target: x=140.0,y=130.0
+627|Train SCV
+627|Train SCV
+635|Calldown MULE (Orbital Command); target: Mineral Field (10014)
+636|Train Marine
+636|Train Marine
+636|Train Marine
+636|Train Marine
+637|Train Marauder
+650|Train Viking
+650|Train Viking
+662|Train Marauder
+666|Train Marine
+666|Train Marine
+666|Train Marine
+666|Train Marine
+672|Train Medivac
+673|Train Medivac
+688|Train Marauder
+698|Build Command Center; target: x=97.5,y=151.5
+704|Train Marine
+704|Train Marine
+704|Train Marine
+704|Train Marine
+704|Train Marauder
+708|Calldown MULE (Orbital Command); target: Mineral Field (100a4)
+708|Calldown MULE (Orbital Command); target: Mineral Field (100a4)
+719|Upgrade Terran Infantry Weapons 2
+719|Upgrade Terran Infantry Armor 2
+733|Build Barracks; target: x=117.5,y=146.5
+733|Build Barracks; target: x=117.5,y=149.5
+734|Build Barracks; target: x=117.5,y=152.5
+734|Train Viking
+734|Train Viking
+736|Train Marine
+737|Train Marine
+741|Train Marine
+741|Train Marine
+741|Train Marine
+742|Train Marine
+742|Train Marine
+756|Train SCV
+756|Train SCV
+763|Train Marauder
+763|Train Marine
+763|Train Marine
+763|Train Marine
+763|Train Marine
+767|Train SCV
+768|Train SCV
+779|Train Viking
+779|Train Viking
+783|Train Marauder
+783|Train Marine
+783|Train Marine
+784|Train Marine
+784|Train Marine
+793|Train SCV
+793|Train SCV
+797|Build Supply Depot; target: x=123.0,y=169.0
+797|Build Supply Depot; target: x=128.0,y=169.0
+799|Build Supply Depot; target: x=131.0,y=167.0
+799|Upgrade Terran Ship Weapons 1
+806|Build Tech Lab (Barracks)
+806|Build Tech Lab (Barracks)
+806|Build Tech Lab (Barracks)
+806|Build Tech Lab (Barracks)
+815|Train Marauder
+826|Train Marine
+826|Train Marine
+826|Train Marine
+832|Train Marauder
+832|Train Marauder
+833|Train Marauder
+841|Train Viking
+841|Train Viking
+845|Upgrade to Orbital Command (Command Center)
+870|Train Marauder
+870|Train Marauder
+870|Train Marauder
+871|Train Marauder
+876|Train SCV
+876|Train SCV
+878|Train Marine
+878|Train Marine
+878|Train Marine
+878|Train Marine
+883|Train SCV
+913|Train Marauder
+913|Train Marauder
+914|Train Marauder
+915|Train Medivac
+915|Train Medivac
+916|Train Marine
+916|Train Marine
+916|Train Marine
+916|Train Marine
+919|Train Medivac
+920|Train Medivac
+920|Train Marauder

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Protoss Blink</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Blink.png</string>
+		<key>name</key>
+		<string>Protoss Blink</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>140</string>
+	</dict>
+	<key>Protoss Charge</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Charge.png</string>
+		<key>name</key>
+		<string>Protoss Charge</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>140</string>
+	</dict>
+	<key>Protoss Extended Thermal Lance</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Extended Thermal Lance.gif</string>
+		<key>name</key>
+		<string>Protoss Extended Thermal Lance</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>140</string>
+	</dict>
+	<key>Protoss Gravitic Boosters</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Gravitic Boosters.gif</string>
+		<key>name</key>
+		<string>Protoss Gravitic Boosters</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Protoss Gravitic Drive</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Gravitic Drive.gif</string>
+		<key>name</key>
+		<string>Protoss Gravitic Drive</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Protoss Hallucination</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Hallucination.png</string>
+		<key>name</key>
+		<string>Protoss Hallucination</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Protoss Psionic Storm</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Psionic Storm.png</string>
+		<key>name</key>
+		<string>Protoss Psionic Storm</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Protoss Warp Gate</key>
+	<dict>
+		<key>img</key>
+		<string>Protoss Warp Gate.png</string>
+		<key>name</key>
+		<string>Protoss Warp Gate</string>
+		<key>race</key>
+		<string>protoss</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+</dict>
+</plist>

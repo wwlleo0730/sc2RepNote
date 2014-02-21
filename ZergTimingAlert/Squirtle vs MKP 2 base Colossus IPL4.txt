@@ -1,0 +1,183 @@
+1|Train Probe
+18|Train Probe
+28|Train Probe
+49|Build Pylon; target: x=130.0,y=156.0
+56|Train Probe
+65|Train Probe
+77|Chrono Boost (Nexus); target: Nexus (10254)
+78|Train Probe
+94|Train Probe
+98|Chrono Boost (Nexus); target: Nexus (10254)
+102|Build Gateway; target: x=132.5,y=153.5
+109|Train Probe
+118|Build Assimilator; target: Vespene Geyser (101c4)
+124|Train Probe
+131|Train Probe
+135|Chrono Boost (Nexus); target: Nexus (10254)
+142|Build Pylon; target: x=123.0,y=168.0
+150|Train Probe
+169|Build Cybernetics Core; target: x=128.5,y=153.5
+171|Train Probe
+181|Train Probe
+184|Chrono Boost (Nexus); target: Nexus (10254)
+188|Train Probe
+195|Train Probe
+227|Build Nexus; target: x=130.5,y=132.5
+233|Train Probe
+242|Research Protoss Warp Gate
+246|Train Stalker
+247|Chrono Boost (Nexus); target: Gateway (102a8)
+251|Train Probe
+260|Build Pylon; target: x=135.0,y=126.0
+268|Train Probe
+272|Build Assimilator; target: Vespene Geyser (101e0)
+284|Train Probe
+296|Train Stalker
+300|Chrono Boost (Nexus); target: Nexus (10254)
+304|Train Probe
+307|Build Gateway; target: x=132.5,y=156.5
+316|Train Probe
+323|Build Gateway; target: x=135.5,y=156.5
+329|Train Probe
+329|Chrono Boost (Nexus); target: Nexus (10300)
+335|Train Sentry
+338|Train Probe
+349|Build Robotics Facility; target: x=134.5,y=122.5
+353|Train Probe
+355|Train Probe
+362|Build Pylon; target: x=126.0,y=133.0
+366|Chrono Boost (Nexus); target: Nexus (10300)
+367|Train Probe
+369|Train Probe
+374|Chrono Boost (Nexus); target: Nexus (10254)
+377|Train Probe
+377|Train Probe
+383|Build Assimilator; target: Vespene Geyser (101e4)
+389|Build Assimilator; target: Vespene Geyser (101ac)
+392|Train Probe
+392|Train Probe
+393|Train Probe
+405|Chrono Boost (Nexus); target: Nexus (10300)
+405|Train Probe
+407|Build Pylon; target: x=128.0,y=156.0
+408|Train Probe
+416|Build Robotics Bay; target: x=138.5,y=124.5
+421|Chrono Boost (Nexus); target: Nexus (10254)
+422|Train Probe
+422|Train Probe
+426|Build Pylon; target: x=121.0,y=148.0
+429|Train Observer
+434|Train Sentry (Warp gate); target: x=120.6,y=133.2
+436|Train Sentry (Warp gate); target: x=121.8,y=135.6
+437|Train Probe
+437|Train Probe
+445|Build Pylon; target: x=130.0,y=148.0
+453|Train Sentry (Warp gate); target: x=123.7,y=135.0
+455|Train Probe
+455|Train Probe
+485|Build Gateway; target: x=120.5,y=167.5
+486|Train Colossus
+487|Chrono Boost (Nexus); target: Robotics Facility (10380)
+489|Build Gateway; target: x=125.5,y=169.5
+490|Build Gateway; target: x=128.5,y=167.5
+501|Research Protoss Extended Thermal Lance
+503|Chrono Boost (Nexus); target: Robotics Bay (10404)
+510|Train Zealot (Warp gate); target: x=121.8,y=135.2
+511|Train Zealot (Warp gate); target: x=122.0,y=134.2
+511|Train Zealot (Warp gate); target: x=122.8,y=135.1
+517|Build Pylon; target: x=130.0,y=158.0
+520|Chrono Boost (Nexus); target: Robotics Facility (10380)
+529|Train Colossus
+542|Chrono Boost (Nexus); target: Robotics Facility (10380)
+546|Build Pylon; target: x=107.0,y=47.0
+547|Train Sentry (Warp gate); target: x=123.5,y=134.3
+547|Train Zealot (Warp gate); target: x=125.6,y=134.1
+548|Build Pylon; target: x=123.0,y=128.0
+566|Chrono Boost (Nexus); target: Robotics Facility (10380)
+578|Train Stalker (Warp gate); target: x=120.1,y=132.4
+578|Train Stalker (Warp gate); target: x=121.0,y=131.2
+578|Train Stalker (Warp gate); target: x=119.7,y=131.0
+578|Train Stalker (Warp gate); target: x=121.2,y=133.1
+579|Train Stalker (Warp gate); target: x=123.3,y=131.4
+579|Chrono Boost (Nexus); target: Robotics Bay (10404)
+581|Train Stalker (Warp gate); target: x=119.5,y=130.6
+589|Build Pylon; target: x=123.0,y=153.0
+606|Chrono Boost (Nexus); target: Warp Gate (1034c)
+607|Chrono Boost (Nexus); target: Warp Gate (102a8)
+607|Chrono Boost (Nexus); target: Warp Gate (2035c)
+611|Train Stalker (Warp gate); target: x=109.9,y=51.2
+611|Train Stalker (Warp gate); target: x=108.0,y=51.5
+612|Train Stalker (Warp gate); target: x=107.2,y=55.1
+612|Train Stalker (Warp gate); target: x=105.6,y=55.5
+616|Train Stalker (Warp gate); target: x=105.1,y=55.3
+622|Train Stalker (Warp gate); target: x=105.4,y=47.4
+629|Build Pylon; target: x=65.0,y=90.0
+674|Train Stalker (Warp gate); target: x=61.0,y=95.0
+675|Train Stalker (Warp gate); target: x=63.9,y=95.1
+675|Train Stalker (Warp gate); target: x=65.8,y=94.0
+675|Train Stalker (Warp gate); target: x=65.4,y=95.3
+675|Train Stalker (Warp gate); target: x=61.6,y=91.1
+676|Train Stalker (Warp gate); target: x=63.3,y=93.6
+678|Train Probe
+690|Chrono Boost (Nexus); target: Warp Gate (1034c)
+690|Chrono Boost (Nexus); target: Warp Gate (2035c)
+690|Chrono Boost (Nexus); target: Warp Gate (102a8)
+691|Chrono Boost (Nexus); target: Warp Gate (1049c)
+694|Build Pylon; target: x=55.0,y=76.0
+706|Train Stalker (Warp gate); target: x=64.1,y=94.8
+706|Train Stalker (Warp gate); target: x=61.0,y=95.9
+706|Train Stalker (Warp gate); target: x=61.3,y=93.2
+706|Train Stalker (Warp gate); target: x=63.1,y=95.1
+706|Train Stalker (Warp gate); target: x=64.5,y=93.9
+707|Train Stalker (Warp gate); target: x=63.5,y=94.5
+721|Train Probe
+722|Train Probe
+736|Train Stalker (Warp gate); target: x=128.0,y=139.7
+743|Train Stalker (Warp gate); target: x=123.8,y=134.8
+743|Train Stalker (Warp gate); target: x=123.9,y=135.1
+743|Train Stalker (Warp gate); target: x=123.6,y=135.9
+744|Train Stalker (Warp gate); target: x=123.6,y=131.8
+744|Train Stalker (Warp gate); target: x=122.7,y=129.7
+770|Train Zealot (Warp gate); target: x=52.6,y=84.7
+775|Train Zealot (Warp gate); target: x=119.1,y=159.8
+776|Train Zealot (Warp gate); target: x=119.9,y=159.3
+776|Train Zealot (Warp gate); target: x=121.5,y=159.1
+776|Train Zealot (Warp gate); target: x=121.8,y=157.1
+781|Train Probe
+782|Train Probe
+790|Train Stalker (Warp gate); target: x=50.7,y=79.8
+790|Train Stalker (Warp gate); target: x=51.5,y=77.6
+790|Train Stalker (Warp gate); target: x=51.9,y=77.8
+804|Train Colossus
+811|Chrono Boost (Nexus); target: Robotics Facility (10380)
+816|Train Sentry (Warp gate); target: x=55.7,y=86.2
+817|Train Sentry (Warp gate); target: x=56.2,y=79.3
+817|Train Zealot (Warp gate); target: x=51.8,y=79.0
+817|Train Zealot (Warp gate); target: x=52.6,y=79.4
+817|Train Zealot (Warp gate); target: x=52.6,y=77.1
+820|Train Probe
+821|Train Probe
+829|Chrono Boost (Nexus); target: Robotics Facility (10380)
+833|Train Stalker (Warp gate); target: x=119.9,y=151.5
+834|Train Stalker (Warp gate); target: x=120.8,y=151.8
+834|Train Stalker (Warp gate); target: x=121.9,y=150.1
+836|Chrono Boost (Nexus); target: Warp Gate (102a8)
+836|Chrono Boost (Nexus); target: Warp Gate (102a8)
+836|Chrono Boost (Nexus); target: Warp Gate (2035c)
+837|Build Pylon; target: x=133.0,y=165.0
+837|Build Pylon; target: x=134.0,y=162.0
+843|Build Pylon; target: x=136.0,y=166.0
+859|Train Stalker (Warp gate); target: x=49.9,y=79.2
+859|Train Stalker (Warp gate); target: x=51.8,y=78.9
+860|Train Stalker (Warp gate); target: x=50.5,y=79.5
+860|Train Stalker (Warp gate); target: x=51.8,y=79.9
+860|Train Stalker (Warp gate); target: x=53.1,y=79.3
+886|Train Colossus
+887|Chrono Boost (Nexus); target: Robotics Facility (10380)
+896|Train Zealot (Warp gate); target: x=49.9,y=76.0
+896|Train Zealot (Warp gate); target: x=51.9,y=75.1
+896|Train Zealot (Warp gate); target: x=51.9,y=79.6
+896|Train Zealot (Warp gate); target: x=53.5,y=75.0
+897|Train Zealot (Warp gate); target: x=53.1,y=75.5
+897|Train Zealot (Warp gate); target: x=54.9,y=79.5
+897|Train Zealot (Warp gate); target: x=55.0,y=71.6

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terran Infantry Armor 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Armor 1.png</string>
+		<key>name</key>
+		<string>Terran Infantry Armor 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Infantry Armor 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Armor 2.png</string>
+		<key>name</key>
+		<string>Terran Infantry Armor 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Infantry Armor 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Armor 3.png</string>
+		<key>name</key>
+		<string>Terran Infantry Armor 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Terran Infantry Weapons 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Weapons 1.png</string>
+		<key>name</key>
+		<string>Terran Infantry Weapons 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Infantry Weapons 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Weapons 2.png</string>
+		<key>name</key>
+		<string>Terran Infantry Weapons 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Infantry Weapons 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Infantry Weapons 3.png</string>
+		<key>name</key>
+		<string>Terran Infantry Weapons 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Terran Ship Plating 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Plating 1.gif</string>
+		<key>name</key>
+		<string>Terran Ship Plating 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Ship Plating 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Plating 2.gif</string>
+		<key>name</key>
+		<string>Terran Ship Plating 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Ship Plating 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Plating 3.gif</string>
+		<key>name</key>
+		<string>Terran Ship Plating 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Terran Ship Weapons 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Weapons 1.gif</string>
+		<key>name</key>
+		<string>Terran Ship Weapons 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Ship Weapons 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Weapons 2.gif</string>
+		<key>name</key>
+		<string>Terran Ship Weapons 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Ship Weapons 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Ship Weapons 3.gif</string>
+		<key>name</key>
+		<string>Terran Ship Weapons 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Terran Vehicle Plating 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Plating 1.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Plating 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Vehicle Plating 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Plating 2.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Plating 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Vehicle Plating 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Plating 3.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Plating 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+	<key>Terran Vehicle Weapons 1</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Weapons 1.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Weapons 1</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>160</string>
+	</dict>
+	<key>Terran Vehicle Weapons 2</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Weapons 2.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Weapons 2</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>190</string>
+	</dict>
+	<key>Terran Vehicle Weapons 3</key>
+	<dict>
+		<key>img</key>
+		<string>Terran Vehicle Weapons 3.gif</string>
+		<key>name</key>
+		<string>Terran Vehicle Weapons 3</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>220</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Baneling Nest</key>
+	<dict>
+		<key>img</key>
+		<string>banelingnest.png</string>
+		<key>name</key>
+		<string>Baneling Nest</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Creep Tumor</key>
+	<dict>
+		<key>img</key>
+		<string>creeptumor.png</string>
+		<key>name</key>
+		<string>Creep Tumor</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>15</string>
+	</dict>
+	<key>Evolution Chamber</key>
+	<dict>
+		<key>img</key>
+		<string>evolutionchamber.png</string>
+		<key>name</key>
+		<string>Evolution Chamber</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>35</string>
+	</dict>
+	<key>Extractor</key>
+	<dict>
+		<key>img</key>
+		<string>extractor.png</string>
+		<key>name</key>
+		<string>Extractor</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>30</string>
+	</dict>
+	<key>Greater Spire</key>
+	<dict>
+		<key>img</key>
+		<string>greaterspire.png</string>
+		<key>name</key>
+		<string>Greater Spire</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Hatchery</key>
+	<dict>
+		<key>img</key>
+		<string>hatchery.png</string>
+		<key>name</key>
+		<string>Hatchery</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Hive</key>
+	<dict>
+		<key>img</key>
+		<string>hive.png</string>
+		<key>name</key>
+		<string>Hive</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Hydralisk Den</key>
+	<dict>
+		<key>img</key>
+		<string>hydraliskden.png</string>
+		<key>name</key>
+		<string>Hydralisk Den</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>40</string>
+	</dict>
+	<key>Infestation Pit</key>
+	<dict>
+		<key>img</key>
+		<string>infestationpit.png</string>
+		<key>name</key>
+		<string>Infestation Pit</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Lair</key>
+	<dict>
+		<key>img</key>
+		<string>lair.png</string>
+		<key>name</key>
+		<string>Lair</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Nydus Network</key>
+	<dict>
+		<key>img</key>
+		<string>nydusnetwork.png</string>
+		<key>name</key>
+		<string>Nydus Network</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Roach Warren</key>
+	<dict>
+		<key>img</key>
+		<string>roachwarren.png</string>
+		<key>name</key>
+		<string>Roach Warren</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>55</string>
+	</dict>
+	<key>Spawning Pool</key>
+	<dict>
+		<key>img</key>
+		<string>spawningpool.png</string>
+		<key>name</key>
+		<string>Spawning Pool</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Spine Crawler</key>
+	<dict>
+		<key>img</key>
+		<string>spinecrawler.png</string>
+		<key>name</key>
+		<string>Spine Crawler</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Spire</key>
+	<dict>
+		<key>img</key>
+		<string>spire.png</string>
+		<key>name</key>
+		<string>Spire</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Spore Crawler</key>
+	<dict>
+		<key>img</key>
+		<string>sporecrawler.png</string>
+		<key>name</key>
+		<string>Spore Crawler</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>30</string>
+	</dict>
+	<key>Ultralisk Cavern</key>
+	<dict>
+		<key>img</key>
+		<string>ultraliskcavern.png</string>
+		<key>name</key>
+		<string>Ultralisk Cavern</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+</dict>
+</plist>

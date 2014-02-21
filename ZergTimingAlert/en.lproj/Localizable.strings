@@ -1,0 +1,273 @@
+/* 
+  Localizable.strings
+  ZergTimingAlert
+
+  Created by 文立 吴 on 12-3-30.
+  Copyright (c) 2012年 esse. All rights reserved.
+*/
+
+"About" = "About";
+"Map" = "Map";
+"Type" = "Type";
+"Strategy" = "Strategy";
+"Players" = "Players";
+"Fighting Type" = "Fighting Type";
+"Maps" = "Maps";
+
+"zerg" = "Zerg";
+"terran" = "Terran";
+"protoss" = "Protoss";
+
+"zvt" = "Z v T";
+"zvp" = "Z v P";
+"zvz" = "Z v Z";
+"pvt" = "P v T";
+"pvz" = "P v Z";
+"pvp" = "P v P";
+"tvz" = "T v Z";
+"tvp" = "T v P";
+"tvt" = "T v T";
+
+/*units*/
+"Drone" = "Drone"; //农民
+"Overlord" = "Overlord"; //overload
+"Zergling" = "Zergling"; //狗
+"Queen" = "Queen"; //女王
+"Roach" = "Roach"; //蟑螂
+"Hydralisk" = "Hydralisk";//刺蛇
+"Baneling" = "Baneling";//毒爆
+"Infestor" = "Infestor";//感染虫
+"Mutalisk" = "Mutalisk";//飞龙
+"Corruptor" = "Corruptor";//腐化
+"Ultralisk" = "Ultralisk";//大牛
+"Brood Lord" = "Brood Lord";//大龙
+
+"SCV" = "SCV"; //农民
+"Marine" = "Marine"; //机枪兵
+"Marauder" = "Marauder"; //光头
+"Reaper" = "Reaper"; //死神
+"Ghost" = "Ghost"; //鬼兵
+"Hellion" = "Hellion"; //火车
+"Siege Tank" = "Siege Tank"; //坦克
+"Thor" = "Thor"; //雷神
+"Viking" = "Viking"; //维京战机
+"Medivac" = "Medivac"; //运输机
+"Raven" = "Raven"; //渡鸦
+"Banshee" = "Banshee"; //女妖
+"Battlecruiser" = "Battlecruiser"; //大和
+
+"Probe" = "Probe"; //农民
+"Zealot" = "Zealot"; //叉叉兵
+"Stalker" = "Stalker"; //追猎
+"Sentry" = "Sentry"; //哨兵
+"Observer" = "Observer"; //叮当
+"Immortal" = "Immortal"; //不朽
+"Warp Prism" = "Warp Prism"; //棱镜  
+"Colossus" = "Colossus"; //巨像
+"Phoenix" = "Phoenix"; //凤凰
+"Void Ray" = "Void Ray"; //虚空
+"High Templar" = "High Templar"; //闪电兵
+"Dark Templar" = "Dark Templar"; //隐刀
+"Archon" = "Archon"; //和白球
+"Carrier" = "Carrier"; //航母
+"Mothership" = "Mothership"; //妈妈船
+
+
+//building
+
+"Hatchery" = "Hatchery";//基地
+"Extractor" = "Extractor";//气矿
+"Spawning Pool" = "Spawning Pool";//血池
+"Evolution Chamber" = "Evolution Chamber";//进化腔
+"Spine Crawler" = "Spine Crawler";//地堡
+"Spore Crawler" = "Spore Crawler";//防空
+"Roach Warren" = "Roach Warren";//蟑螂巢
+"Baneling Nest" = "Baneling Nest";//毒爆虫巢
+"Lair" = "Lair";//二本
+"Hydralisk Den" = "Hydralisk Den";//口水塔
+"Infestation Pit" = "Infestation Pit";//感染虫巢
+"Spire" = "Spire";//飞龙塔
+"Greater Spire" = "Greater Spire";//大龙塔
+"Nydus Network" = "Nydus Network";//传送门
+"Hive" = "Hive";//三本
+"Ultralisk Cavern" = "Ultralisk Cavern";//牛塔
+"Creep Tumor" = "Creep Tumor";//菌坛瘤
+
+"Command Center" = "Command Center"; //基地
+"Orbital Command" = "Orbital Command"; //星轨中心
+"Planetary Fortress" = "Planetary Fortress"; //行星要塞
+"Supply Depot" = "Supply Depot"; //补给站
+"Refinery" = "Refinery"; //气矿
+"Barracks" = "Barracks"; //兵营
+"Engineering Bay" = "Engineering Bay"; //工程站
+"Bunker" = "Bunker"; //地堡
+"Missile Turret" = "Missile Turret"; //防空塔
+"Sensor Tower" = "Sensor Tower"; //感应塔
+"Factory" = "Factory"; //坦克营
+"Ghost Academy" = "Ghost Academy"; //幽灵研究院
+"Armory" = "Armory"; //军械库
+"Starport" = "Starport"; //飞机场
+"Fusion Core"; //聚变芯体
+"Tech Lab"; //科技附件
+"Reactor"; //双倍附件
+
+
+"Nexus" = "Nexus"; //基地
+"Pylon" = "Pylon"; //水晶
+"Assimilator" = "Assimilator"; //气矿
+"Gateway" = "Gateway"; //兵营
+"Warp Gate" = "Warp Gate"; //开门兵营
+"Forge" = "Forge"; //锻炉
+"Cybernetics Core" = "Cybernetics Core"; //控制核心
+"Dark Shrine" = "Dark Shrine"; //隐刀塔
+"Photon Cannon" = "Photon Cannon"; //光子炮
+"Fleet Beacon" = "Fleet Beacon"; //舰队航标
+"Stargate" = "Stargate"; //星门
+"Twilight Council" = "Twilight Council"; //暮光议会
+"Robotics Facility" = "Robotics Facility"; //机械所
+"Templar Archives" = "Templar Archives"; //圣堂文库
+"Robotics Bay" = "Robotics Bay";//机械站
+
+"Spawn Larva" = "Spawn Larva";
+"Chrono Boost" = "Chrono Boost";
+"Calldown MULE" = "Calldown MULE";
+"Spawn Creep Tumor" = "Spawn Creep Tumor";
+
+//Research
+"Zerg Burrow" = "Burrow"; //埋地
+"Zerg Pneumatized Carapace" = "Pneumatized Carapace"; //房子速度
+"Zerg Ventral Sacs" = "Ventral Sacs"; //房子空投
+"Zerg Metabolic Boost" = "Metabolic Boost"; //狗速
+"Zerg Adrenal Glands" = "Adrenal Glands"; //狂爪
+"Zerg Centrifugal Hooks" = "Centrifugal Hooks"; //毒爆速度
+"Zerg Glial Reconstitution" = "Glial Reconstitution";//蟑螂速度
+"Zerg Tunneling Claws" = "Tunneling Claws";//蟑螂埋地
+"Zerg Pathogen Glands" = "Pathogen Glands";//感染能量上限
+"Zerg Neural Parasite" = "Neural Parasite";//感染神经控制
+"Zerg Grooved Spines" = "Grooved Spines";//刺蛇射程
+"Zerg Chitinous Plating" = "Chitinous Plating";//大牛硬甲
+
+//----protoss
+"Protoss Warp Gate" = "Warp Gate"; //兵营开门研究
+"Protoss Hallucination" = "Hallucination"; //幻象
+"Protoss Blink" = "Blink"; //闪烁科技
+"Protoss Charge" = "Charge"; //zealot脚力
+"Protoss Psionic Storm" = "Psionic Storm"; //闪电研究
+"Protoss Gravitic Drive" = "Gravitic Drive"; //棱镜速度
+"Protoss Gravitic Boosters" = "Gravitic Boosters"; //ob速度
+"Protoss Extended Thermal Lance" = "Extended Thermal Lance"; //巨像射程
+
+//-----terran
+"Terran Stimpack" = "Stimpack"; //兴奋剂
+"Terran Combat Shield" = "Combat Shield"; //盾牌
+"Terran Concussive Shells" = "Concussive Shells"; //震撼弹
+"Terran Nitro Packs" = "Nitro Packs";//死神速度
+"Terran Infernal Pre-Igniter" = "Infernal Pre-Igniter"; //蓝火
+"Terran Siege Tech" = "Siege Tech"; //坦克架起
+"Terran 250mm Strike Cannons" = "250mm Strike Cannons"; //雷神250
+"Terran Caduceus Reactor" = "Caduceus Reactor"; //运输机能量
+"Terran Corvid Reactor" = "Corvid Reactor"; //渡鸦能量
+"Terran Durable Materials" = "Durable Materials"; //无人机研究
+"Terran Seeker Missile" = "Seeker Missile"; //渡鸦飞弹
+"Terran Cloaking Field" = "Cloaking Field";//女妖隐形
+"Terran Personal Cloaking" = "Personal Cloaking"; //鬼兵隐形
+"Terran Moebius Reactor" = "Moebius Reactor"; //鬼兵能量
+"Terran Behemoth Reactor" = "Behemoth Reactor"; //大和能量
+"Terran Weapon Refit" = "Weapon Refit"; //大和炮
+
+
+//Upgrade
+//------zerg----
+"Zerg Melee Attacks 1" = "Melee Attacks 1"; //近战攻1
+"Zerg Melee Attacks 2" = "Melee Attacks 2"; //近战攻2
+"Zerg Melee Attacks 3" = "Melee Attacks 3"; //近战攻3
+"Zerg Missile Attacks 1" = "Missile Attacks 1"; //远程攻1
+"Zerg Missile Attacks 2" = "Missile Attacks 2"; //远程攻2
+"Zerg Missile Attacks 3" = "Missile Attacks 3"; //远程攻3
+
+"Zerg Ground Carapace 1" = "Ground Carapace 1"; //防1
+"Zerg Ground Carapace 2" = "Ground Carapace 2"; //防2
+"Zerg Ground Carapace 3" = "Ground Carapace 3"; //防3
+
+"Zerg Flyer Attacks 1" = "Flyer Attacks 1"; //空军攻1
+"Zerg Flyer Attacks 2" = "Flyer Attacks 2"; //空军攻2
+"Zerg Flyer Attacks 3" = "Flyer Attacks 3"; //空军攻3
+
+"Zerg Flyer Carapace 1" = "Flyer Carapace 1"; //空军防1
+"Zerg Flyer Carapace 2" = "Flyer Carapace 2"; //空军防2
+"Zerg Flyer Carapace 3" = "Flyer Carapace 3"; //空军防3
+
+
+
+//------protoss---
+"Protoss Ground Weapons 1" = "Ground Weapons 1"; //地面攻1
+"Protoss Ground Weapons 2" = "Ground Weapons 2"; //地面攻2
+"Protoss Ground Weapons 3" = "Ground Weapons 3"; //地面攻3
+"Protoss Ground Armor 1" = "Ground Armor 1"; //地面防1
+"Protoss Ground Armor 2" = "Ground Armor 2"; //地面防2
+"Protoss Ground Armor 3" = "Ground Armor 3"; //地面防3
+"Protoss Shields 1" = "Shields 1"; //护盾1
+"Protoss Shields 2" = "Shields 2"; //护盾2
+"Protoss Shields 3" = "Shields 3"; //护盾3
+
+"Protoss Air Weapons 1" = "Air Weapons 1"; //空军攻1
+"Protoss Air Weapons 2" = "Air Weapons 2"; //空军攻2
+"Protoss Air Weapons 3" = "Air Weapons 3"; //空军攻3
+"Protoss Air Armor 1" = "Air Armor 1"; //空军防1
+"Protoss Air Armor 2" = "Air Armor 2"; //空军防2
+"Protoss Air Armor 3" = "Air Armor 3"; //空军防3
+
+
+//-----terran---
+"Terran Infantry Weapons 1" = "Infantry Weapons 1"; //生化枪兵攻1
+"Terran Infantry Weapons 2" = "Infantry Weapons 2"; //生化枪兵攻2
+"Terran Infantry Weapons 3" = "Infantry Weapons 3"; //生化枪兵攻3
+"Terran Infantry Armor 1" = "Infantry Armor 1"; //生化枪兵防1
+"Terran Infantry Armor 2" = "Infantry Armor 2"; //生化枪兵防2
+"Terran Infantry Armor 3" = "Infantry Armor 3"; //生化枪兵防3
+
+
+"Terran Vehicle Weapons 1" = "Vehicle Weapons 1"; //机械化地面攻1
+"Terran Vehicle Weapons 2" = "Vehicle Weapons 2"; //机械化地面攻2
+"Terran Vehicle Weapons 3" = "Vehicle Weapons 3"; //机械化地面攻3
+"Terran Vehicle Plating 1" = "Vehicle Plating 1"; //机械化地面防1
+"Terran Vehicle Plating 2" = "Vehicle Plating 2"; //机械化地面防2
+"Terran Vehicle Plating 3" = "Vehicle Plating 3"; //机械化地面防3
+
+
+"Terran Ship Weapons 1" = "Ship Weapons 1"; //机械化空中攻1
+"Terran Ship Weapons 2" = "Ship Weapons 2"; //机械化空中攻2
+"Terran Ship Weapons 3" = "Ship Weapons 3"; //机械化空中攻3
+"Terran Ship Plating 1" = "Ship Plating 1"; //机械化空中防1
+"Terran Ship Plating 2" = "Ship Plating 2"; //机械化空中防2
+"Terran Ship Plating 3" = "Ship Plating 3"; //机械化空中防3
+
+//map
+"Cloud Kingdom" = "Cloud Kingdom";
+"Daybreak" = "Daybreak";
+"Ohana" = "Ohana";
+"Antiga Shipyard" = "Antiga Shipyard";
+"Entombed Valley" = "Entombed Valley";
+"Shakuras Plateau" = "Shakuras Plateau";
+"Tal Darim Altar" = "Tal Darim Altar";
+"Metropolis" = "Metropolis";
+"Metalopolis" = "Metalopolis";
+"Atlantis Spaceship" = "Atlantis Spaceship";
+
+//strategy
+"2bb 3base" = "2bb 3base";
+"7bg attack" = "7bg attack";
+"2base 3bg and Warp Prism" = "2base 3bg and Warp Prism";
+"2base Roach and Baneing" = "2base Roach and Baneing";
+"12 mins 200 units" = "12 mins 200 units";
+"1bb 2base" = "1bb 2base";
+"3 base 10bb" = "3 base 10bb";
+"2base 5bb rush" = "2base 5bb rush";
+"2 base and Hellion" = "2 base and Hellion";
+"Parting High Templar" = "Parting High Templar";
+"cloak Banshee rush" = "cloak Banshee rush";
+"111" = "111";
+"2base 4Queen then 3base" = "2base 4Queen then 3base";
+"3base mutalisk+zergling+baneing" = "3base mutalisk+zergling+baneing"; 
+"1base 3bg rush" = "1base 3bg rush";
+"2 base Colossus" = "2 base Colossus";

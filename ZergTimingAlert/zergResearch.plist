@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zerg Adrenal Glands</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Adrenal Glands.gif</string>
+		<key>name</key>
+		<string>Zerg Adrenal Glands</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>130</string>
+	</dict>
+	<key>Zerg Burrow</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Burrow.gif</string>
+		<key>name</key>
+		<string>Zerg Burrow</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Zerg Centrifugal Hooks</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Centrifugal Hooks.gif</string>
+		<key>name</key>
+		<string>Zerg Centrifugal Hooks</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Chitinous Plating</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Chitinous Plating.gif</string>
+		<key>name</key>
+		<string>Zerg Chitinous Plating</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Glial Reconstitution</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Glial Reconstitution.gif</string>
+		<key>name</key>
+		<string>Zerg Glial Reconstitution</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Grooved Spines</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Grooved Spines.gif</string>
+		<key>name</key>
+		<string>Zerg Grooved Spines</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Zerg Metabolic Boost</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Metabolic Boost.png</string>
+		<key>name</key>
+		<string>Zerg Metabolic Boost</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Neural Parasite</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Neural Parasite.png</string>
+		<key>name</key>
+		<string>Zerg Neural Parasite</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Pathogen Glands</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Pathogen Glands.gif</string>
+		<key>name</key>
+		<string>Zerg Pathogen Glands</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>80</string>
+	</dict>
+	<key>Zerg Pneumatized Carapace</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Pneumatized Carapace.gif</string>
+		<key>name</key>
+		<string>Zerg Pneumatized Carapace</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Zerg Tunneling Claws</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Tunneling Claws.gif</string>
+		<key>name</key>
+		<string>Zerg Tunneling Claws</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>110</string>
+	</dict>
+	<key>Zerg Ventral Sacs</key>
+	<dict>
+		<key>img</key>
+		<string>Zerg Ventral Sacs.gif</string>
+		<key>name</key>
+		<string>Zerg Ventral Sacs</string>
+		<key>race</key>
+		<string>zerg</string>
+		<key>time</key>
+		<string>130</string>
+	</dict>
+</dict>
+</plist>

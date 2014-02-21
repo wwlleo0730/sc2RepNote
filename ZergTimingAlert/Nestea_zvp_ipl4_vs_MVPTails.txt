@@ -1,0 +1,340 @@
+1|Train Drone
+18|Train Drone
+29|Train Drone
+48|Train Overlord
+55|Train Drone
+73|Train Drone
+74|Train Drone
+80|Train Drone
+94|Train Drone
+111|Build Spawning Pool; target: x=19.5,y=77.5
+117|Train Drone
+123|Train Drone
+156|Build Hatchery; target: x=29.5,y=52.5
+162|Train Drone
+178|Train Queen
+183|Train Zergling
+192|Train Overlord
+217|Train Drone
+218|Train Drone
+231|Build Hatchery; target: x=36.5,y=20.5
+232|Spawn Larva (Queen); target: Hatchery (102c4)
+237|Train Drone
+240|Train Drone
+254|Train Queen
+263|Train Overlord
+268|Train Drone
+272|Train Drone
+275|Spawn Larva (Queen); target: Hatchery (1034c)
+277|Train Drone
+283|Train Drone
+286|Train Drone
+290|Train Drone
+293|Train Drone
+300|Train Drone
+306|Spawn Larva (Queen); target: Hatchery (102c4)
+311|Train Overlord
+313|Train Drone
+318|Spawn Creep Tumor (Queen); target: x=37.5,y=49.5
+319|Train Drone
+320|Train Drone
+322|Train Drone
+329|Train Overlord
+337|Train Queen
+340|Train Drone
+344|Train Drone
+345|Train Drone
+348|Train Drone
+349|Train Drone
+350|Spawn Larva (Queen); target: Hatchery (102c4)
+352|Train Drone
+358|Train Drone
+359|Train Drone
+361|Train Drone
+362|Spawn Larva (Queen); target: Hatchery (1034c)
+364|Train Drone
+365|Train Drone
+366|Train Drone
+367|Train Drone
+368|Train Drone
+376|Train Drone
+379|Train Drone
+384|Build Extractor; target: Space Platform Geyser (10218)
+384|Build Extractor; target: Space Platform Geyser (101f8)
+385|Train Drone
+386|Build Extractor; target: Space Platform Geyser (10228)
+390|Spawn Larva (Queen); target: Hatchery (10388)
+393|Train Overlord
+394|Train Drone
+395|Train Drone
+395|Train Drone
+397|Spawn Larva (Queen); target: Hatchery (102c4)
+399|Build Roach Warren; target: x=27.5,y=67.5
+403|Build Extractor; target: Space Platform Geyser (10250)
+405|Train Drone
+405|Train Drone
+407|Spawn Larva (Queen); target: Hatchery (1034c)
+414|Train Overlord
+420|Train Drone
+420|Train Drone
+421|Train Drone
+422|Train Drone
+426|Train Drone
+426|Train Drone
+427|Train Drone
+430|Train Drone
+439|Train Overlord
+439|Spawn Larva (Queen); target: Hatchery (10388)
+441|Train Drone
+442|Train Drone
+442|Train Drone
+442|Train Drone
+443|Train Drone
+443|Train Drone
+447|Spawn Larva (Queen); target: Hatchery (102c4)
+451|Spawn Larva (Queen); target: Hatchery (1034c)
+453|Build Lair
+456|Train Overlord
+457|Train Overlord
+460|Train Drone
+460|Train Drone
+461|Research Zerg Metabolic Boost
+466|Train Drone
+467|Train Drone
+467|Train Drone
+467|Train Drone
+467|Train Zergling
+473|Train Roach
+477|Train Overlord
+478|Build Evolution Chamber; target: x=35.5,y=70.5
+482|Spawn Larva (Queen); target: Hatchery (10388)
+487|Train Drone
+491|Build Hatchery; target: x=36.5,y=76.5
+492|Spawn Larva (Queen); target: Hatchery (102c4)
+495|Train Drone
+495|Train Drone
+495|Train Drone
+495|Train Drone
+497|Train Drone
+498|Train Drone
+500|Spawn Larva (Queen); target: Hatchery (1034c)
+504|Train Drone
+504|Train Drone
+504|Train Drone
+504|Train Drone
+510|Train Roach
+510|Train Roach
+510|Train Roach
+513|Train Roach
+516|Upgrade Zerg Missile Attacks 1
+518|Train Roach
+522|Train Roach
+523|Spawn Larva (Queen); target: Hatchery (10388)
+525|Train Overlord
+526|Train Roach
+528|Train Roach
+532|Train Roach
+533|Train Roach
+533|Train Roach
+535|Build Extractor; target: Space Platform Geyser (10204)
+536|Build Extractor; target: Space Platform Geyser (10240)
+537|Spawn Larva (Queen); target: Lair (102c4)
+538|Research Zerg Burrow
+541|Research Zerg Glial Reconstitution
+542|Morph to Overseer (Overlord)
+547|Train Roach
+548|Train Overlord
+548|Train Overlord
+553|Train Roach
+553|Train Roach
+555|Train Roach
+555|Spawn Larva (Queen); target: Hatchery (1034c)
+557|Train Roach
+560|Train Roach
+562|Train Overlord
+564|Train Overlord
+566|Spawn Larva (Queen); target: Hatchery (10388)
+573|Build Hatchery; target: x=67.5,y=13.5
+576|Train Roach
+587|Spawn Larva (Queen); target: Lair (102c4)
+590|Train Roach
+590|Train Roach
+590|Train Roach
+592|Build Spire; target: x=22.0,y=57.0
+594|Train Roach
+595|Train Roach
+597|Train Roach
+600|Train Roach
+601|Train Roach
+606|Train Roach
+607|Train Roach
+607|Train Overlord
+608|Train Overlord
+613|Train Queen
+617|Spawn Larva (Queen); target: Hatchery (30590)
+619|Research Zerg Tunneling Claws
+620|Spawn Larva (Queen); target: Hatchery (1034c)
+622|Train Overlord
+622|Train Overlord
+632|Train Roach
+633|Train Roach
+633|Train Roach
+633|Train Roach
+633|Train Roach
+633|Train Roach
+636|Train Roach
+637|Train Roach
+640|Spawn Changeling (Overseer)
+642|Train Roach
+642|Train Roach
+643|Train Roach
+646|Train Roach
+647|Train Roach
+651|Train Roach
+654|Train Roach
+655|Train Roach
+662|Train Overlord
+662|Train Roach
+663|Train Roach
+663|Train Roach
+665|Spawn Larva (Queen); target: Hatchery (10388)
+665|Train Roach
+666|Spawn Larva (Queen); target: Hatchery (1034c)
+667|Spawn Larva (Queen); target: Lair (102c4)
+667|Spawn Larva (Queen); target: Hatchery (30590)
+674|Train Roach
+675|Train Roach
+682|Train Overlord
+689|Train Roach
+690|Upgrade Zerg Missile Attacks 2
+691|Train Roach
+691|Train Roach
+692|Train Roach
+692|Train Roach
+696|Train Overlord
+707|Train Roach
+708|Train Roach
+708|Train Roach
+715|Upgrade Zerg Flyer Attacks 1
+715|Spawn Larva (Queen); target: Hatchery (1034c)
+729|Train Roach
+729|Train Roach
+729|Train Roach
+745|Train Roach
+746|Train Roach
+746|Train Roach
+746|Train Roach
+746|Train Roach
+746|Train Roach
+747|Train Roach
+747|Train Roach
+747|Train Roach
+747|Train Roach
+747|Train Roach
+747|Train Roach
+754|Train Roach
+758|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+759|Train Roach
+763|Train Roach
+765|Train Roach
+765|Train Roach
+765|Train Roach
+765|Train Roach
+765|Train Roach
+765|Train Roach
+765|Train Roach
+773|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+774|Train Roach
+777|Spawn Larva (Queen); target: Lair (102c4)
+777|Spawn Larva (Queen); target: Hatchery (30590)
+779|Spawn Larva (Queen); target: Hatchery (10388)
+785|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+786|Train Roach
+787|Train Roach
+787|Train Roach
+787|Train Roach
+794|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+795|Train Roach
+832|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+833|Train Roach
+834|Train Roach
+834|Train Roach
+834|Train Roach
+834|Train Roach
+834|Train Roach
+846|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach
+847|Train Roach

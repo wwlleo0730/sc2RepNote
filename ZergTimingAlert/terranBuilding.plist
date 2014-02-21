@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Armory</key>
+	<dict>
+		<key>img</key>
+		<string>armory.png</string>
+		<key>name</key>
+		<string>Armory</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Barracks</key>
+	<dict>
+		<key>img</key>
+		<string>barracks.png</string>
+		<key>name</key>
+		<string>Barracks</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Bunker</key>
+	<dict>
+		<key>img</key>
+		<string>bunker.png</string>
+		<key>name</key>
+		<string>Bunker</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>40</string>
+	</dict>
+	<key>Command Center</key>
+	<dict>
+		<key>img</key>
+		<string>commandcenter.png</string>
+		<key>name</key>
+		<string>Command Center</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>100</string>
+	</dict>
+	<key>Engineering Bay</key>
+	<dict>
+		<key>img</key>
+		<string>engineeringbay.png</string>
+		<key>name</key>
+		<string>Engineering Bay</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>35</string>
+	</dict>
+	<key>Factory</key>
+	<dict>
+		<key>img</key>
+		<string>factory.png</string>
+		<key>name</key>
+		<string>Factory</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>60</string>
+	</dict>
+	<key>Fusion Core</key>
+	<dict>
+		<key>img</key>
+		<string>fusioncore.png</string>
+		<key>name</key>
+		<string>Fusion Core</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>65</string>
+	</dict>
+	<key>Ghost Academy</key>
+	<dict>
+		<key>img</key>
+		<string>ghostacademy.png</string>
+		<key>name</key>
+		<string>Ghost Academy</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>40</string>
+	</dict>
+	<key>Missile Turret</key>
+	<dict>
+		<key>img</key>
+		<string>missileturret.png</string>
+		<key>name</key>
+		<string>Missile Turret</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>25</string>
+	</dict>
+	<key>Orbital Command</key>
+	<dict>
+		<key>img</key>
+		<string>orbitalcommand.png</string>
+		<key>name</key>
+		<string>Orbital Command</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>35</string>
+	</dict>
+	<key>Planetary Fortress</key>
+	<dict>
+		<key>img</key>
+		<string>planetaryfortress.png</string>
+		<key>name</key>
+		<string>Planetary Fortress</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Reactor</key>
+	<dict>
+		<key>img</key>
+		<string>reactor.png</string>
+		<key>name</key>
+		<string>Reactor</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Refinery</key>
+	<dict>
+		<key>img</key>
+		<string>refinery.png</string>
+		<key>name</key>
+		<string>Refinery</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>30</string>
+	</dict>
+	<key>Sensor Tower</key>
+	<dict>
+		<key>img</key>
+		<string>sensortower.png</string>
+		<key>name</key>
+		<string>Sensor Tower</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>25</string>
+	</dict>
+	<key>Starport</key>
+	<dict>
+		<key>img</key>
+		<string>starport.png</string>
+		<key>name</key>
+		<string>Starport</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>50</string>
+	</dict>
+	<key>Supply Depot</key>
+	<dict>
+		<key>img</key>
+		<string>supplydepot.png</string>
+		<key>name</key>
+		<string>Supply Depot</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>30</string>
+	</dict>
+	<key>Tech Lab</key>
+	<dict>
+		<key>img</key>
+		<string>techlab.png</string>
+		<key>name</key>
+		<string>Tech Lab</string>
+		<key>race</key>
+		<string>terran</string>
+		<key>time</key>
+		<string>25</string>
+	</dict>
+</dict>
+</plist>

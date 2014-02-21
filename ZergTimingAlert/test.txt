@@ -1,0 +1,5 @@
+1|Train SCV
+2|Research Protoss Warp Gate
+3|Chrono Boost (Nexus); target: Cybernetics Core (202f4)
+60|Chrono Boost (Nexus); target: Cybernetics Core (202f4)
+162|Train SCV

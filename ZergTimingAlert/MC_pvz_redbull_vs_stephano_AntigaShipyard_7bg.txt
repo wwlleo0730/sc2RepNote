@@ -1,0 +1,106 @@
+0|Train Probe
+17|Train Probe
+29|Train Probe
+49|Build Pylon; target: x=132.0,y=44.0
+59|Train Probe
+68|Train Probe
+75|Chrono Boost (Nexus); target: Nexus (102c8)
+77|Train Probe
+84|Train Probe
+93|Train Probe
+97|Chrono Boost (Nexus); target: Nexus (102c8)
+100|Train Probe
+109|Train Probe
+135|Chrono Boost (Nexus); target: Nexus (102c8)
+137|Train Probe
+137|Train Probe
+150|Build Forge; target: x=126.5,y=42.5
+182|Build Nexus; target: x=133.5,y=29.5
+192|Build Pylon; target: x=133.0,y=50.0
+205|Build Gateway; target: x=129.5,y=44.5
+221|Build Photon Cannon; target: x=134.0,y=44.0
+223|Train Probe
+232|Build Assimilator; target: Space Platform Geyser (101e0)
+235|Train Probe
+235|Chrono Boost (Nexus); target: Nexus (102c8)
+239|Train Probe
+242|Train Probe
+254|Train Probe
+256|Chrono Boost (Nexus); target: Nexus (102c8)
+271|Build Cybernetics Core; target: x=132.5,y=46.5
+271|Train Zealot
+283|Train Probe
+284|Train Probe
+284|Train Probe
+294|Build Pylon; target: x=113.0,y=42.0
+300|Train Probe
+302|Train Probe
+316|Train Probe
+316|Train Probe
+323|Research Protoss Warp Gate
+324|Train Stalker
+325|Chrono Boost (Nexus); target: Nexus (102c8)
+325|Chrono Boost (Nexus); target: Nexus (1035c)
+326|Train Probe
+326|Train Probe
+333|Train Probe
+333|Train Probe
+334|Chrono Boost (Nexus); target: Cybernetics Core (1039c)
+358|Train Probe
+358|Train Probe
+369|Chrono Boost (Nexus); target: Cybernetics Core (1039c)
+373|Build Gateway; target: x=118.5,y=43.5
+375|Build Gateway; target: x=115.5,y=43.5
+379|Build Gateway; target: x=115.5,y=40.5
+382|Build Gateway; target: x=115.5,y=40.5
+384|Build Gateway; target: x=115.5,y=37.5
+392|Build Gateway; target: x=112.5,y=37.5
+394|Chrono Boost (Nexus); target: Cybernetics Core (1039c)
+399|Train Zealot
+404|Build Pylon; target: x=46.0,y=47.0
+409|Train Probe
+409|Train Probe
+412|Train Probe
+417|Chrono Boost (Nexus); target: Cybernetics Core (1039c)
+422|Build Pylon; target: x=130.0,y=29.0
+449|Build Pylon; target: x=58.0,y=87.0
+457|Train Stalker (Warp gate); target: x=51.0,y=47.6
+457|Train Stalker (Warp gate); target: x=50.6,y=45.6
+458|Train Stalker (Warp gate); target: x=51.5,y=44.8
+458|Train Stalker (Warp gate); target: x=51.9,y=46.8
+459|Train Stalker (Warp gate); target: x=49.9,y=46.2
+470|Build Pylon; target: x=45.0,y=94.0
+476|Train Zealot (Warp gate); target: x=55.2,y=94.4
+476|Train Zealot (Warp gate); target: x=57.6,y=90.3
+492|Train Zealot (Warp gate); target: x=57.6,y=95.7
+493|Train Zealot (Warp gate); target: x=56.8,y=90.5
+493|Train Zealot (Warp gate); target: x=54.7,y=91.2
+493|Train Zealot (Warp gate); target: x=55.2,y=91.9
+494|Train Zealot (Warp gate); target: x=58.3,y=93.7
+495|Chrono Boost (Nexus); target: Warp Gate (2046c)
+495|Chrono Boost (Nexus); target: Warp Gate (10484)
+495|Chrono Boost (Nexus); target: Warp Gate (303e8)
+495|Chrono Boost (Nexus); target: Warp Gate (20438)
+496|Chrono Boost (Nexus); target: Warp Gate (20464)
+506|Train Zealot (Warp gate); target: x=57.8,y=95.8
+506|Train Zealot (Warp gate); target: x=58.0,y=94.3
+520|Train Stalker (Warp gate); target: x=59.9,y=95.4
+521|Train Stalker (Warp gate); target: x=57.5,y=91.1
+521|Train Zealot (Warp gate); target: x=55.8,y=95.7
+521|Train Zealot (Warp gate); target: x=55.9,y=94.8
+521|Train Zealot (Warp gate); target: x=55.8,y=93.9
+531|Train Zealot (Warp gate); target: x=57.8,y=95.6
+531|Train Zealot (Warp gate); target: x=56.7,y=94.3
+533|Chrono Boost (Nexus); target: Warp Gate (2046c)
+533|Chrono Boost (Nexus); target: Warp Gate (10484)
+549|Train Zealot (Warp gate); target: x=55.1,y=91.1
+549|Train Zealot (Warp gate); target: x=55.9,y=91.0
+550|Train Zealot (Warp gate); target: x=54.5,y=89.6
+553|Train Zealot (Warp gate); target: x=57.5,y=89.1
+558|Train Zealot (Warp gate); target: x=55.9,y=95.6
+559|Train Stalker (Warp gate); target: x=59.7,y=94.1
+560|Train Stalker (Warp gate); target: x=56.8,y=89.7
+582|Train Zealot (Warp gate); target: x=57.5,y=92.5
+582|Train Zealot (Warp gate); target: x=56.7,y=95.8
+582|Train Zealot (Warp gate); target: x=55.5,y=91.6
+582|Train Zealot (Warp gate); target: x=55.9,y=89.1

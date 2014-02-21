@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Stephano</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Antiga Shipyard</string>
+			<key>repInfo</key>
+			<string>2012.05.28 redbull vs Squirtle</string>
+			<key>fightType</key>
+			<string>zvp</string>
+			<key>repStrategy</key>
+			<string>12 mins 200 units</string>
+			<key>repName</key>
+			<string>Stephano_zvp_Squirtle_Redbull_AntigaShipyard</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Stephano</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Atlantis Spaceship</string>
+			<key>repInfo</key>
+			<string>2012.4.8 vs MKP on IPL4</string>
+			<key>fightType</key>
+			<string>zvt</string>
+			<key>repStrategy</key>
+			<string>2base Roach and Baneing</string>
+			<key>repName</key>
+			<string>Stephano_zvt_MKP_IPL4_GroupB_Atlantis Shipyard</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Stephano</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Daybreak</string>
+			<key>repInfo</key>
+			<string>2012.5.28 vs STPartinG on redbull</string>
+			<key>fightType</key>
+			<string>zvp</string>
+			<key>repStrategy</key>
+			<string>12 mins 200 units</string>
+			<key>repName</key>
+			<string>Stephano_zvp_parting_daybreak_redbull</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Stephano</string>
+		</dict>
+	</array>
+	<key>MC</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Antiga Shipyard</string>
+			<key>repInfo</key>
+			<string>SKMC vs STbomber on Redbull</string>
+			<key>fightType</key>
+			<string>pvt</string>
+			<key>repStrategy</key>
+			<string>2base 3bg and Warp Prism</string>
+			<key>repName</key>
+			<string>mc_pvt_bomber_redbull_1bg2base3bg_Antiga Shipyard</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>MC</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Ohana</string>
+			<key>repInfo</key>
+			<string>2012 5.28 SKMC vs Stephano on Redbull</string>
+			<key>fightType</key>
+			<string>pvz</string>
+			<key>repStrategy</key>
+			<string>7bg attack</string>
+			<key>repName</key>
+			<string>MC_pvz_redbull_vs_stephano_OhanaLE</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>MC</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Antiga Shipyard</string>
+			<key>repInfo</key>
+			<string>2012 .5.28 SKMC vs Stephano on Redbull</string>
+			<key>fightType</key>
+			<string>pvz</string>
+			<key>repStrategy</key>
+			<string>7bg attack</string>
+			<key>repName</key>
+			<string>MC_pvz_redbull_vs_stephano_AntigaShipyard_7bg</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>MC</string>
+		</dict>
+	</array>
+	<key>DRG</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Tal Darim Altar</string>
+			<key>repInfo</key>
+			<string>2012.03.25 DRG vs EGJYP on MLG Winter</string>
+			<key>fightType</key>
+			<string>zvp</string>
+			<key>repStrategy</key>
+			<string>12 mins 200 units</string>
+			<key>repName</key>
+			<string>DRG_zvp_vs_EGJYP_2012 MLG Winter</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>DRG</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Shakuras Plateau</string>
+			<key>repInfo</key>
+			<string>2012.03.25 DRG vs MKP on MLG Winter</string>
+			<key>fightType</key>
+			<string>zvt</string>
+			<key>repStrategy</key>
+			<string>2base Roach and Baneing</string>
+			<key>repName</key>
+			<string>DRG_zvt_MKP_Roach_Baneing 2012 MLG Winter</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>DRG</string>
+		</dict>
+	</array>
+	<key>Nestea</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Metropolis</string>
+			<key>repInfo</key>
+			<string>Nestea vs MVPTails on IPL4 Group A</string>
+			<key>fightType</key>
+			<string>zvp</string>
+			<key>repStrategy</key>
+			<string>12 mins 200 units</string>
+			<key>repName</key>
+			<string>Nestea_zvp_ipl4_vs_MVPTails</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Nestea</string>
+		</dict>
+	</array>
+	<key>MKP</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Entombed Valley</string>
+			<key>repInfo</key>
+			<string>MKP vs TSLhyun on IPL5 Korean Regional</string>
+			<key>fightType</key>
+			<string>tvz</string>
+			<key>repStrategy</key>
+			<string>2bb 3base</string>
+			<key>repName</key>
+			<string>MKP_tvz_ipl5_vs_TSLHyun_2</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>MKP</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Ohana</string>
+			<key>repInfo</key>
+			<string>MKP vs TSLSymbol on IPL5 Korean Regional</string>
+			<key>fightType</key>
+			<string>tvz</string>
+			<key>repStrategy</key>
+			<string>2base 5bb rush</string>
+			<key>repName</key>
+			<string>MKP_tvz_Symbol_IPL5_5bb_Ohana</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>MKP</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Cloud Kingdom</string>
+			<key>repInfo</key>
+			<string>vs EGJYP on IPL4 </string>
+			<key>fightType</key>
+			<string>tvp</string>
+			<key>repStrategy</key>
+			<string>1bb 2base</string>
+			<key>repName</key>
+			<string>MKP_tvp_vs_EGJYP_IPL4_2base</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>MKP</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Tal Darim Altar</string>
+			<key>repInfo</key>
+			<string>2012 03.28 MKP vs PartinG on 2012 MLG Winter </string>
+			<key>fightType</key>
+			<string>tvp</string>
+			<key>repStrategy</key>
+			<string>3 base 10bb</string>
+			<key>repName</key>
+			<string>MKP tvp vs PartinG 2012 MLG Winter </string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>MKP</string>
+		</dict>
+	</array>
+	<key>Polt</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Daybreak</string>
+			<key>repInfo</key>
+			<string>2012.05.24 vs Symbol on MSI Pro Cup</string>
+			<key>fightType</key>
+			<string>tvz</string>
+			<key>repStrategy</key>
+			<string>2 base and Hellion</string>
+			<key>repName</key>
+			<string>Polt_tvz_Symbol_on_daybreak_2base_Hellion</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>Polt</string>
+		</dict>
+	</array>
+	<key>Parting</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Daybreak</string>
+			<key>repInfo</key>
+			<string>Parting vs Ret on Redbull</string>
+			<key>fightType</key>
+			<string>pvz</string>
+			<key>repStrategy</key>
+			<string>2 base rush</string>
+			<key>repName</key>
+			<string>STPartinG_pvz_redbull_vs_LiquidRet</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>Parting</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Tal Darim Altar</string>
+			<key>repInfo</key>
+			<string>Parting pvt vs MKP 2012 MLG Winter </string>
+			<key>fightType</key>
+			<string>pvt</string>
+			<key>repStrategy</key>
+			<string>Parting High Templar </string>
+			<key>repName</key>
+			<string>Parting pvt vs MKP 2012 MLG Winter </string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>Parting</string>
+		</dict>
+	</array>
+	<key>aLive</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Entombed Valley</string>
+			<key>repInfo</key>
+			<string>aLive vs Squirtle on IPL4</string>
+			<key>fightType</key>
+			<string>tvp</string>
+			<key>repStrategy</key>
+			<string>cloak Banshee rush</string>
+			<key>repName</key>
+			<string>aLive_tvp_Squirtle_IPL4_1base</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>aLive</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Cloud Kingdom</string>
+			<key>repInfo</key>
+			<string>aLive vs Nestea on IPL4</string>
+			<key>fightType</key>
+			<string>tvz</string>
+			<key>repStrategy</key>
+			<string>111</string>
+			<key>repName</key>
+			<string>aLive_tvz_Nestea_IPL4_111_Cloud Kindom</string>
+			<key>showRace</key>
+			<string>terran</string>
+			<key>player</key>
+			<string>aLive</string>
+		</dict>
+	</array>
+	<key>Symbol</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Daybreak</string>
+			<key>repInfo</key>
+			<string>2012.05.24 vs Polt on MSI Pro Cup </string>
+			<key>fightType</key>
+			<string>zvt</string>
+			<key>repStrategy</key>
+			<string>2base 4Queen then 3base</string>
+			<key>repName</key>
+			<string>Symbol_zvt_Polt_on_daybreak_4queen</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Symbol</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Ohana</string>
+			<key>repInfo</key>
+			<string>2012.06.14 vs LoveCD on TSL4 cup</string>
+			<key>fightType</key>
+			<string>zvp</string>
+			<key>repStrategy</key>
+			<string>3base mutalisk+zergling+baneing</string>
+			<key>repName</key>
+			<string>Symbol_zvp_ LoveCD_Mutalisk_zerging_baneing</string>
+			<key>showRace</key>
+			<string>zerg</string>
+			<key>player</key>
+			<string>Symbol</string>
+		</dict>
+	</array>
+	<key>Squirtle</key>
+	<array>
+		<dict>
+			<key>mapName</key>
+			<string>Antiga Shipyard</string>
+			<key>repInfo</key>
+			<string>2012.04.09 vs Nestea on IPL4</string>
+			<key>fightType</key>
+			<string>pvz</string>
+			<key>repStrategy</key>
+			<string>1base 3bg rush</string>
+			<key>repName</key>
+			<string>Squirtle vs Nestea pvz 3bg attack IPL4</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>Squirtle</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Atlantis Spaceship</string>
+			<key>repInfo</key>
+			<string>2012.04.09 vs MMA on IPL4</string>
+			<key>fightType</key>
+			<string>pvt</string>
+			<key>repStrategy</key>
+			<string>2 base Colossus</string>
+			<key>repName</key>
+			<string>Squirtle vs MMA 2 base Colossus IPL4</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>Squirtle</string>
+		</dict>
+		<dict>
+			<key>mapName</key>
+			<string>Cloud Kingdom</string>
+			<key>repInfo</key>
+			<string>2012.04.09 vs MKP on IPL4</string>
+			<key>fightType</key>
+			<string>pvt</string>
+			<key>repStrategy</key>
+			<string>2 base Colossus</string>
+			<key>repName</key>
+			<string>Squirtle vs MKP 2 base Colossus IPL4</string>
+			<key>showRace</key>
+			<string>protoss</string>
+			<key>player</key>
+			<string>Squirtle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
